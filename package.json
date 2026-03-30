@@ -1,0 +1,22 @@
+{
+  "name": "buyfaster-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "install:all": "npm install",
+    "dev:web": "npm run dev --workspace=apps/web",
+    "dev:mobile": "npm run start --workspace=apps/mobile",
+    "build:web": "npm run build --workspace=apps/web",
+    "build:mobile": "npm run build --workspace=apps/mobile",
+    "build:all": "npm run build --workspaces",
+    "clean": "npm run clean --workspaces --if-present",
+    "lint:web": "npm run lint --workspace=apps/web",
+    "test": "npm run test --workspaces --if-present"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.3"
+  }
+}
