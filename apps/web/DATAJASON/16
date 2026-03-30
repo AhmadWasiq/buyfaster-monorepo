@@ -1,0 +1,442 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/236e4a29c43c3fc1ae25bd6e699f21ec/p_1500x1500/3270190204008-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-pur-beurre-carrefour-original-3270190204008?t=28215",
+    "name": "Pâte feuilletée pur beurre CARREFOUR ORIGINAL",
+    "price": 1.16,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse pâte feuilletée au beurre prête à dérouler, fabriquée en France avec du blé origine France et du beurre de l'Union Européenne. Idéale pour toutes vos recettes salées ou sucrées, elle se déguste aussi bien chaude que froide. Facile à manipuler, il vous suffit de la dérouler et de la disposer dans votre moule. Avec sa cuisson au four entre 30 et 35 minutes, vous obtiendrez une pâte dorée et croustillante. À conserver entre 0°C et +6°C pour une fraîcheur optimale. N'oubliez pas de trier les emballages pour préserver notre planète.",
+    "scraped_at": "2025-09-25T18:09:30.226Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3277f6b766ec39c49cab882da5f4ee2c/p_1500x1500/3560070959716-1.jpg",
+    "url": "https://www.carrefour.fr/p/pate-brisee-simpl-3560070959716?t=28215",
+    "name": "Pâte brisée SIMPL",
+    "price": 0.56,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Farine de BLE, eau, margarine végétale (palme), huiles végétales (colza, tournesol), alcool, sucre, sel, vinaigre d'alcool, émulsifiant : mono- et diglycérides d'acides gras, levure désactivée, acidifiant : acide citrique, colorant : caroténoïdes.\nPeut contenir des traces de LAIT",
+    "scraped_at": "2025-09-25T18:09:30.498Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a504484a47cd30e785bc835c6c821ae4/p_1500x1500/03337040002532-a1r1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/galettes-de-ble-noir-ty-nad-3337040002532?t=28215",
+    "name": "Galettes de blé noir TY NAD",
+    "price": 2.20,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Eau\nFarine de BLE noir (47 % aprés cuisson)\nSel\nHuile de tournesol utilisée comme agent de graissage.",
+    "scraped_at": "2025-09-25T18:09:32.791Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/eaada9476d664eba91e53cc245340a14/p_1500x1500/07613035928718_H1N1_s58.png",
+    "url": "https://www.carrefour.fr/p/pates-a-pizza-fines-rectangulaires-herta-7613035928718?t=28215",
+    "name": "Pâtes à pizza fines rectangulaires HERTA",
+    "price": 3.50,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La Pâte à Pizza Fine Herta dans une forme rectangulaire, pour des maxi pizzas savoureuses et croustillantes ! Un format ultra convivial à couper en petits carrés pour l'apéritif ! Pour varier les plaisirs et trouver de nouvelles idées pour personnaliser vos recettes, découvrez toutes nos astuces culinaires sur www.herta.fr.",
+    "scraped_at": "2025-09-25T18:09:56.047Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/83a6fb8583d13a2891cd35a07a299e28/p_1500x1500/3760042990079-photosite-20190326-165154-0.jpg",
+    "url": "https://www.carrefour.fr/p/feuilles-de-brick-l-authentique-mil-brick-3760042990079?t=28215",
+    "name": "Feuilles de brick l'Authentique MIL BRICK",
+    "price": 0.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Farine de BLE (34%), eau, sel, huile de tournesol, conservateurs : propionate de calcium, acide sorbique, acidifiant: acide lactique, émulsifiant : lécithine de SOJA.",
+    "scraped_at": "2025-09-25T18:10:05.252Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/148a4827100c375eb1543b87dc220413/p_1500x1500/3567500070102-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-vite-bon-3567500070102?t=28215",
+    "name": "Pâte feuilletée VITE BON !",
+    "price": 2.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "FARINE DE BLE, eau, graisses et huiles végétales (palme, tournesol), alcool éthylique, sel, jus de citron concentré, agent de traitement de la farine : L-cystéine.\nPeut contenir des traces de LAIT.",
+    "scraped_at": "2025-09-25T18:10:06.146Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/09652cafa357345cbad371e9b8667086/p_1500x1500/3560070959686-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-simpl-3560070959686?t=28215",
+    "name": "Pâte feuilletée SIMPL",
+    "price": 0.56,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Farine de BLE, eau, huiles et graisses végétales (palme, tournesol) ,alcool éthylique, sel, jus de citron concentré, agent de traitement de la farine : L-cystéine.\nPeut contenir des traces de LAIT",
+    "scraped_at": "2025-09-25T18:10:09.051Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5f104facc41a3ce5a24c81e88fef277b/p_1500x1500/3560070391073-photosite-20170620-162525-0.jpg",
+    "url": "https://www.carrefour.fr/p/galette-de-ble-noir-carrefour-bio-3560070391073?t=28215",
+    "name": "Galette de blé noir CARREFOUR BIO",
+    "price": 1.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos 4 galettes de blé noir certifiées biologiques, fabriquées en France avec des ingrédients français. Idéales pour accompagner toutes vos garnitures préférées, ces galettes sont conservées sous atmosphère protectrice pour une fraîcheur optimale.",
+    "scraped_at": "2025-09-25T18:10:10.950Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8ef3031b050336f5a9300eb10b321fa1/p_1500x1500/3276550585619-photosite-20210618-164105-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-carrefour-3276550585619?t=28215",
+    "name": "Pâte feuilletée CARREFOUR",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Farine de BLE (GLUTEN, farine de BLE malté), BEURRE 34%, eau, sucre, sel.Dans le cas d'une fabrication et / ou manipulation en magasin, le personnel manipule les allergènes suivants au sein de leurs ateliers : Céréales contenant du GLUTEN - OEUF - POISSON - ARACHIDE - SOJA - LAIT - FRUIT À COQUE - MOUTARDE - GRAINE DE SESAME - SULFITE. Nous ne pouvons par ailleurs pas exclure la contamination des …",
+    "scraped_at": "2025-09-25T18:10:11.150Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d2ef6736fbdb43ec89c4587d6e6fb0a1/p_1500x1500/07613035648494_H1N1_s82.png",
+    "url": "https://www.carrefour.fr/p/pate-a-pizza-fine-et-ronde-herta-7613035648494?t=28215",
+    "name": "Pâte à pizza fine et ronde HERTA",
+    "price": 1.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une pizza les yeux fermés ? C'est possible grâce à la pâte à pizza Fine et ronde de HERTA ! Quelques cuillerées de sauce tomate ou de crème, une poignée d'ingrédients et le tour est joué ! Dorée au four, c'est un délice… Pour varier les plaisirs et trouver de nouvelles idées pour personnaliser vos recettes, découvrez toutes nos astuces culinaires sur www.herta.fr.",
+    "scraped_at": "2025-09-25T18:10:13.454Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9c93e20fac88322f83c7132c25983c02/p_1500x1500/3567500072526-photosite-20170801-161359-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-a-pizza-3567500072526?t=28215",
+    "name": "Pâte à pizza",
+    "price": 4.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pâte à pizza\nfarine de BLÉ\neau\nhuile de colza\nalcool éthylique\nsel\npoudres à lever : diphosphate disodique, carbonate acide de sodium\nstabilisant : gomme de guar\nlevure désactivée\nlevure\nPeut contenir des traces de LAIT et d'ŒUF.",
+    "scraped_at": "2025-09-25T18:10:13.949Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/dcd277039c003c3fb95605f0e0876329/p_1500x1500/3276550585411-photosite-20180106-044728-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-a-pain-3276550585411?t=28215",
+    "name": "Pâte à pain",
+    "price": 1,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Farine de BLE (GLUTEN, farine de BLE malté), eau, sel, levure.Dans le cas d'une fabrication et / ou manipulation en magasin, le personnel manipule les allergènes suivants au sein de leurs ateliers : Céréales contenant du GLUTEN - OEUF - POISSON - ARACHIDE - SOJA - LAIT - FRUIT À COQUE - MOUTARDE - GRAINE DE SESAME - SULFITE. Nous ne pouvons par ailleurs pas exclure la contamination des matières premières en LUPIN et CELERI.",
+    "scraped_at": "2025-09-25T18:10:18.444Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d8bf00322139315aac76b1fa6c40a960/p_1500x1500/3560070454747-photosite-20210212-185321-0.jpg",
+    "url": "https://www.carrefour.fr/p/feuilles-de-brick-sale-sucre-carrefour-sensation-3560070454747?t=28215",
+    "name": "Feuilles de brick salé sucré CARREFOUR SENSATION",
+    "price": 0.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les feuilles de brick Carrefour Sensation, idéales pour vos préparations salées ou sucrées. Avec leur texture croustillante et leur délicieux goût, elles vous permettent de réaliser de savoureuses samoussas, aumônières et cigares. Prêtes en seulement quelques minutes de cuisson à la friteuse, à la poêle ou au four, elles sont parfaites pour régaler vos convives lors de toutes occasions. À conserver au frais entre 0°C et +8°C pour préserver toute leur fraîcheur.",
+    "scraped_at": "2025-09-25T18:10:23.346Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8524d07b476e37c2a9b85edaa2d4378a/p_1500x1500/3560070962723-photosite-20160905-083338-0.jpg",
+    "url": "https://www.carrefour.fr/p/crepes-au-sucre-de-canne-carrefour-bio-3560070962723?t=28215",
+    "name": "Crêpes au sucre de canne CARREFOUR BIO",
+    "price": 2.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses crêpes moelleuses au sucre de canne, issues de l'agriculture biologique, fabriquées en Bretagne avec des ingrédients de qualité tels que de la farine française, des œufs et du lait en poudre. Savourez-les froides ou chaudes, nature ou accompagnées de vos garnitures préférées pour un moment gourmand à tout moment de la journée.",
+    "scraped_at": "2025-09-25T18:10:24.046Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1e38537239a63de7b9f41fe99323cc78/p_1500x1500/3354111151104-photosite-20161116-162619-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-biscuiterie-husson-3354111151104?t=28215",
+    "name": "Pâte feuilletée BISCUITERIE HUSSON",
+    "price": 1.90,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nFarine de blé (contient du GLUTEN), graisses et huiles végétales non hydrogénées (palme et colza), eau, sel, émulsifiant non-diglycérides d'acides gras E471, conservateur : sorbate de potassium E202, acidifiant acide citrique E330, colorant bêta-carotène E160a, arômes, eau, sel, jus de citron concentré.\nTraces éventuelles de LAIT et d'ŒUF.\nSans matière grasse hydrogénées.",
+    "scraped_at": "2025-09-25T18:10:26.347Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4fbf01ab6ca33c83a7c930d17c97969d/p_1500x1500/3245411307769-photosite-20210115-191146-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-sablee-carrefour-classic-3245411307769?t=28215",
+    "name": "Pâte sablée CARREFOUR CLASSIC'",
+    "price": 1.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse pâte sablée prête à dérouler Carrefour Classic. Idéale pour toutes vos recettes sucrées ou salées, elle vous offre une texture fondante et croustillante. Facile à manipuler, elle se déroule en un clin d'œil et se conserve facilement entre 0°C et +6°C après ouverture.",
+    "scraped_at": "2025-09-25T18:10:38.052Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e2f8324787254021b0bce84745300927/p_1500x1500/03154230600121_H1N1_s67.png",
+    "url": "https://www.carrefour.fr/p/pate-a-tarte-brisee-tarte-en-or-herta-3154230600121?t=28215",
+    "name": "Pâte à tarte brisée Tarte en Or HERTA",
+    "price": 1.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Grâce au savoir-faire HERTA, les pâtes à tarte TARTE EN OR vous permettent de réussir des tartes bien dorées et croustillantes. La garantie d'un résultat rapide pour vos tartes et quiches, avec une gamme de pâtes toutes prêtes à dérouler. La pâte Brisée TARTE EN OR cuit sans sécher ni détremper, en restant bien croquante ! Une vraie alliée pour toutes vos recettes salées ou sucrées !",
+    "scraped_at": "2025-09-25T18:10:40.651Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/38482f44dfe843cd84c10e9b53294301/p_1500x1500/03354111251101_H1R1_s01.png",
+    "url": "https://www.carrefour.fr/p/pate-brisee-biscuiterie-husson-3354111251101?t=28215",
+    "name": "Pâte Brisée BISCUITERIE HUSSON",
+    "price": 1.90,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "BLOC PATE BRISEE 500 GR",
+    "scraped_at": "2025-09-25T18:10:40.946Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/add540b4acf4455b94f4040a91edc0a8/p_1500x1500/03154230600183_H1N1_s88.png",
+    "url": "https://www.carrefour.fr/p/pate-a-tarte-feuilletee-tarte-en-or-herta-3154230600183?t=28215",
+    "name": "Pâte à tarte feuilletée Tarte en Or HERTA",
+    "price": 0.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Grâce au savoir-faire HERTA, les pâtes à tarte TARTE EN OR vous permettent de réussir des tartes bien dorées et croustillantes. La garantie d'un résultat parfait et rapide pour vos tartes et quiches, avec une gamme de pâtes toutes prêtes à dérouler. La pâte Feuilletée TARTE EN OR cuit sans sécher ni détremper, en restant bien croquante ! Une vraie alliée pour toutes vos recettes salées ou sucrées !",
+    "scraped_at": "2025-09-25T18:10:42.055Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3df78b08c6f53c28b402dc6ec71880ad/p_1500x1500/3270190022510-photosite-20201110-174601-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-carrefour-classic-3270190022510?t=28215",
+    "name": "Pâte feuilletée CARREFOUR CLASSIC'",
+    "price": 1.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre lot de 2 pâtes feuilletées prêtes à dérouler, idéales pour vos recettes sucrées ou salées. Ces pâtes sont faciles à manipuler et peuvent être savourées chaudes ou froides. Suivez les étapes simples de préparation et utilisez-les dès l'ouverture pour des résultats délicieux.",
+    "scraped_at": "2025-09-25T18:10:42.749Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/83b9f3d61cb7300c87516948490df066/p_1500x1500/3560071080518-photosite-20210317-013346-0.jpg",
+    "url": "https://www.carrefour.fr/p/kit-pizza-carrefour-classic-3560071080518?t=28215",
+    "name": "Kit pizza CARREFOUR CLASSIC'",
+    "price": 2.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Kit Pizza Carrefour Classic, composé d'une délicieuse pâte à pizza prête à dérouler et d'un pot de sauce tomate cuisinée. Régalez-vous avec une pizza faite maison en un tour de main, grâce à notre recette facile à préparer et à cuire au four. Créez votre propre mélange d'ingrédients et dégustez une pizza savoureuse chez vous, à tout moment de la journée.",
+    "scraped_at": "2025-09-25T18:10:47.449Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e74d9493db89341690ec78c8c39e6ad5/p_1500x1500/3560070367221-photosite-20210302-184222-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-a-pizza-carrefour-classic-3560070367221?t=28215",
+    "name": "Pâte à pizza CARREFOUR CLASSIC'",
+    "price": 1.45,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La pâte à pizza Carrrefour Classic est prête à dérouler pour vous offrir une base idéale pour vos créations culinaires. Facile à utiliser, il vous suffit de la sortir du réfrigérateur et de la dérouler immédiatement sur votre plaque de cuisson, de la piquer avec une fourchette et de la garnir selon vos envies. Sa texture épaisse et rectangulaire vous garantit une délicieuse pizza maison à chaque fois.",
+    "scraped_at": "2025-09-25T18:10:51.044Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/81e7b28b58bd3ca580528dcc559e95c5/p_1500x1500/3270190022596-photosite-20201110-174603-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-brisee-carrefour-3270190022596?t=28215",
+    "name": "Pâte brisée CARREFOUR",
+    "price": 1.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre lot de 2 pâtes brisées prêtes à dérouler Carrefour Classic. Parfaites pour réaliser vos recettes salées ou sucrées, ces pâtes sont faciles à manipuler et garantissent une cuisson dorée. À savourer chaudes ou froides, elles apportent une touche croustillante à vos plats.",
+    "scraped_at": "2025-09-25T18:10:55.545Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/bc5eda3ab42f421785875278c2e3d201/p_1500x1500/03392590205772_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/pate-a-pizza-xxl-prete-a-derouler-croustipate-3392590205772?t=28215",
+    "name": "Pâte à Pizza XXL Prête à Dérouler CROUSTIPATE",
+    "price": 2.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la nouvelle pâte à pizza XXL Croustipate qualité comme à la pizzeria 500g. Un résultat ultra gourmand sans effort et une pâte aérée et croustillante ! Un format familial et généreux pour régaler toute votre famille et/ou vos amis. Plus besoin d'aller au restaurant, le meilleur est déjà chez vous !",
+    "scraped_at": "2025-09-25T18:11:02.446Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c09f3c7adfa042f3935f8045f13c26a7/p_1500x1500/03337040002716_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/galettes-bio-de-ble-noir-ty-nad-3337040002716?t=28215",
+    "name": "Galettes bio de blé noir TY NAD",
+    "price": 2.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Galettes pur blé noir issues de l'Agriculture Biologique",
+    "scraped_at": "2025-09-25T18:11:02.750Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/20f30e51a31e314eb31cd1c0155fcd41/p_1500x1500/03413900000020-a1l1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/galettes-fraiches-creperie-colas-3413900000020?t=28215",
+    "name": "Galettes fraîches CREPERIE COLAS",
+    "price": 3.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients\n\nEau, farine de Sarrasin, sel de Guérande\n\nTraces possible de : GLUTEN, LAIT, FRUITS A COQUES, OEUFS, SOJA\n\nNom légal\n\nGALETTES BLE NOIR X 6\n\nValeurs nutritionnelles\n\nValable pour :\n\nTableau de valeurs nutritionnelles complet\nValeurs nutritionnelles pour 100 g\nvaleur énergétique (kJ) 657.1 kJ / 100 g\nvaleur énergétique (kcal) 155.5 kcal / 100 g\nmatières grasses 1.9 g / 100 g\nacides gras saturés 0.37 g / 100 g\nglucides 30.4 g / 100 g\nsucres 0.5 g / 100 g\nprotéines 5.6 g / 100 g\nsel 1.13 g / 100 g",
+    "scraped_at": "2025-09-25T18:11:03.949Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/83049827afb43fb0b3f7f3faad5ad7ac/p_540x540/3270190204015-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-brisee-pur-beurre-carrefour-original-3270190204015?t=28215",
+    "name": "Pâte brisée pur beurre CARREFOUR ORIGINAL",
+    "price": 1.21,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse pâte brisée au beurre prête à dérouler, élaborée avec du blé origine France et du beurre fabriqué dans l'Union Européenne. Parfaite pour toutes vos recettes salées ou sucrées, elle peut être dégustée chaude ou froide. Facile à manipuler, votre préparation sera un vrai succès grâce à notre pâte au goût authentique et croustillant.",
+    "scraped_at": "2025-09-25T18:11:04.644Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a716edece59b3c8d9748e7ceae5295f9/p_1500x1500/3270190022534-photosite-20210126-172828-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-carrefour-classic-3270190022534?t=28215",
+    "name": "Pâte feuilletée CARREFOUR CLASSIC'",
+    "price": 0.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la pâte feuilletée prête à dérouler Carrefour Classic', idéale pour toutes vos recettes salées ou sucrées. Sa texture légère et croustillante ravira vos papilles, que vous la savouriez chaude ou froide. Son emballage pratique permet une manipulation facile pour une préparation rapide.",
+    "scraped_at": "2025-09-25T18:11:05.352Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/023f31e2051946208fa5ff50896d6073/p_540x540/3560071534486_0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-farine-complete-carrefour-classic-3560071534486?t=28215",
+    "name": "Pâte feuilletée farine complète CARREFOUR CLASSIC'",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Farine de BLE, eau, huiles et graisses végétales (graisse de palme, huile de colza), farine de BLE complète 4,8%, alcool éthylique, sel, jus de citron, levure désactivée.\nPeut contenir des traces de LAIT.",
+    "scraped_at": "2025-09-25T18:11:06.449Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/438f9b1cbe844d55814e7c3ad94f90f3/p_540x540/03154230813095_H1N1_s52.png",
+    "url": "https://www.carrefour.fr/p/pate-a-tarte-sablee-pur-beurre-tresor-de-grand-mere-herta-3154230813095?t=28215",
+    "name": "Pâte à tarte sablée pur beurre Trésor de grand-mère HERTA",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Avec les pâtes à tartes TRESOR DE GRAND MERE de HERTA, obtenez des fonds de tartes gourmands et croustillants, qui tiennent bien après cuisson, même avec des fruits juteux ou une garniture à base de lait ! Leur petit secret ? Une pâte à tarte plus épaisse* ! La pâte à tarte TRESOR DE GRAND MERE sablée tient toutes ses promesses pour des préparations sucrées gourmandes et réussies qui accompagnent de vrais moments de convivialité. *Par rapport à la moyenne du marché.",
+    "scraped_at": "2025-09-25T18:11:07.347Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0023ddac2d5244c38489f48129a58d52/p_1500x1500/03242272346050_A1N1_s09.png",
+    "url": "https://www.carrefour.fr/p/pizza-dolce-prosciutto-mozzarella-chiffonnade-de-jambon-sodebo-3242272346050?t=28215",
+    "name": "Pizza Dolce Prosciutto mozzarella chiffonnade de jambon SODEBO",
+    "price": 3.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La pizza à partager à la pâte fine et croustillante, inspirée des pizzerias italiennes",
+    "scraped_at": "2025-09-25T18:11:11.043Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1dc18ef417f53e10801901692639ea82/p_1500x1500/3560071242589-photosite-20201218-154238-1.jpg",
+    "url": "https://www.carrefour.fr/p/pate-brisee-pur-beurre-carrefour-bio-3560071242589?t=28215",
+    "name": "Pâte brisée pur beurre CARREFOUR BIO",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Profitez de la qualité supérieure de notre pâte brisée pur beurre biologique, fabriquée avec des ingrédients issus de l'agriculture biologique. Facile à préparer, elle vous permettra de réaliser de délicieuses tartes sucrées ou salées selon vos envies.",
+    "scraped_at": "2025-09-25T18:11:13.050Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8695b3477e1a4b86b8b4864cb65f10b6/p_540x540/07613035648463_H1N1_s99.png",
+    "url": "https://www.carrefour.fr/p/pate-a-pizza-fine-et-rectangulaire-herta-7613035648463?t=28215",
+    "name": "Pâte à pizza fine et rectangulaire HERTA",
+    "price": 1.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La Pâte à Pizza Fine, une forme rectangulaire, pour des maxi pizzas savoureuses et croustillantes ! Un format ultra convivial à couper en petits carrés pour l'apéritif ! Pour varier les plaisirs et trouver de nouvelles idées pour personnaliser vos recettes, découvrez toutes nos astuces culinaires sur www.herta.fr.",
+    "scraped_at": "2025-09-25T18:11:15.445Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1846765ba01d3bd0ba198abb6a86308a/p_1500x1500/3270190022527-photosite-20210223-182945-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-brisee-carrefour-classic-3270190022527?t=28215",
+    "name": "Pâte brisée CARREFOUR CLASSIC'",
+    "price": 0.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La pâte brisée prête à dérouler Carrefour Classic est la solution idéale pour toutes vos recettes sucrées ou salées. Facile à manipuler, elle se déroule rapidement et se prépare en un clin d'œil. Savourez-la chaude ou froide pour une expérience gustative délicieuse.",
+    "scraped_at": "2025-09-25T18:11:18.548Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ff33c94e557946579efc4af529ce9992/p_1500x1500/03154230805984_H1N1_s52.png",
+    "url": "https://www.carrefour.fr/p/pate-a-tarte-feuilletee-sans-huile-de-palme-tarte-en-or-herta-3154230805984?t=28215",
+    "name": "Pâte à tarte feuilletée sans huile de palme Tarte en Or HERTA",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Grâce au savoir-faire HERTA, les pâtes à tarte TARTE EN OR vous permettent de réussir des tartes dorées et croustillantes. Sans huile de palme, la pâte Feuilletée TARTE EN OR offre la garantie d'un résultat bon et rapide pour vos tartes et quiches. La pâte TARTE EN OR Feuilletée Sans Huile de Palme est bien croquante ! Une vraie alliée pour toutes vos recettes salées ou sucrées !",
+    "scraped_at": "2025-09-25T18:11:20.655Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/924aa11a649143889cbb11f69b8c805b/p_1500x1500/03760080260097_A1R1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/galettes-a-l-ancienne-creperie-de-guerledan-3760080260097?t=28215",
+    "name": "Galettes à l'ancienne CREPERIE DE GUERLEDAN",
+    "price": 2.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une galette très généreuse et typique de la tradition du Centre Bretagne. Cette recette familiale est élaborée avec une farine de Blé Noir exclusive. Le pétrissage avec l'eau, la farine de froment et les œufs est très long de même que le temps de pose pour permettre à la pâte de s'hydrater lentement. La cuisson doit être très lente de chaque côté de façon à reproduire la cuisson au feu de bois en grillant légèrement la surface pour lui donner son goût si typique des céréales toastées. Elle conserve une grande souplesse à la conservation et à la dégustation. C'est sans aucun doute l'une des plus anciennes recettes de galettes en Bretagne.",
+    "scraped_at": "2025-09-25T18:11:21.247Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/72297f13362239fe88ca77ce493c1077/p_1500x1500/3531151111224-photosite-20180710-162219-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-brisee-bio-logik-3531151111224?t=28215",
+    "name": "Pâte brisée BIO LOGIK",
+    "price": 1.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nFarine de BLE T65*, eau, matières grasses végétales non hydrogénées* (palme* et tournesol*), sel de Guérande, jus de citron concentré*. *Ingrédients issus de l'Agriculture Biologique.\nPeut contenir des traces de LAIT et de SOJA.",
+    "scraped_at": "2025-09-25T18:11:25.748Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5e5c7b6a1e004676a64c94973ab48327/p_1500x1500/03248830971443_C1N1_s34.jpeg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-gourmande-pur-beurre-marie-3248830971443?t=28215",
+    "name": "Pate Feuilletée Gourmande Pur Beurre MARIE",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une pâte feuilletée plus épaisse (280g vs 230g sur la gamme standard) qui tient parfaitement après la cuisson, même avec des légumes ou des fruits juteux, tout en restant à la fois bien croustillante.",
+    "scraped_at": "2025-09-25T18:11:27.445Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/47802a52191f47398984ba2776fa9491/p_1500x1500/03663219009256_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/crepes-chocolat-noisette-dessaint-traiteur-3663219009256?t=28215",
+    "name": "Crêpes Chocolat Noisette DESSAINT TRAITEUR",
+    "price": 2.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "une crêpe parfumée au chocolat pour tous les gourmands",
+    "scraped_at": "2025-09-25T18:11:29.945Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5ac76b4fa71f410ba35d67a8c799fa5f/p_1500x1500/3245390089854_0.jpg",
+    "url": "https://www.carrefour.fr/p/galettes-de-sarrasin-reflets-de-france-3245390089854?t=28215",
+    "name": "Galettes de sarrasin REFLETS DE FRANCE",
+    "price": 2.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les authentiques galettes de sarrasin préparées en Bretagne selon une recette ancestrale. Elles sont confectionnées avec de la farine de sarrasin de l'ouest de la France, mélangée simplement à de l'eau et du sel de Guérande, puis cuites à haute température avec de l'huile de tournesol. Leur texture aérée et leur belle couleur châtaigne raviront vos papilles.",
+    "scraped_at": "2025-09-25T18:11:31.545Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ed8fee4ebdb93d3bb4c120c700a4b2dd/p_540x540/3245412801013-photosite-20210427-173644-0.jpg",
+    "url": "https://www.carrefour.fr/p/pate-a-pizza-fine-et-ronde-carrefour-classic-3245412801013?t=28215",
+    "name": "Pâte à pizza fine et ronde CARREFOUR CLASSIC'",
+    "price": 1.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la pâte à pizza prête à dérouler Carrefour Classic, fine et ronde. Fabriquée avec des ingrédients de qualité tels que la farine de blé et l'huile de colza, cette pâte vous permettra de préparer facilement de délicieuses pizzas maison. Son format pratique et sa conservation entre 0°C et +4°C vous garantissent une fraîcheur optimale.",
+    "scraped_at": "2025-09-25T18:11:32.149Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b85a0b4201ee4f7b930cd37348e9cf76/p_1500x1500/03760080260073_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/galettes-du-pays-a-l-ancienne-creperie-de-guerledan-3760080260073?t=28215",
+    "name": "Galettes du pays à l'ancienne CREPERIE DE GUERLEDAN",
+    "price": 4.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une galette très généreuse et typique de la tradition du Centre Bretagne. Cette recette familiale est élaborée avec une farine de Blé Noir exclusive. Le pétrissage avec l'eau, la farine de froment et les œufs est très long de même que le temps de pose pour permettre à la pâte de s'hydrater lentement. La cuisson doit être très lente de chaque côté de façon à reproduire la cuisson au feu de bois en grillant légèrement la surface pour lui donner son goût si typique des céréales toastées. Elle conserve une grande souplesse à la conservation et à la dégustation. C'est sans aucun doute l'une des plus anciennes recettes de galettes en Bretagne.",
+    "scraped_at": "2025-09-25T18:11:33.145Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7a4c823a531a4155aed37cf330fe6427/p_1500x1500/03392590203662_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/pate-feuilletee-sans-gluten-croustipate-3392590203662?t=28215",
+    "name": "Pâte Feuilletée Sans Gluten CROUSTIPATE",
+    "price": 2.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une pâte Feuilletée Sans Gluten élaborée dans une atelier dédié aux produits Sans gluten pour toutes personnes intolérantes au gluten ou à la recherche de bien être.",
+    "scraped_at": "2025-09-25T18:11:37.963Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5611c6b1335240c1bb90d00604c16f8d/p_1500x1500/03760080260035_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/galettes-bio-creperie-de-guerledan-3760080260035?t=28215",
+    "name": "Galettes bio CREPERIE DE GUERLEDAN",
+    "price": 2.40,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une grande galette obtenue grâce à une sélection de grains de blé noir récoltés en France et issus de l'agriculture biologique, broyés au moulin voisin. Un pétrissage lent avec de l'eau et du sel, un temps de pose indispensable et une cuisson des 2 faces comme autrefois. Tout cela permet d'obtenir une galette bien goûtée, souple mais sans trous permettant une bonne résistance lors du garnissage. Sa finesse la rend digeste tout en étant copieuse grâce à un grammage important.",
+    "scraped_at": "2025-09-25T18:11:38.548Z"
+  }
+]

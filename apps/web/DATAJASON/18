@@ -1,0 +1,432 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/2b050f8abfee4a1cad2ca722df91fcdc/p_1500x1500/03302740100598_H1N1_s07.jpeg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-lasagnes-vege-bolognaise-fleury-michon-3302740100598?t=28363",
+    "name": "Plat Cuisiné Lasagnes Végé Bolognaise FLEURY MICHON",
+    "price": 2.57,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une recette 100% végétarienne ! Des pâtes aux oeufs frais, une bolognaise cuisinée avec des légumes et de la protéine de pois, le tout gratiné à la béchamel et mozzarella au four dans une barquette en bois !",
+    "scraped_at": "2025-09-25T22:50:44.349Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4ae81b3fda214c97955c19a45f527e05/p_1500x1500/3276555441149_0.jpg",
+    "url": "https://www.carrefour.fr/p/pommes-de-terre-dorees-3276555441149?t=28363",
+    "name": "Pommes de terre dorées",
+    "price": 1.43,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Conseils conso",
+    "scraped_at": "2025-09-25T22:51:01.768Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c16f4580e41b3432af893ef481d5e5e6/p_1500x1500/3276558502106-photosite-20210616-050144-0.jpg",
+    "url": "https://www.carrefour.fr/p/samoussa-boeuf-3276558502106?t=28363",
+    "name": "Samoussa bœuf",
+    "price": 0.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Samoussa bœuf\nFeuille de brick (farine de BLE, eau, sel, huile de tournesol, conservateurs : E200, E282, émulsifiant : lécithine de SOJA), viande de bœuf 23%, tomate, vermicelle réhydraté (eau, amidon de pois), carotte, oignon, sucre, sel, épices, chapelure (BLE), plantes aromatiques, colorant : extrait de paprika, sucre caramélisé, huile de tournesol.\nTraces éventuelles de crustacé, POISS…",
+    "scraped_at": "2025-09-25T22:51:04.462Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/00353edc918f32218b3f12f4bafdcad6/p_1500x1500/8711118010073-0.jpg",
+    "url": "https://www.carrefour.fr/p/pommes-dorees-8711118010073?t=28363",
+    "name": "Pommes dorées",
+    "price": 1.72,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "97% pommes de terre, 3% huiles végétales (huile de tournesol, huile de colza), sel, émulsifiants (esters citriques des mono- et diglycérides d'acides gras, lécithines de tournesol), arôme, colorant (extrait de carotte).",
+    "scraped_at": "2025-09-25T22:51:09.463Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1a3c16ea6f944d9e8ecb46f44e493022/p_1500x1500/3276556643757_0.jpg",
+    "url": "https://www.carrefour.fr/p/pommes-de-terre-wedge-3276556643757?t=28363",
+    "name": "Pommes de terre wedge",
+    "price": 1.28,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Contacts & mentions\n\nConservation\n\nA conserver entre O°C et 4°C",
+    "scraped_at": "2025-09-25T22:51:11.968Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/dd05209d73d83db0b046d806cfc91ece/p_1500x1500/3560070941629-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-lasagnes-chevres-epinards-carrefour-extra-3560070941629?t=28363",
+    "name": "Plat cuisiné lasagnes chèvres épinards CARREFOUR EXTRA",
+    "price": 3.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses Lasagnes Chèvre-Épinard Carrefour Extra, un mariage savoureux entre le fromage de chèvre fondant et les épinards frais, le tout gratiné à l'emmental râpé. Un plat gourmand et équilibré, idéal pour une pause déjeuner ou un dîner rapide et facile à préparer.",
+    "scraped_at": "2025-09-25T22:51:14.462Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/404ab9190eaf385e8c6d609e402e8349/p_1500x1500/3276558502090-photosite-20210616-050039-0.jpg",
+    "url": "https://www.carrefour.fr/p/nem-aux-crevettes-3276558502090?t=28363",
+    "name": "Nem aux crevettes",
+    "price": 1.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients : Nems (8x65g) : Galette de riz 34,7% (eau, farine de riz, huile de tournesol, sel), CREVETTE 18,9% (CREVETTE, sel, conservateur : DISULFITE de sodium), vermicelle de pois réhydraté, carotte, oignon, protéine de SOJA réhydratée, fécule de manioc, ciboule, chair de CRABE 1,3%, champignon noir réhydraté, sauce POISSON (POISSON, sel, eau), purée d'ail, sel, sucre, fibre de bambou, poivre.…",
+    "scraped_at": "2025-09-25T22:51:16.566Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/48654b5ddce342fabd18c8b02584fe24/p_1500x1500/3523680260887_0.jpg",
+    "url": "https://www.carrefour.fr/p/gratin-dauphinois-3523680260887?t=28363",
+    "name": "Gratin Dauphinois",
+    "price": 3,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pomme de terre (70,7%), sauce (24,8%) (eau, CREME, LAIT écrémé, sel, amidon de maïs modifié, dextrose, arôme (LAIT), ail en poudre, stabilisant : diphosphate disodique et gomme de guar), Comté râpé (4,5%) (LAIT cru de vache, sel, ferments lactiques, présure).",
+    "scraped_at": "2025-09-25T22:51:17.662Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ab16ce3686b43b16976190f7a10f2825/p_1500x1500/3276558079608-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-tomate-farcie-a-la-viande-de-porc-et-riz-a-la-tomate-3276558079608?t=28363",
+    "name": "Plat cuisiné tomate farcie à la viande de porc et riz à la tomate",
+    "price": 0.46,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Tomate 39%, riz cuit 24% (eau, riz), concassé de tomate à la purée de tomate 10% (tomate pelée concassée, purée de tomate), viande de porc 7% (origine : France), eau, LAIT demi-écrémé, huile de tournesol,oignon, vin blanc, chapelure (farine de BLE, sel), pulpe d'ail, double concentré de tomate 0,8%, persil, sel, MOUTARDE de Dijon (eau, graines de MOUTARDE), vinaigre, sel, conservatuer : SULFITE ac…",
+    "scraped_at": "2025-09-25T22:51:19.063Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f4afeb2f30a84fa9b7434844ddedead9/p_1500x1500/3276558385402_0.jpg",
+    "url": "https://www.carrefour.fr/p/pommes-de-terre-grenaille-a-la-mexicaine-3276558385402?t=28363",
+    "name": "Pommes de terre grenaille à la mexicaine",
+    "price": 1.06,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pommes de terre coupées en deux en barquette avec vinaigrette - Ingrédients : 91% de pommes de terre, 9% de vinaigrette (huiles végétales : huile de colza et huile de tournesol, légumes déshydratés : tomates, oignons, poivrons et ail, sel, épices, amidon de maïs modifié, herbes, arômes, colorant : extrait de paprika). Produit aux Pays-Bas.",
+    "scraped_at": "2025-09-25T22:51:19.562Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/46f3ddaca47d4d25b691583725d6af78/p_1500x1500/3560070927777_1.jpg",
+    "url": "https://www.carrefour.fr/p/mini-nems-poulet-sauce-nuoc-mam-carrefour-sensation-3560070927777?t=28363",
+    "name": "Mini Nems poulet + sauce Nuoc mâm CARREFOUR SENSATION",
+    "price": 3.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieux Mini Nems Poulet Asia, composés de 8 galettes de riz garnies d'une farce à base de viande de poulet et accompagnées d'une sauce nuoc mâm. Préparez-les facilement au four en seulement 10 minutes ou à la poêle en 8 minutes. Un véritable voyage culinaire pour des moments savoureux et conviviaux.",
+    "scraped_at": "2025-09-25T22:51:20.970Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f4c832dedb7846ffa7b30233f8a2af3b/p_1500x1500/3245412763540_0.jpg",
+    "url": "https://www.carrefour.fr/p/beignets-crevette-carrefour-sensation-3245412763540?t=28363",
+    "name": "Beignets crevette CARREFOUR SENSATION",
+    "price": 2.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les délicieux beignets de crevettes Carrefour Sensation, accompagnés d'une savoureuse sauce aigre douce. Profitez de la qualité sans conservateur de notre recette pour une expérience gustative exceptionnelle.",
+    "scraped_at": "2025-09-25T22:51:29.266Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a8a420e1b52a33b9beb688cfbfcab10a/p_1500x1500/3276552191344-photosite-20210616-050110-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-gratin-mediterraneen-carrefour-3276552191344?t=28363",
+    "name": "Plat cuisiné gratin méditerranéen CARREFOUR",
+    "price": 3,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nGratin méditerranéen\nPomme de terre (55,4%), sauce (40,1%) (eau, LAIT écrémé, poivron rouge, huile de navette, CREME, fromage (LAIT), jaune d'ŒUF, sel, sucre, amidon de maïs modifié, fromage en poudre (LAIT), beurre (LAIT), arômes, piment rouge, protéines de LAIT, stabilisants : gomme de guar et diphosphate disodique, dextrose, herbes aromatiques, épices, vinaigre, maltodextrine, ail, oignon e…",
+    "scraped_at": "2025-09-25T22:51:28.573Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5fd81cdb03b63135ba336b88299a0da1/p_1500x1500/3560070905652-photosite-20210709-174651-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-fusilli-poulet-champignons-carrefour-extra-3560070905652?t=28363",
+    "name": "Plat cuisiné fusilli poulet champignons CARREFOUR EXTRA",
+    "price": 3.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses tagliatelles au poulet saumuré accompagnées d'une savoureuse sauce aux champignons. Un plat prêt en seulement 2 minutes 30 au micro-ondes qui ravira vos papilles grâce à ses ingrédients de qualité tels que le filet de poulet tendre et les champignons de Paris savoureux. Profitez d'un repas gourmand et pratique sans compromis sur le goût avec les pâtes alimentaires Carrefour Extra.",
+    "scraped_at": "2025-09-25T22:51:28.868Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/eb49f9f263553216a91c22df5fb9b68a/p_1500x1500/3523680380615-0.jpg",
+    "url": "https://www.carrefour.fr/p/gratin-mediterraneen-3523680380615?t=28363",
+    "name": "Gratin Méditerranéen",
+    "price": 6,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\n58% pommes de terre, 42% sauce {eau, LAIT écrémé, 8,4% poivron rouge, huile de colza, 2,6% crème (LAIT), fromage (LAIT), jaune d'ŒUF de\npoules élevées au sol, sel, sucre, amidon de maïs modifié, fromage en poudre (LAIT), beurre (LAIT), arômes, piment rouge, protéines de LAIT,\nstabilisants (diphosphates, gomme guar), dextrose, plantes aromatiques, épices, vinaigre, ail, oignon en poudre, to…",
+    "scraped_at": "2025-09-25T22:51:29.066Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/98d7e106dd6a36a3b6ee5603153d1192/p_1500x1500/3270190250418-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-couscous-poulet-merguez-carrefour-sensation-3270190250418?t=28363",
+    "name": "Plat cuisiné couscous poulet merguez CARREFOUR SENSATION",
+    "price": 3.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez une délicieuse recette traditionnelle de couscous aux légumes, poulet de France et merguez, accompagné d'une semoule parfumée à la cannelle et aux raisins secs. Un véritable voyage culinaire aux saveurs orientales à partager en famille ou entre amis. Succombez à ce plat généreux qui associe des légumes cuisinés dans un savoureux bouillon aux épices, un haut de cuisse de poulet tendre et des merguez savoureuses. Laissez-vous emporter par ce mélange de saveurs authentiques et parfumées pour un repas convivial et dépaysant.",
+    "scraped_at": "2025-09-25T22:51:34.063Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/422b0e41d81b47f989ec074261f67555/p_1500x1500/3560070636471_0.jpg",
+    "url": "https://www.carrefour.fr/p/nems-poulet-sauce-nuoc-mam-carrefour-sensation-3560070636471?t=28363",
+    "name": "Nems poulet sauce nuoc mam CARREFOUR SENSATION",
+    "price": 1.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses galettes de riz garnies d'une farce à base de viande de poulet accompagnée d'une savoureuse sauce nuoc mâm. Un plat gourmand et équilibré, idéal pour un repas rapide et authentique. Préparez-les au four ou à la poêle et régalez-vous en quelques minutes seulement.",
+    "scraped_at": "2025-09-25T22:51:35.268Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f9dd02f80b9543d79c5af8fe99eea3ca/p_1500x1500/3560070797394_1.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-macaroni-boulettes-de-viande-carrefour-3560070797394?t=28363",
+    "name": "Plat cuisiné macaroni boulettes de viande CARREFOUR",
+    "price": 2.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pâtes cuites, sauce tomate (39%) et boulettes à base d'une préparation de viande bovine cuite.",
+    "scraped_at": "2025-09-25T22:51:36.262Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ac1c595b15bc34adb073e97c1ab3b498/p_1500x1500/3276552191313-photosite-20160314-162222-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-gratin-de-champignons-carrefour-3276552191313?t=28363",
+    "name": "Plat cuisiné gratin de champignons CARREFOUR",
+    "price": 3.90,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nGratin champignon jus de truffe:\nPomme de terre (57,3%), sauce (38,2%) (eau, LAIT écrémé, huile végétale (huile de navette), champignon (4,8%), CREME, jaune d'ŒUF, huile d'olive, sel, sucre, fromage en poudre (LAIT), amidon de mais modifié, dextrose, stabilisants : gomme de guar et diphosphate de sodium, épices, arômes, oignon en poudre, ail en poudre, jus de truffe (tuber aestivum) (0,004%)),…",
+    "scraped_at": "2025-09-25T22:51:36.565Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a6272fbaa417346abd33963c707350c6/p_1500x1500/3276559955659-photosite-20210616-045831-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-choucroute-cuit-au-lard-3276559955659?t=28363",
+    "name": "Plat cuisiné Choucroute cuit au lard",
+    "price": 0.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "choucroute, Viande de porc, eau, sel, dextrose, sirop de glucose, conservateurs : E250-E252, antioxydant : E301-E316, arômes naturels, arôme de fumée, épice et extraits d'épices, huile de tournesol, vin, oignon\nTraces de baie de genièvre, arôme naturel de poivre, antioxydant : acide ascorbique",
+    "scraped_at": "2025-09-25T22:51:36.868Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/18b4e3e2d2f43218828c69babf94427c/p_1500x1500/3560070782017-0.jpg",
+    "url": "https://www.carrefour.fr/p/mini-samossas-boeuf-volaille-carrefour-sensation-3560070782017?t=28363",
+    "name": "Mini Samossas bœuf volaille CARREFOUR SENSATION",
+    "price": 3.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre assortiment de samoussas volaille et bœuf, accompagné d'une délicieuse sauce aigre douce. Parfait pour une expérience culinaire asiatique authentique, ces mini samoussas croustillants sont remplis d'ingrédients de qualité tels que la viande de boeuf et de poulet, des légumes croquants et une délicieuse combinaison d'épices et plantes aromatiques. Un plaisir gourmand à déguster à tout moment de la journée.",
+    "scraped_at": "2025-09-25T22:51:37.367Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2d372e92189539aa84e818d3e777b372/p_1500x1500/03276558206721-c1n1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-lasagnes-bolognaise-carrefour-le-marche-3276558206721?t=28363",
+    "name": "Plat cuisiné Lasagnes bolognaise CARREFOUR LE MARCHE",
+    "price": 8.50,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Eau, viande bovine 16% (origine : France), semoule de BLE dur, triple concentré de tomate, tomates, EMMENTAL, carottes, huile de colza, oignons, amidon modifié, farine de BLE, purée de carotte, huile d'olive vierge extra, LAIT écrémé en poudre, sel, plantes aromatiques, ail, épices. Traces éventuelles de POISSON, D'OEUF, DE SOJA ET DE MOUTARDE.",
+    "scraped_at": "2025-09-25T22:51:43.466Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5b430ac95a813b1a9c183c824efdff9e/p_1500x1500/3523680404489-photosite-20210616-050224-0.jpg",
+    "url": "https://www.carrefour.fr/p/pomme-de-terre-mini-grenaille-3523680404489?t=28363",
+    "name": "Pomme de terre mini grenaille",
+    "price": 1.50,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pomme de terre (précuites), eau, sel, affermissant : chlorure de calcium, assaisonnement (sel), épices (poivre blanc, piment doux, poivre noir, curcuma, macis, muscade, gingembre, cardamome, piment fort), aromates (origan, sarriettes, fenugrec), dextrose.",
+    "scraped_at": "2025-09-25T22:51:46.868Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0ddbcfc7378b32f29869b08f297bf089/p_1500x1500/3276556643771-photosite-20210608-182839-0.jpg",
+    "url": "https://www.carrefour.fr/p/pommes-de-terre-grenaille-cuite-sur-place-3276556643771?t=28363",
+    "name": "Pommes de terre grenaille cuite sur place",
+    "price": 1.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pomme de terre (précuites), eau, sel, affermissant : chlorure de calcium, assaisonnement (sel), épices (poivre blanc, piment doux, poivre noir, curcuma, macis, muscade, gingembre, cardamome, piment fort), aromates (origan, sarriettes, fenugrec), dextrose.",
+    "scraped_at": "2025-09-25T22:51:50.262Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6a775cf8318a324993cd66f877b416f4/p_1500x1500/03544800000206-a1c1-s03.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-choucroute-saveurs-d-alsace-3544800000206?t=28363",
+    "name": "Plat cuisiné choucroute SAVEURS D'ALSACE",
+    "price": 3.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Choucroute cuisinée aux Riesling et aux petits Lardons",
+    "scraped_at": "2025-09-25T22:51:52.666Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/45360698c84434a9a67afdcbb517eb03/p_1500x1500/3276552172992-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-poulet-curry-3276552172992?t=28363",
+    "name": "Plat cuisiné poulet curry",
+    "price": 2.12,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients à la mise en œuvre: Poulet (34%) (origine : UE), eau, oignons (15%), champignons\nde Paris (12%), bambous (10%), carottes (6%), huile de SOJA complètement raffinée, sucre, haricots princesses\n(3%), mange-tout (2%), curry (1.5%), ŒUFS, poivrons rouges, fécule de pommes de terre, aromates, sel, arôme\nnaturel, stabilisants : farine de guar E412, gomme de xanthane E415, huile de…",
+    "scraped_at": "2025-09-25T22:51:53.461Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/915facbdeb314554a7a0c6c1a14ac409/p_1500x1500/3245413284716_0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-spaghetti-bolognaise-carrefour-le-marche-3245413284716?t=28363",
+    "name": "Plat cuisiné Spaghetti bolognaise CARREFOUR LE MARCHE",
+    "price": 4,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Spaghetti cuit 55% (eau, semoule de BLE dur), eau, pulpe de tomate 10% (tomate 7,3%, jus de tomate, acidifiant : acide citrique), préparation de viande bovine* cuite 9% (viande bovine* 8,5%, eau, fécule de pomme de terre, sel), concentré de tomate 4,3%, oignon 3,4%, vin blanc, huile de tournesol, huile d'olive vierge extra, sel, ail 0,6%, arômes (contient LAIT), basilic 0,2%, sucre, épaississants …",
+    "scraped_at": "2025-09-25T22:51:53.967Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/af3c6fc98875434f92ae4ca24c0f99eb/p_1500x1500/03276558544854_A1C1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/brandade-de-morue-gratinee-carrefour-le-marche-3276558544854?t=28363",
+    "name": "Brandade de morue gratinée CARREFOUR LE MARCHE",
+    "price": 9.50,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "BARQUETTE 800G BRANDADE DE MORUE PARMENTIERE GRATINEE",
+    "scraped_at": "2025-09-25T22:51:55.070Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f6bef47ec45242318413f0cdc5e6d949/p_1500x1500/03266140063245_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-cassolette-ravioles-morilles-sauce-cremeuse-au-poivre-saint-jean-3266140063245?t=28363",
+    "name": "Plat cuisiné cassolette ravioles morilles sauce crémeuse au poivre SAINT JEAN",
+    "price": 5.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Saint Jean, pastier français depuis 1935, met aujourd'hui tout son savoir-faire au service d'une gamme Traiteur. Pratique, rapide et créative, elle sait répondre à chaque envie du quotidien. Saint Jean s'engage dans la réduction des emballages: -14% de plastique*, barquette issue à 80% de matérieux recyclés, -14% de carton*, fourreau carton imprimé à base d'encre végétale pour réduire l'empreinte écologique. *par rapport à notre ancien emballage",
+    "scraped_at": "2025-09-25T22:51:58.965Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d6b691ef778e3dfea3cd1f94ea08ec46/p_1500x1500/3276558083858-photosite-20211127-051945-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-poulet-tikka-massala-carrefour-le-marche-3276558083858?t=28363",
+    "name": "Plat cuisiné poulet tikka massala CARREFOUR LE MARCHE",
+    "price": 4.50,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Riz basmati cuit 40% (eau, riz basmati), filet de poulet 24% (origine UE), CREME 10% (contient stabilisant : carraghénanes), huile et graisse de SOJA entièrement raffinées, oignons, concentré de tomates, YAOURT, carottes, LAIT écrémé, OEUFS, raisins secs, huile de coton, sucre, poudre d'AMANDES, amidon de pommes de terre, plantes aromatiques et épices, ail en poudre, sel, jus de citron à base de c…",
+    "scraped_at": "2025-09-25T22:51:59.166Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7d6aad0dd1e3395faa26e011e9c049c1/p_1500x1500/3560070504947-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-paella-poulet-et-fruits-de-mer-carrefour-le-marche-3560070504947?t=28363",
+    "name": "Plat cuisiné Paëlla poulet et fruits de mer CARREFOUR LE MARCHE",
+    "price": 5,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Riz cuit 33,6%, haut de cuisse de poulet 25,9%, poivron rouge, oignon, petit pois, CREVETTE 4,5% (CREVETTE 4,4%, sel, acidifiant : acide citrique), CALAMAR 3% (CALAMAR, correcteurs d'acidité : acide citrique et citrate de sodium), MOULE et sa coquille 2,8%, huile d'olive vierge extra 2%, concassé de tomate (tomate, jus de tomate), chorizo 1,7% (viande de porc et gras de porc, piment, sel, dextrose…",
+    "scraped_at": "2025-09-25T22:52:00.974Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d09c9ec13e46402d86cc71855d3697a9/p_1500x1500/03760000754187_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-tajine-de-cabillaud-msc-sur-couscous-le-marin-vendeen-3760000754187?t=28363",
+    "name": "Plat cuisiné Tajine de cabillaud MSC sur couscous LE MARIN VENDEEN",
+    "price": 9.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nSEMOULE DE BLE dur 44%, sauce aux épices 22% (eau, huile de colza, préparation aromatique (épices, sel, plantes aromatiques, arôme naturel), fibre de plantain), CABILLAUD* 20% (Gadus morhua), carottes rondelles, abricots secs, olives vertes dénoyautées, persil.\n\n*Pêche durable selon le référentiel MSC. www.msc.org/fr",
+    "scraped_at": "2025-09-25T22:52:04.667Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d5cdf904dba44953a7cb94ba2ed43c5d/p_1500x1500/03760000754194_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-thon-a-la-basquaise-et-riz-le-marin-vendeen-3760000754194?t=28363",
+    "name": "Plat cuisiné Thon à la basquaise et riz LE MARIN VENDEEN",
+    "price": 9.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Délicieuse sauce Basquaise aux oignons, tomates et poivrons frais.",
+    "scraped_at": "2025-09-25T22:52:06.366Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/da4d3541169347328c8cf62d46eafb41/p_1500x1500/03366760023589_A1R1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/poulet-basquaise-au-piment-d-espelette-agis-3366760023589?t=28363",
+    "name": "Poulet Basquaise au Piment d'Espelette AGIS",
+    "price": 16.12,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des hauts de cuisses de poulet légèrement rôtis, cuisinés dans une sauce tomate agrémentée de poivrons rouges et jaunes, d'oignons confits à l'huile d'olive par un long mijotage, le tout légèrement relevé au piment d'Espelette. Amélioration recette : Une sauce plus compotée, enrichie en légumes.",
+    "scraped_at": "2025-09-25T22:52:07.966Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4e448ea380d0491e9d68d4b02576c5a0/p_1500x1500/03760373400537_A1C1_s03.png",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-poulet-basquaise-et-riz-blanc-3760373400537?t=28363",
+    "name": "Plat cuisiné poulet basquaise et riz blanc",
+    "price": 4.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Poulet origine France, poivron, oignon, sauce tomate, riz blanc.",
+    "scraped_at": "2025-09-25T22:52:08.170Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e00f406f7ee337258fa7f811511275c3/p_1500x1500/3560070504978-0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-couscous-royal-carrefour-le-marche-3560070504978?t=28363",
+    "name": "Plat cuisiné Couscous Royal CARREFOUR LE MARCHE",
+    "price": 5,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pilon de poulet 19%, semoule cuite 19% (eau, semoule de BLE dur), eau, carotte 9,1%, merguez 7,3% (viande de bœuf, viande de mouton, eau, sel, dextrose, épices, correcteurs d'acidité : acétate de sodium et citrate de sodium, betterave rouge, arômes naturels, antioxydants : ascorbate de sodium et acide ascorbique, acidifiant : diacétate de sodium, colorant : cochenille, boyau naturel de mouton), na…",
+    "scraped_at": "2025-09-25T22:52:08.564Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a76a7a0654c2446f949c099623084546/p_1500x1500/03760000754743_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/blanquette-de-colin-d-alaska-et-son-riz-le-marin-vendeen-3760000754743?t=28363",
+    "name": "Blanquette de colin d'Alaska et son riz LE MARIN VENDEEN",
+    "price": 9.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une délicieuse blanquette de colin d'Alaska à partager en famille ou entre amis!",
+    "scraped_at": "2025-09-25T22:52:10.161Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f74cc6d97d4a3582939939760bd33ee4/p_1500x1500/3338310001347-photosite-20211018-223457-0.jpg",
+    "url": "https://www.carrefour.fr/p/plats-cuisines-parmentier-de-poulet-maison-tino-3338310001347?t=28363",
+    "name": "Plats cuisinés parmentier de poulet MAISON TINO",
+    "price": 9.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un parmentier de poulet à la crème et aux champignons. Un produit simple et savoureux qui saura combler toute la famille.\nParce que la véritable cuisine se fait avec de bons produits naturels, sans artifice. Pas besoin d'additif, de conservateur ni de rien du tout.",
+    "scraped_at": "2025-09-25T22:52:12.564Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/fd8d44c44e8f4bb59467e36fd4f70ab5/p_1500x1500/3276558371467_0.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-nouille-chinoise-crevette-carrefour-le-marche-3276558371467?t=28363",
+    "name": "Plat cuisiné nouille chinoise crevette CARREFOUR LE MARCHE",
+    "price": 4.90,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nPâtes cuites 35% (eau, semoule de BLE dur), CREVETTE 15% (CREVETTE 14%, eau, sel), poivron jaune 8,4%, carotte 8%, oignon 7,6%, poivron rouge 7,2%, huile de tournesol, poireau 4,8%, poivron vert 3,9%, sauce POISSON (POISSON, sel, sucre), purée d'ail, extrait de carotte, coriandre en poudre, gingembre en poudre.\nPeut contenir des traces de SOJA, MOUTARDE.",
+    "scraped_at": "2025-09-25T22:52:18.465Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/48ccebe65f373bedbd453e40132123d6/p_1500x1500/3770001225616-photosite-20200205-170127-0.jpg",
+    "url": "https://www.carrefour.fr/p/chicon-roule-au-jambon-les-saveurs-du-ch-ti-3770001225616?t=28363",
+    "name": "Chicon roulé au jambon LES SAVEURS DU CH'TI",
+    "price": 5.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Farine de BLÉ, endives 20%, jambon 9% : origine France, LAIT demi-écrémé, emmental, beurre, muscade, sel, poivre.",
+    "scraped_at": "2025-09-25T22:52:19.265Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b9200663b29f4fcfb7c0ab20917e24b6/p_1500x1500/3276557903218_0.jpg",
+    "url": "https://www.carrefour.fr/p/pommes-de-terre-grenaille-a-la-provencale-3276557903218?t=28363",
+    "name": "Pommes de terre grenaille à la provençale",
+    "price": 1.10,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "9% pommes de terre, huile de colza, sel, plantes aromatiques, légumes: d'ail, ounon et tomate, épices, arômes naturels Fabriqué aux Pays-Bas.",
+    "scraped_at": "2025-09-25T22:52:19.375Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9d479535697b4c1a8f44e9fd2a45a97b/p_1500x1500/03266140063221_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-cassolette-ravioles-noix-de-st-jacques-fondue-de-poireaux-au-curry-saint-jean-3266140063221?t=28363",
+    "name": "Plat cuisiné cassolette ravioles noix de St Jacques, fondue de poireaux au curry SAINT JEAN",
+    "price": 5.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Saint Jean, pastier français depuis 1935, met aujourd'hui tout son savoir-faire au service d'une gamme Traiteur. Pratique, rapide et créative, elle sait répondre à chaque envie du quotidien. Saint Jean s'engage dans la réduction des emballages: -14% de plastique*, barquette issue à 80% de matérieux recyclés, -14% de carton*, fourreau carton imprimé à base d'encre végétale pour réduire l'empreinte écologique. *par rapport à notre ancien emballage",
+    "scraped_at": "2025-09-25T22:52:24.162Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8408413c191748f3a3f20691b8ca2b70/p_1500x1500/03329630940409_A1R1_s01.png",
+    "url": "https://www.carrefour.fr/p/lasagne-bolognaise-gratinee-votre-traiteur-vous-propose-3329630940409?t=28363",
+    "name": "Lasagne Bolognaise Gratinée VOTRE TRAITEUR VOUS PROPOSE",
+    "price": 4.50,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Eau, viande bovine 16% (origine France), semoule de BLE dur, triple concentré de tomate, tomates, EMMENTAL, huile de colza, carottes, farine de BLE, amidon modifié, oignons, LAIT écrémé en poudre, purée de carottes, huile d'olive vierge extra, sel, plantes aromatiques, ail, OEUF en poudre, épices.\n\nTraces éventuelles de SOJA, de MOUTARDE et de POISSON.",
+    "scraped_at": "2025-09-25T22:52:32.865Z"
+  }
+]

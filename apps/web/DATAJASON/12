@@ -1,0 +1,462 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/de6f88bcfff44579b7bbd37d5c038400/p_1500x1500/03292070005161_A1C1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/houmous-extra-l-atelier-blini-3292070005161?t=37006",
+    "name": "Houmous extra L'ATELIER BLINI",
+    "price": 2.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Tartinable a base de pois chiches francais fidele a la recette libanaise",
+    "scraped_at": "2025-09-25T17:01:51.033Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3a06a6f8a2d8465d930aab982332be7a/p_1500x1500/3523680441187_0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-cuit-a-l-ail-fume-carrefour-3523680441187?t=37006",
+    "name": "Saucisson cuit à l'ail fumé CARREFOUR",
+    "price": 1.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nViande de porc, blanc d'ŒUF, sel, sucre, ail 0,2%, poivre, muscade, antioxydant : érythorbate de sodium, conservateur : nitrite de sodium. Fabriqué avec 102g de viande de porc pour 100g de produit fini. Viande de porc origine France.\nPeut contenir des traces de LAIT, FRUITS A COQUE, SOJA, MOUTARDE, GLUTEN.",
+    "scraped_at": "2025-09-25T17:02:02.381Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cf11702eb4dc3ea1b89e824d1b86ab12/p_1500x1500/3375220021263-photosite-20140830-124403-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-herbes-de-provence-le-galibier-3375220021263?t=37006",
+    "name": "Saucisson sec herbes de Provence LE GALIBIER",
+    "price": 3.30,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Saucisson sec herbes de Provence\nViande de porc (124 g mis en œuvre pour 100 g de produit fini), lactose, sel, saccharose, dextrose, épices, arômes naturels, conservateurs : nitrite de sodium, nitrate de potassium, ferments\nBoyau de porc naturel\nEnrobage : herbes de Provence (8%), maltodextrine de maïs, sel, conservateur : E202, épaississant : E415.",
+    "scraped_at": "2025-09-25T17:02:16.778Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/fcd37e8d7fe839028b1f140160bf3a9c/p_1500x1500/07290005307478-c1n1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/houmous-light-casher-yadern-7290005307478?t=37006",
+    "name": "Houmous light casher YADERN",
+    "price": 3.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "'Pois chiches cuits (51%) eau, pois chiches, correcteur d'acidité (E500), pâte de graines de SESAME (25.9%), eau, sel, acidifiant (acide citrique), conservateur (E202).",
+    "scraped_at": "2025-09-25T17:02:21.572Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/33ebe811977d4f63b455dd64289c8cad/p_1500x1500/03449865293139_A1N1_s13.png",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-pur-porc-justin-bridou-3449865293139?t=37006",
+    "name": "Saucisson sec pur porc JUSTIN BRIDOU",
+    "price": 3.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Justin Bridou a mis en œuvre tout son savoir-faire pour créer le célèbre Bâton de Berger! Sa recette originale, son assaisonnement discret, sa texture moelleuse, sa forme originale et sa peau facile à enlever en font un produit pratique et savoureux pour faire plaisir aux petits et aux grands et pour partager des bons moments en famille ou entre amis.",
+    "scraped_at": "2025-09-25T17:02:24.274Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3e1bfe74804a4987a780ee346a06c0fd/p_1500x1500/3245390222497_1.JPG",
+    "url": "https://www.carrefour.fr/p/tielles-setoises-a-l-encornet-et-tomate-crf-original-3245390222497?t=37006",
+    "name": "Tielles sétoises à l'encornet et tomate CRF ORIGINAL",
+    "price": 3.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les Tielles Sétoises, une spécialité culinaire emblématique de Sète, préparée selon une recette traditionnelle transmise de génération en génération. Ces délicieuses tourtes en forme caractéristique sont garnies de poulpe, de tomates, d'oignon et d'épices, offrant ainsi une explosion de saveurs typiquement méditerranéennes. Un véritable régal pour les amateurs de cuisine du sud de la France.",
+    "scraped_at": "2025-09-25T17:02:25.277Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2f2f4817ee843183afff9f40134341f0/p_1500x1500/3325420284562-photosite-20151006-100715-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-de-lyon-nature-a-cuire-randy-3325420284562?t=37006",
+    "name": "Saucisson de Lyon nature à cuire RANDY",
+    "price": 5.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Véritable saucisson à cuire de Lyon nature:\nViande de porc 101 g*, boyau de bœuf, épices, sel, pulpe d'ail, ail, LACTOSE, dextrose, conservateur : E250. *Quantité utilisée pour fabriquer 100 g de produit fini.",
+    "scraped_at": "2025-09-25T17:02:25.484Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7cccf84f4eac3d9faa3f3f92d7c0b7a7/p_1500x1500/3560070944255-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-simpl-3560070944255?t=37006",
+    "name": "Saucisson sec SIMPL",
+    "price": 1.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Viande de porc, sel, LACTOSE, épices (poivre blanc, poivre en grains, noix de muscade), sucre, dextrose, pulpe d'ail, conservateurs : nitrate de potassium et nitrite de sodium, antioxydant : acide ascorbique, ferments. 152 g de viande porc mis en œuvre pour 100 g de produit fini.\nPeut contenir des FRUITS A COQUE",
+    "scraped_at": "2025-09-25T17:02:26.879Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3a21743c255e3f0cb4869fbe7a9c0063/p_1500x1500/3245412956515-photosite-20211202-145129-0.jpg",
+    "url": "https://www.carrefour.fr/p/tzatziki-fromage-et-concombres-carrefour-sensation-3245412956515?t=37006",
+    "name": "Tzatziki fromage et concombres CARREFOUR SENSATION",
+    "price": 1.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux Tzatziki Carrefour Sensation, un fromage frais aux concombres frais et aux herbes aromatiques. Avec sa texture crémeuse et son goût frais et savoureux, ce produit est parfait pour accompagner vos apéritifs ou vos plats préférés. Sans matières grasses et avec des ingrédients de qualité, notre Tzatziki est un choix sain et délicieux pour tous les amateurs de cuisine méditer…",
+    "scraped_at": "2025-09-25T17:02:27.076Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1b70ffcf422f35d78d75805f782c3b46/p_1500x1500/3560070819331-0.jpg",
+    "url": "https://www.carrefour.fr/p/fuet-catalan-extra-carrefour-original-3560070819331?t=37006",
+    "name": "Fuet catalan extra CARREFOUR ORIGINAL",
+    "price": 2.45,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre spécialité dease sèche, une délicieuse charcuterie à base de viande de porc origine Espagne. Avec sa texture savoureuse et son goût authentique, elle saura ravir vos papilles. Parfaite pour un apéritif entre amis ou pour agrémenter vos plats, ce produit est le choix idéal pour les amateurs de charcuterie de qualité.",
+    "scraped_at": "2025-09-25T17:02:33.772Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/46f3ddaca47d4d25b691583725d6af78/p_1500x1500/3560070927777_1.jpg",
+    "url": "https://www.carrefour.fr/p/mini-nems-poulet-sauce-nuoc-mam-carrefour-sensation-3560070927777?t=37006",
+    "name": "Mini Nems poulet + sauce Nuoc mâm CARREFOUR SENSATION",
+    "price": 3.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieux Mini Nems Poulet Asia, composés de 8 galettes de riz garnies d'une farce à base de viande de poulet et accompagnées d'une sauce nuoc mâm. Préparez-les facilement au four en seulement 10 minutes ou à la poêle en 8 minutes. Un véritable voyage culinaire pour des moments savoureux et conviviaux.",
+    "scraped_at": "2025-09-25T17:02:35.076Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/56647c6eaf3d344e927534e528e3fab8/p_1500x1500/3560071010577-0.jpg",
+    "url": "https://www.carrefour.fr/p/guacamole-extra-carrefour-extra-3560071010577?t=37006",
+    "name": "Guacamole extra CARREFOUR EXTRA",
+    "price": 2.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le Guacamole Extra Carrefour est un délicieux dip préparé à base d'avocats fondants, de poivrons rouges et de citron vert. Sa saveur unique a été reconnue par un jury de consommateurs en 2022. Un produit de qualité à savourer sans modération.",
+    "scraped_at": "2025-09-25T17:02:36.973Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0415b18f7175332aabfa61e1d33ca8f3/p_1500x1500/3245414663565-photosite-20210518-164057-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisse-seche-pur-porc-simpl-3245414663565?t=37006",
+    "name": "Saucisse sèche pur porc SIMPL",
+    "price": 3.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Viande de porc, LACTOSE, sel, dextrose, épices, conservateur : nitrate de potassium, ferments. 146 g de viande de porc mis en œuvre pour 100 g de produit fini. Viande de porc origine Union Européenne.",
+    "scraped_at": "2025-09-25T17:02:40.874Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/820cdb26c0784e3cb378a4b63437a90a/p_1500x1500/03449865389399_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-pur-porc-cochonou-3449865389399?t=37006",
+    "name": "Saucisson sec pur porc COCHONOU",
+    "price": 5.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Cochonou met tout son savoir-faire dans ce saucisson sec qualité supérieure, fabriqué en Rhône-Alpes avec de la viande de porcs certifiés VPF, nés, élevés et abattus en France. Pour les gourmands et les grandes tablées, le Généreux Cochonou est l'allié de vos moments de convivialité.",
+    "scraped_at": "2025-09-25T17:02:46.272Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/625086bc5fe34ab09ec600ce905fa60d/p_1500x1500/03180940088270_A1N1_s01.jpg",
+    "url": "https://www.carrefour.fr/p/saucisses-cocktail-classique-format-familial-madrange-3180940088270?t=37006",
+    "name": "Saucisses cocktail classique format familial MADRANGE",
+    "price": 4.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le Porc Français Pour les enfants de moins de 4 ans, couper la saucisse dans le sens de la longueur puis en tout petits morceaux afin de prévenir les risques d'étouffement.",
+    "scraped_at": "2025-09-25T17:02:47.276Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/467ceb61e5a532be95ce72dfb3fda78b/p_1500x1500/3270190028505-0.jpg",
+    "url": "https://www.carrefour.fr/p/mini-pate-en-croute-carrefour-extra-3270190028505?t=37006",
+    "name": "Mini pâté en croûte CARREFOUR EXTRA",
+    "price": 2.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux Pâté supérieur en croûte cocktail nature, élaboré à partir de viande de porc origine UE. Une recette savoureuse qui associe harmonieusement des ingrédients de qualité tels que la farine de blé, le beurre, le foie de porc et le vin blanc. Idéal pour vos apéritifs, ce pâté en croûte est un véritable plaisir gustatif à partager entre amis ou en famille.",
+    "scraped_at": "2025-09-25T17:02:49.075Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5033c6ca30883cfea79c905cee163bce/p_1500x1500/8410783122813-photosite-20170324-160645-0.jpg",
+    "url": "https://www.carrefour.fr/p/chorizo-bbq-noel-8410783122813?t=37006",
+    "name": "Chorizo BBQ NOEL",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Viande et graisse de porc, eau, paprika, sel, maltodextrine, dextrose, ail, antioxydant (E316), noix de muscade, conservateurs (E250, E252), origan.",
+    "scraped_at": "2025-09-25T17:02:49.880Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/196406092d3a4ab7937b75933d02036f/p_1500x1500/3245390021298_0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-d-auvergne-reflets-de-france-3245390021298?t=37006",
+    "name": "Saucisson sec d’Auvergne REFLETS DE FRANCE",
+    "price": 6.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le saucisson sec d'Auvergne Reflets de France est fabriqué selon une méthode traditionnelle : les saucissons sont suspendus individuellement et laissés à affiner lentement pour développer leurs arômes. Son goût légèrement aillé est caractéristique des charcuteries d'Auvergne, en raison de la longue tradition de production d'ail dans la région. Le saucisson sec d'Auvergne Reflets de France est authentique, fabriqué en Auvergne avec des ingrédients de qualité supérieure. Son affinage lent lui confère une saveur délicate et légèrement aillée, représentative de la tradition charcutière de la région.",
+    "scraped_at": "2025-09-25T17:02:50.972Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0a6ea66c191d3dd8935a63a4a30eed3d/p_540x540/3560070363681-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisse-seche-pur-porc-carrefour-original-3560070363681?t=37006",
+    "name": "Saucisse sèche pur porc CARREFOUR ORIGINAL",
+    "price": 19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La saucisse sèche Carrefour Original est préparée selon une recette traditionnelle et est composée de viande de porc de qualité supérieure. Elle est assaisonnée avec du sel, de l'ail, du poivre blanc et de la muscade pour un goût savoureux et authentique. A déguster selon vos préférences : jeune et fraîche pour une saveur douce et agréable, ou bien bien sèche et corsée pour un goût plus intense.",
+    "scraped_at": "2025-09-25T17:02:52.383Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f9daa5d43759318faed957a959bdfb5a/p_1500x1500/3245390093769-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-de-l-ardeche-igp-reflets-de-france-3245390093769?t=37006",
+    "name": "Saucisson de l'Ardèche IGP REFLETS DE FRANCE",
+    "price": 3.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre saucisson sec pur porc de qualité supérieure et fabriqué de manière artisanale selon des méthodes traditionnelles en Ardèche. Un véritable délice élaboré avec soin à partir d'ingrédients de choix tels que de la viande de porc, du sel, du vin rouge, des épices et des plantes aromatiques. Savourez toute la richesse de ce saucisson sans conservateurs artificiels et profitez d'une expérience gustative authentique.",
+    "scraped_at": "2025-09-25T17:02:53.473Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/144b7eeddb91307ba77d71a86003b6f7/p_1500x1500/3245414081277-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-a-l-ail-fume-carrefour-le-marche-3245414081277?t=37006",
+    "name": "Saucisson à l'ail fumé CARREFOUR LE MARCHE",
+    "price": 5.08,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Viande de porc 96%, eau, blancs d'ŒUFS, sel, LACTOSE, ail 0,2%, poivres, muscade, antioxydant : acide ascorbique, piment de Jamaïque, conservateur : nitrite de sodium. Enveloppe : boyau naturel de porc. Fumé au bois de hêtre. Viande de porc origine France.",
+    "scraped_at": "2025-09-25T17:02:58.673Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/80ae7813c24146f7a0909958863e43c1/p_540x540/03449865241116_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/saucisse-seche-pur-porc-justin-bridou-3449865241116?t=37006",
+    "name": "Saucisse sèche pur porc JUSTIN BRIDOU",
+    "price": 3.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une saucisse sèche sachant sécher doit savoir sécher sans s'assécher! La Juste Sèche : la saucisse sèche, sèche à point! Une belle robe blanche, une recette savoureuse, à base d'un assortiment subtil d'épices (coriandre, macis...), une sèche unique? Préservée dans son sachet respirant et refermable, elle reste à point, jusqu'à la fin!",
+    "scraped_at": "2025-09-25T17:03:00.180Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6690f78df3b3378eba8fa8d4aa42ac2b/p_1500x1500/3245414663497-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-pur-porc-carrefour-3245414663497?t=37006",
+    "name": "Saucisson sec pur porc CARREFOUR",
+    "price": 4.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un saucisson sec de qualité supérieure, fait avec de la viande de porc pur porc d'origine européenne et préparé selon une recette traditionnelle. Parfait pour les amateurs de saucisson sec qui recherchent une expérience gustative authentique et savoureuse.",
+    "scraped_at": "2025-09-25T17:03:02.175Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/bc44428be7734e6f9aa35c07a634ed7a/p_1500x1500/03291520003719_B1N1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/boudins-blancs-cocktail-cognac-sapresti-3291520003719?t=37006",
+    "name": "Boudins blancs cocktail cognac SAPRESTI",
+    "price": 5.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le boudin blanc reste un met incontournable des repas de fêtes. Avec son format miniature type saucisse cocktail, ce produit est idéal à déguster en apéritif. Cette recette très festive, à base de cognac fine champagne, révèle une chair tendre et savoureuse mettant en avant notre savoir faire historique sur les produits de charcuterie",
+    "scraped_at": "2025-09-25T17:03:04.676Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8e958790558a4909957cf184a54ecbfc/p_1500x1500/03375220202853_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/saucisse-droite-comte-aop-le-galibier-3375220202853?t=37006",
+    "name": "Saucisse droite comté AOP LE GALIBIER",
+    "price": 7.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Véritable Saucisse sèche de Savoie au Comté AOP",
+    "scraped_at": "2025-09-25T17:03:05.776Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/154e2004177146409e97a5c49c21cba0/p_1500x1500/3560071240257_1.JPG",
+    "url": "https://www.carrefour.fr/p/saucisses-cocktail-carrefour-classic-3560071240257?t=37006",
+    "name": "Saucisses cocktail CARREFOUR CLASSIC'",
+    "price": 5.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos succulentes saucisses cocktail fumées au bois de hêtre, préparées avec soin à partir de viande de porc de qualité. Parfaites pour toutes les occasions, laissez-vous tenter par ces délices culinaires au goût authentique qui raviront vos papilles.",
+    "scraped_at": "2025-09-25T17:03:07.473Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3eef3da6d13c396b8783d357c92de5c8/p_1500x1500/3375220021201-photosite-20140830-124429-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-aux-noix-le-galibier-3375220021201?t=37006",
+    "name": "Saucisson sec aux noix LE GALIBIER",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nSaucisson sec aux noix\nViande de porc (143 g mis en œuvre pour 100 g de produit fini), noix (8 g mis en œuvre pour 100 g de produit fini), lactose, sel, saccharose, dextrose, épices, arômes naturels, conservateurs : nitrite de sodium, nitrate de potassium, ferments\nBoyau de porc naturel.",
+    "scraped_at": "2025-09-25T17:03:09.673Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9efef9fa42d34a49b25681bf45369981/p_1500x1500/03375220203799_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-au-beaufort-aop-le-galibier-3375220203799?t=37006",
+    "name": "Saucisson sec au Beaufort AOP LE GALIBIER",
+    "price": 5.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "SAUCISSON SEC AU BEAUFORT 145G",
+    "scraped_at": "2025-09-25T17:03:10.680Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/50b96399c6d245f6bc4a60cc59f8db5c/p_1500x1500/03375220203782_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-de-savoie-le-galibier-3375220203782?t=37006",
+    "name": "Saucisson sec de Savoie LE GALIBIER",
+    "price": 4.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "SAUCISSON SEC NATURE 145G",
+    "scraped_at": "2025-09-25T17:03:15.072Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d8d07e4beaca3909aba3d99d7c36054d/p_1500x1500/08437020015547-a1c1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/tapas-chorizo-extra-costa-brava-8437020015547?t=37006",
+    "name": "Tapas Chorizo Extra COSTA BRAVA",
+    "price": 4.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nViande et gras de porc (origine: UE), sel, PROTEINES DE LAIT, paprikas, maltodextrine, ail, dextrose, arômes, épices, stabilisants (E-450, E-452), antioxydant (E-301), conservateurs (E-250, E-252), colorants (E-120, extrait de paprika).",
+    "scraped_at": "2025-09-25T17:03:17.073Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/292931db80a24853a32d64db490518ba/p_1500x1500/03450160005266_C1N1_s23.png",
+    "url": "https://www.carrefour.fr/p/saucisson-seche-la-fine-saint-agaune-3450160005266?t=37006",
+    "name": "Saucisson sèche La Fine SAINT AGAUNE",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Saint Agaûne, la tradition revisitée. Chez Saint Agaûne, nous réinventons l'expérience saucisson. Dans nos ateliers de Haute-Loire à 770 mètres d'altitude, nous sélectionnons, assaisonnons et séchons des morceaux choisis de viandes de qualité afin de créer des spécialités moins grasses aux goûts « signatures » uniques. Des plaisirs gourmands, décomplexés pour vous offrir des moments de partage et de pure dégustation.",
+    "scraped_at": "2025-09-25T17:03:17.376Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6e4054bdf984335eb3e061063c25bf34/p_1500x1500/3375220021225-photosite-20140830-124501-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-au-beaufort-le-galibier-3375220021225?t=37006",
+    "name": "Saucisson sec au Beaufort LE GALIBIER",
+    "price": 5.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Saucisson sec au Beaufort\nViande de porc (145 g mis en œuvre pour 100 g de produit fini), Beaufort (8 g mis en œuvre pour 100 g de produit fini), lactose, sel, saccharose, dextrose, épices, arômes naturels, conservateurs : nitrite de sodium, nitrate de potassium, ferments\nBoyau naturel.",
+    "scraped_at": "2025-09-25T17:03:17.578Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1f2bc4139dec43b0bfc25f6ddf2db8d0/p_1500x1500/03498301003344_A1N1_s03.png",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-noisettes-pur-porc-debroas-3498301003344?t=37006",
+    "name": "Saucisson sec noisettes pur porc DEBROAS",
+    "price": 5.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre saucisson sec de qualité supérieure à l'ancienne spécialité aux Noisettes (viande de porc origine France). Élaboré avec de véritables noisettes entières, ce saucisson dévoile une texture fondante relevée par de petites touches croquante. Cette association de saveurs séduira les plus jeunes.",
+    "scraped_at": "2025-09-25T17:03:18.977Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/08c491462f8836569958a336c9fcf3ec/p_1500x1500/3560071433772-0.jpg",
+    "url": "https://www.carrefour.fr/p/tarama-aux-oeufs-de-cabillaud-carrefour-sensation-3560071433772?t=37006",
+    "name": "Tarama aux œufs de cabillaud CARREFOUR SENSATION",
+    "price": 4.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le Tarama aux œufs de cabillaud Carrefour Sensation, une délicieuse tartinade à base de cabillaud salé et fumé. Savourez sa texture onctueuse et son goût authentique sans compromis. Le Tarama Carrefour Sensation est élaboré avec des ingrédients de qualité tels que l'huile de colza, le jus de citron concentré et des protéines de lait pour une expérience gustative unique.",
+    "scraped_at": "2025-09-25T17:03:19.882Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c9acd36386ce3b92a629ed4d1e279d80/p_1500x1500/3560070672509-photosite-20210615-184944-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisse-seche-pur-porc-carrefour-original-3560070672509?t=37006",
+    "name": "Saucisse sèche pur porc CARREFOUR ORIGINAL",
+    "price": 0.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse saucisse sèche pur porc de qualité supérieure, fabriquée avec 160g de viande de porc française pour 100g de produit fini. Savourez son goût unique grâce à notre recette authentique, relevée d'une touche subtile d'ail, de poivre et d'épices. Un incontournable pour tous les amateurs de charcuterie de qualité.",
+    "scraped_at": "2025-09-25T17:03:20.075Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7d2224b2e93c3daf8e751c82a1cd6d99/p_1500x1500/08437020015530-a1c1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-tapas-fuet-extra-costa-brava-8437020015530?t=37006",
+    "name": "Saucisson Tapas Fuet Extra COSTA BRAVA",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nViande et gras de porc (origine: UE), maltodextrine, sel, antioxydant (E-326), conservateur (E-252), épices, colorant (E-162).",
+    "scraped_at": "2025-09-25T17:03:20.978Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/02e23036503d39809b6d8c4483a584a7/p_1500x1500/3245390028884-0.jpg",
+    "url": "https://www.carrefour.fr/p/saucisson-rosette-de-lyon-reflets-de-france-3245390028884?t=37006",
+    "name": "Saucisson rosette de Lyon REFLETS DE FRANCE",
+    "price": 6.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la Rosette de Lyon, une spécialité de charcuterie séchée en filet, élaborée avec du porc origine France selon une recette traditionnelle. Savoureux et authentique, ce produit est idéal pour les amateurs de charcuterie de qualité. À déguster rapidement après ouverture pour une expérience gustative optimale.",
+    "scraped_at": "2025-09-25T17:03:22.375Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/273301bab0f33f69959d7ef85a7645f1/p_1500x1500/03483000480114-a1r1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/mini-boudins-blancs-cocktail-demoizet-3483000480114?t=37006",
+    "name": "Mini boudins Blancs cocktail DEMOIZET",
+    "price": 5.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une version apéritive de notre authentique boudin blanc, un régal qui plait aux petits comme aux grands !",
+    "scraped_at": "2025-09-25T17:03:25.178Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ffe6a61783e03a24bea795ac570039eb/p_1500x1500/3560071010522-0.jpg",
+    "url": "https://www.carrefour.fr/p/houmous-carrefour-extra-3560071010522?t=37006",
+    "name": "Houmous CARREFOUR EXTRA",
+    "price": 2.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le délicieux houmous Carrefour Extra à la purée de pois chiches et au sésame, reconnu pour sa saveur exceptionnelle. Préparé avec des ingrédients de qualité, ce produit est le choix idéal pour ceux qui recherchent une option saine et délicieuse.",
+    "scraped_at": "2025-09-25T17:03:28.477Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5c234529c3e0443eb99d885c0872fc0b/p_1500x1500/03450160005259_C1N1_s22.png",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-saint-agaune-3450160005259?t=37006",
+    "name": "Saucisson sec SAINT AGAUNE",
+    "price": 5.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Saint Agaûne, la tradition revisitée. Chez Saint Agaûne, nous réinventons l'expérience saucisson. Dans nos ateliers de Haute-Loire à 770 mètres d'altitude, nous sélectionnons, assaisonnons et séchons des morceaux choisis de viandes de qualité afin de créer des spécialités moins grasses aux goûts « signatures » uniques. Des plaisirs gourmands, décomplexés pour vous offrir des moments de partage et de pure dégustation.",
+    "scraped_at": "2025-09-25T17:03:28.673Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/37af3c4b4c123e70a6ee2f66c063b773/p_1500x1500/3560070692842-photosite-20210709-174400-0.jpg",
+    "url": "https://www.carrefour.fr/p/mini-saucissons-secs-carrefour-sensation-3560070692842?t=37006",
+    "name": "Mini saucissons secs CARREFOUR SENSATION",
+    "price": 1.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos mini saucissons secs pur porc, préparés avec 183 g de viande de porc origine France pour 100 g de produit fini. Parfaits pour accompagner vos apéritifs ou vos en-cas, ces saucissons secs sont savoureux et faciles à déguster.",
+    "scraped_at": "2025-09-25T17:03:29.178Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2ced2347d62331d5be6d75bbdd7ec08b/p_1500x1500/03700029204621-c1n1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/tarama-aux-oeufs-de-cabillaud-casher-maayane-3700029207936?t=37006",
+    "name": "Tarama aux oeufs de cabillaud casher MAAYANE",
+    "price": 2.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nIngrédients : Huile de colza, ŒUFS de cabillaud fumés et salés 27 % (ŒUFS de cabillaud 25 %, sel), eau, chapelure (farine de BLÉ, sel, levure), jus de citron concentré, colorant : rouge de betterave, conservateur : benzoate de sodium",
+    "scraped_at": "2025-09-25T17:03:30.773Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/26a52703a2be4364bd5546d45bd751af/p_1500x1500/03375220201306_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/saucisse-seche-nature-le-galibier-3375220201306?t=37006",
+    "name": "Saucisse sèche nature LE GALIBIER",
+    "price": 5.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "SAUCISSE DROITE NATURE 200GR GB",
+    "scraped_at": "2025-09-25T17:03:32.874Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6312e9ac13c8453287c0997b7ee4a475/p_1500x1500/08411814229853_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/batonnets-fuets-et-chorizo-sechoir-bodega-argal-8411814229853?t=37006",
+    "name": "Bâtonnets Fuets et Chorizo Séchoir Bodéga ARGAL",
+    "price": 9.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients : FUET: Viande de porc (155g de viande de porc mise en œuvre pour 100g de produit fini), LACTOSE, sel, dextrine, épices, arômes, arôme de fumée, antioxydant (E-301), conservateurs (E-250, E-252). Boyau artificiel comestible de collagène. CHORIZO : Viande de porc (155g de viande de porc mise en œuvre pour 100g de produit fini), paprika, sel, LACTOSE, ail, antioxydant (E-392). Boyau artificiel comestible de collagène.",
+    "scraped_at": "2025-09-25T17:03:36.273Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/da47c170643c487295d8c43d9503e02b/p_1500x1500/03449865379482_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-poulet-justin-bridou-3449865379482?t=37006",
+    "name": "Saucisson sec poulet JUSTIN BRIDOU",
+    "price": 2.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des Mini Saucissons 100% Poulet, idéaux pour l'apéritif. Encore plus de variétés et de goût avec une saveur inédite et une viande 100% poulet! Savoureux, gourmands et ludiques, les Bâtons de Berger Mini Poulet seront parfaits pour vos apéritifs ou vos pauses gourmandes. Son format est idéal à partager entre amis ou en famille et ravira petits et grands.",
+    "scraped_at": "2025-09-25T17:03:36.472Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/334759c0eaeb4a7cb2ba8c010918fea7/p_1500x1500/03375220502700_A1N1_s02.png",
+    "url": "https://www.carrefour.fr/p/saucisson-sec-pur-porc-artisanal-les-chalets-d-henri-3375220502700?t=37006",
+    "name": "Saucisson sec pur porc artisanal LES CHALETS D'HENRI",
+    "price": 7.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Saucisson sec recette d'Antan pur porc 300g GB",
+    "scraped_at": "2025-09-25T17:03:40.773Z"
+  }
+]

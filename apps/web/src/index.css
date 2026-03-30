@@ -1,0 +1,319 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    /* Brand color: Cyan #06b6d4 */
+    --primary: 188 100% 42%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222.2 84% 4.9%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96%;
+    --accent-foreground: 222.2 84% 4.9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    /* Ring matches primary cyan */
+    --ring: 188 100% 42%;
+    --radius: 0.5rem;
+    
+    /* Design Guide Brand Colors */
+    --brand-cyan: #06b6d4;
+    --brand-cyan-hover: #0891b2;
+    --brand-gray-bg: #ebeced;
+    --brand-gray-muted: #707070;
+    --brand-gray-border: #c9c9c9;
+  }
+}
+
+@layer base {
+  * {
+    border-color: hsl(var(--border));
+  }
+
+  /* Reduced motion support for accessibility */
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    font-family: 'Geist', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* Prevent bounce scroll on mobile (iOS & Android) */
+    overscroll-behavior-y: none;
+    /* Improve touch scrolling on iOS */
+    -webkit-overflow-scrolling: touch;
+    /* Prevent text size adjustment on mobile browsers */
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  /* Prevent mobile zoom on input focus (iOS & Android) */
+  input,
+  textarea,
+  select {
+    font-size: 16px !important;
+  }
+
+  /* Better focus handling for all platforms */
+  input:focus-visible,
+  textarea:focus-visible,
+  select:focus-visible {
+    outline: 2px solid hsl(var(--ring));
+    outline-offset: 2px;
+  }
+
+  /* Remove default focus outline on touch devices */
+  @media (pointer: coarse) {
+    input:focus,
+    textarea:focus,
+    select:focus {
+      outline: none;
+    }
+  }
+
+  /* Remove tap highlight on all touch devices */
+  @media (hover: none) and (pointer: coarse) {
+    button,
+    a,
+    input,
+    textarea,
+    select {
+      -webkit-tap-highlight-color: transparent;
+      -webkit-touch-callout: none;
+      tap-highlight-color: transparent;
+    }
+  }
+
+  /* Smooth scrolling for better UX on all devices */
+  @media (prefers-reduced-motion: no-preference) {
+    * {
+      scroll-behavior: smooth;
+    }
+  }
+
+  /* Prevent pull-to-refresh on mobile */
+  html,
+  body {
+    overscroll-behavior-y: contain;
+    height: 100%;
+  }
+
+  #root {
+    height: 100%;
+  }
+}
+
+@layer components {
+  .bg-gradient-radial {
+    background: radial-gradient(var(--tw-gradient-stops));
+  }
+
+  .line-clamp-1 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+  }
+
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  /* Custom textarea styling for OCR edit */
+  .ocr-textarea {
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e1 #f8fafc;
+  }
+
+  .ocr-textarea::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .ocr-textarea::-webkit-scrollbar-track {
+    background: #f8fafc;
+    border-radius: 3px;
+  }
+
+  .ocr-textarea::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 3px;
+  }
+
+  .ocr-textarea::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
+
+  /* Custom scrollbar for grocery list */
+  .custom-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #06b6d4 transparent;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #06b6d4;
+    border-radius: 10px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #0891b2;
+  }
+
+  @media (max-width: 768px) {
+    .custom-scrollbar::-webkit-scrollbar {
+      width: 3px;
+    }
+  }
+
+  /* Mobile textarea improvements */
+  @media (max-width: 640px) {
+    .ocr-textarea {
+      font-size: 16px; /* Prevents zoom on iOS */
+      line-height: 1.4;
+    }
+  }
+
+  /* Bottom sheet animations */
+  @keyframes slideInFromBottom {
+    from {
+      transform: translateY(100%);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .animate-in {
+    animation-duration: 300ms;
+    animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+    animation-fill-mode: both;
+  }
+
+  .slide-in-from-bottom {
+    animation-name: slideInFromBottom;
+  }
+
+  .fade-in {
+    animation-name: fadeIn;
+  }
+
+  .duration-200 {
+    animation-duration: 200ms;
+  }
+
+  .duration-300 {
+    animation-duration: 300ms;
+  }
+
+  /* Smooth scrolling for bottom sheet */
+  .overscroll-contain {
+    overscroll-behavior: contain;
+  }
+
+  /* High quality image rendering */
+  .image-rendering-high-quality {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    -ms-interpolation-mode: nearest-neighbor;
+  }
+
+  /* Design Guide Shadow Utilities */
+  .shadow-brand {
+    box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.1);
+  }
+
+  .shadow-brand-strong {
+    box-shadow: 0px 10px 20px 1px rgba(0, 0, 0, 0.25);
+  }
+
+  .shadow-brand-soft {
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.08);
+  }
+
+  .shadow-brand-hover {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.12);
+  }
+
+  /* Brand-specific border radius utilities */
+  .rounded-brand-sm {
+    border-radius: 18px;
+  }
+
+  .rounded-brand {
+    border-radius: 24px;
+  }
+
+  .rounded-brand-lg {
+    border-radius: 30px;
+  }
+
+  .rounded-brand-xl {
+    border-radius: 50px;
+  }
+
+  /* Brand Gradient (from website) */
+  .bg-gradient-brand {
+    background: linear-gradient(199deg, rgb(6, 182, 212) 0%, rgb(20, 20, 20) 100%);
+  }
+
+  .bg-gradient-brand-dark {
+    background: linear-gradient(199deg, rgb(50, 50, 50) 0%, rgb(20, 20, 20) 100%);
+  }
+
+  /* Gradient Button Hover Effects */
+  .btn-gradient:hover .btn-shine {
+    transform: rotate(45deg) translateY(0%);
+  }
+
+  /* Active state shadow adjustment */
+  .btn-gradient:active {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.45);
+  }
+}

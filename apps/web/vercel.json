@@ -1,0 +1,35 @@
+{
+  "functions": {
+    "api/ocr.ts": {
+      "maxDuration": 30
+    },
+    "api/create-payment-intent.ts": {
+      "maxDuration": 10
+    },
+    "api/verify-payment.ts": {
+      "maxDuration": 5
+    },
+    "api/realtime-session.ts": {
+      "maxDuration": 10
+    },
+    "api/gemini.ts": {
+      "maxDuration": 10
+    },
+    "api/sora-video.ts": {
+      "maxDuration": 30
+    }
+  },
+  "regions": ["iad1"],
+  "buildCommand": "npm install --legacy-peer-deps && npm run build",
+  "installCommand": "npm install --legacy-peer-deps",
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/$1"
+    },
+    {
+      "source": "/((?!api/).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

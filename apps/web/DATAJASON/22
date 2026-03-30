@@ -1,0 +1,442 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/054ab4016d224bbdbe8e1c67d8a12a95/p_1500x1500/03599741007579_C1N1_s06.png",
+    "url": "https://www.carrefour.fr/p/pommes-rissolees-imparfaites-findus-3599741007579",
+    "name": "Pommes rissolées imparfaites FINDUS",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos Rissolées Imparfaites, nous allons encore plus loin dans nos engagements en utilisons désormais davantage de pommes de terre et de cubes petits et imparfaits mais parfaitement savoureux.",
+    "scraped_at": "2025-09-25T23:31:00.822Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0e554c49d79e47cb8d10108cb5d4f72e/p_1500x1500/3560070937868_1.jpg",
+    "url": "https://www.carrefour.fr/p/frites-special-four-carrefour-classic-3560070937868?t=29595",
+    "name": "Frites spécial four CARREFOUR CLASSIC'",
+    "price": 1.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les pommes de terre enrobées Carrefour Classic' sont des frites surgelées préfrites, faites à partir de pommes de terre de haute qualité et enrobées d'une délicieuse huile de tournesol. Elles sont parfaites pour accompagner vos plats préférés ou pour une soirée entre amis. La préparation au four est simple et rapide, avec une cuisson de seulement 15 à 18 minutes à 220°C, pour des frites croustillantes à l'extérieur et tendres à l'intérieur. Savourez ces délicieuses frites bien chaudes, sans avoir besoin d'ajouter du sel, et profitez de leur goût authentique à chaque bouchée.",
+    "scraped_at": "2025-09-25T23:31:08.519Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/974f9791bdab3fc88acf70f2a6bab3a2/p_1500x1500/08710438123999-a1n1-s05.jpg",
+    "url": "https://www.carrefour.fr/p/frites-belges-mccain-8710438123999?t=29595",
+    "name": "Frites belges MCCAIN",
+    "price": 3.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le caractère et le goût authentiques de la frite Belge, généreuse et craquante une fois !",
+    "scraped_at": "2025-09-25T23:31:07.918Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/93c4ec4f6aa24dc2b43a109176d1ca68/p_1500x1500/08711571093293_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/frites-ziggy-lamb-weston-8711571093293?t=29595",
+    "name": "Frites Ziggy LAMB WESTON",
+    "price": 3.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Coated, Pre-fried, Quick-frozen, Crinkle cut potato fries",
+    "scraped_at": "2025-09-25T23:31:15.220Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/29f1941216863e3b8455cd54ce900c2e/p_1500x1500/08710438123548-a1n1-s03.jpg",
+    "url": "https://www.carrefour.fr/p/frites-just-au-four-steakhouse-mccain-8710438123548?t=29595",
+    "name": "Frites just au four steakhouse MCCAIN",
+    "price": 2.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites extra croustillantes produites en France à partir de pommes de terre françaises. Préparées sans huile de palme et sans conservateur. Produit végétarien",
+    "scraped_at": "2025-09-25T23:31:20.324Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ced073b56ab83786a0b79d706bde4643/p_1500x1500/3560070717903-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-pour-friteuse-simpl-3560070717903?t=29595",
+    "name": "Frites pour friteuse SIMPL",
+    "price": 1.73,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pommes de terre (97%), huile de tournesol (3%), dextrose.",
+    "scraped_at": "2025-09-25T23:31:22.029Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e9bd13b6288941439bcb4fee02a9d6ca/p_1500x1500/08710438123692_A1N1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/frites-just-au-four-classique-mccain-8710438123692?t=29595",
+    "name": "Frites just au four classique MCCAIN",
+    "price": 2.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites extra croustillantes produites en France à partir de pommes de terre françaises. Préparées sans huile de palme et sans conservateur. Produit végétarien",
+    "scraped_at": "2025-09-25T23:31:24.419Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e86e18ba5b2d418ba20e765dd718462b/p_1500x1500/08710438123784_A1N1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/frites-just-au-four-allumettes-mccain-8710438123784?t=29595",
+    "name": "Frites just au four allumettes MCCAIN",
+    "price": 2.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites extra croustillantes produites en France à partir de pommes de terre françaises. Préparées sans huile de palme et sans conservateur. Produit végétarien",
+    "scraped_at": "2025-09-25T23:31:25.824Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ad77f2d5150e4c1193c9c2fe93fd5ce8/p_1500x1500/08710438123630_A1N1_s06.jpeg",
+    "url": "https://www.carrefour.fr/p/frites-just-au-four-express-mccain-8710438123630?t=29595",
+    "name": "Frites just au four express MCCAIN",
+    "price": 3.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites prêtes en 8 min au four, extra fines et croustillantes pour un plaisir Express. Préparées avec de l'huile de tournesol. Sans huile de palme et sans conservateur. Produit végétarien.",
+    "scraped_at": "2025-09-25T23:31:31.024Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/77291bb49fdd3c03b05364584897a776/p_1500x1500/3560070697410-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-allumettes-carrefour-classic-3560070697410?t=29595",
+    "name": "Frites allumettes CARREFOUR CLASSIC'",
+    "price": 4.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Carrefour Classic Allumettes Surgelées sont des pommes de terre allumettes préfrites longues, parfaites pour accompagner vos plats préférés. Faites-les frire pendant 3 minutes dans de l'huile de tournesol préchauffée pour obtenir une texture croustillante. Profitez de ce produit pratique et délicieux pour des repas savoureux à tout moment de la journée.",
+    "scraped_at": "2025-09-25T23:31:32.024Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/397a632627e630e4903305ac88bd2d7e/p_1500x1500/3560070143085-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-allumettes-special-four-carrefour-classic-3560070143085?t=29595",
+    "name": "Frites allumettes spécial four CARREFOUR CLASSIC'",
+    "price": 1.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos pommes de terre allumettes enrobées préfrites surgelées, prêtes à être cuites au four pour une cuisson croustillante et savoureuse. Fabriquées à partir de pommes de terre sélectionnées et enrobées d'une huile de tournesol de qualité, elles sont idéales pour accompagner tous vos plats.",
+    "scraped_at": "2025-09-25T23:31:32.420Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/96021067c0f74b20b2236516db2ea10a/p_1500x1500/08710438123722_A1C1_s06.jpeg",
+    "url": "https://www.carrefour.fr/p/frites-just-au-four-classique-mccain-8710438123722?t=29595",
+    "name": "Frites just au four classique MCCAIN",
+    "price": 5.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites extra croustillantes produites en France à partir de pommes de terre françaises. Préparées sans huile de palme et sans conservateur. Produit végétarien",
+    "scraped_at": "2025-09-25T23:31:34.132Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b4ad5ebb4cc239fb918c1890486884e6/p_1500x1500/3560070687145-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-allumettes-carrefour-classic-3560070687145?t=29595",
+    "name": "Frites allumettes CARREFOUR CLASSIC'",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos pommes de terre allumettes finement préfrites surgelées, à base de pommes de terre de qualité supérieure et d'huile de tournesol. Croustillantes à souhait, elles sont parfaites pour accompagner tous vos plats préférés. Une option pratique et délicieuse pour satisfaire vos envies de frites maison en quelques minutes seulement.",
+    "scraped_at": "2025-09-25T23:31:36.430Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a14e29b61bb246dc8397e6a73fb2617b/p_1500x1500/08711571093354_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/frites-rustiques-lamb-weston-8711571093354?t=29595",
+    "name": "Frites Rustiques LAMB WESTON",
+    "price": 3.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pommes de terre (87%),Enrobage (8%) (Amidon de pomme de terre modifié, Farine de riz, Amidon de pomme de terre, Sel, Agents levants (Diphosphate disodique, Carbonate de sodium), Dextrose, Huile de tournesol,Epaississant (Gomme xanthane), Extrait aromatique , Huiles végétales (Colza, Tournesol, en proportions variables),Dextrose.",
+    "scraped_at": "2025-09-25T23:31:41.621Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f5c0ff28b6d64353af95062bd2ab5c4d/p_1500x1500/3560070856480_1.jpg",
+    "url": "https://www.carrefour.fr/p/frites-au-four-bio-carrefour-bio-3560070856480?t=29595",
+    "name": "Frites au four Bio CARREFOUR BIO",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les délicieuses frites Carrefour Bio, fabriquées en Belgique à partir de pommes de terre cultivées en Union Européenne, sans engrais chimique de synthèse et avec une utilisation limitée de pesticides conformément aux règles de la production biologique respectueuse de l'environnement. Préfrites dans de l'huile de tournesol biologique, ces frites surgelées vous garantissent une qualité et un goût authentiques.",
+    "scraped_at": "2025-09-25T23:31:48.521Z"
+  },
+  {
+    "main_image": "https://api.basemedia.carrefour.com/media/referential/media/22841502/file?dimension_name=ORIGINAL&referer=MDM_Photos_MDC",
+    "url": "https://www.carrefour.fr/p/sweet-potato-fries-aux-patates-douces-strong-roots-5391528181483?t=29595",
+    "name": "Sweet potato fries aux Patates Douces STRONG ROOTS",
+    "price": 4.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites crousti-fondantes in-cro-ya-ble-ment douces avec un petit gout sucré… reconnaissables en un croc!",
+    "scraped_at": "2025-09-25T23:31:50.019Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/67b54f026616445e81f91981f7687288/p_1500x1500/08711571093231_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/frites-twister-assaisonnees-lamb-weston-8711571093231?t=29595",
+    "name": "Frites Twister Assaisonnées LAMB WESTON",
+    "price": 3.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pommes de terre (80%), Enrobage (12%) Amidon modifié de pomme de terre , Farine de riz, Fécule de pomme de terre, Sel, Ail en poudre, Epices (Piment, Piment de Cayenne, Paprika, Racine de livèche, Cumin) , Oignon en poudre, Agents levants (Diphosphate disodique, Bicarbonate de soude), Extrait de levure, Dextrose, Extrait aromatique, Epaississant (Gomme xanthane), Huilse végétales (Colza, Tour…",
+    "scraped_at": "2025-09-25T23:31:55.421Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/839ebcfe48d84247a0a1153336935eb3/p_1500x1500/03599741006794_C1L1_s02.png",
+    "url": "https://www.carrefour.fr/p/frites-crousti-express-l-allumette-findus-3599741006794?t=29595",
+    "name": "Frites crousti express l'allumette FINDUS",
+    "price": 1.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Laissez vous surprendre par l'Allumette micro-ondable Findus. En seulement 2 minutes 30, elle est dorée et croustillante !",
+    "scraped_at": "2025-09-25T23:31:59.429Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b5fd1aa3ca103767baaf2f5f8a44a832/p_1500x1500/3560070699254-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-steakhouse-carrefour-classic-3560070699254?t=29595",
+    "name": "Frites Steakhouse CARREFOUR CLASSIC'",
+    "price": 2.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les délicieuses pommes de terre frites Carrefour Classic', idéales pour accompagner tous vos plats préférés. Préfrites et surgelées, elles sont prêtes en seulement quelques minutes à la friteuse ou au four. Savourez des frites croustillantes à souhait, sans ajouts artificiels et avec une faible teneur en matières grasses.",
+    "scraped_at": "2025-09-25T23:32:00.225Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7ff815c372343190b0dd19dc1940cb73/p_1500x1500/03599741005438-c1l1-s11.jpg",
+    "url": "https://www.carrefour.fr/p/frites-crinkle-crousti-bistro-findus-3599741005438?t=29595",
+    "name": "Frites crinkle crousti bistro FINDUS",
+    "price": 3.1,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Retrouvez à la maison tout le plaisir des frites presque comme au Bistro en seulement 4min au micro-ondes. Pratique, rapide et au bon goût de pommes de terres dans une grande boite généreuse qui ravira toutes les papilles ! La Gourmande, une frite Charnue et Croustillante à la coupe irrégulière.",
+    "scraped_at": "2025-09-25T23:32:01.526Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c88c10728d08452381784b051cad203b/p_1500x1500/3560070143368_1.jpg",
+    "url": "https://www.carrefour.fr/p/pommes-de-terre-rissolees-carrefour-classic-3560070143368?t=29595",
+    "name": "Pommes de terre rissolées CARREFOUR CLASSIC'",
+    "price": 1.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos pommes de terre rissolées Carrefour Classic, de qualité supérieure, réalisées sans conservateurs et cuites à l'huile de tournesol. Pré-frites et surgelées, elles sont parfaites pour accompagner vos plats préférés.",
+    "scraped_at": "2025-09-25T23:32:06.023Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/baa7d62a10c149fba0e3d050c43a3df1/p_1500x1500/08710438107944_A1N1_s18.jpeg",
+    "url": "https://www.carrefour.fr/p/frites-cote-brasserie-mccain-8710438107944?t=29595",
+    "name": "Frites côté brasserie MCCAIN",
+    "price": 2.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une frite à la forme incurvée pour une texture parfaite. Croustillante à l'extérieur et fondante à l'intérieur. A déguster avec de délicieuses sauces pour un maximum de plaisir ! A cuire au four ou à la friteuse !",
+    "scraped_at": "2025-09-25T23:32:06.821Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5fcb726bdd9740429414e781295df38e/p_1500x1500/03599741006763_C1L1_s02.png",
+    "url": "https://www.carrefour.fr/p/frites-crousti-express-la-large-findus-3599741006763?t=29595",
+    "name": "Frites Crousti' Express la Large FINDUS",
+    "price": 1.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Laissez vous surprendre par La Large micro-ondable Findus. En seulement 2 minutes 30, elle est dorée et croustillante.",
+    "scraped_at": "2025-09-25T23:32:07.624Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3d113a02f4814adbbe51201284221601/p_1500x1500/04104420217843_C1N1.jpeg",
+    "url": "https://www.carrefour.fr/p/pommes-frites-bio-alnatura-4104420217843?t=29595",
+    "name": "Pommes Frites Bio ALNATURA",
+    "price": 2.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pour four et friteuse: ces frites surgelées bio sont préparées avec des pommes de terre cultivées en Allemagne dans le respect des directives Naturland. Elles sont traitées délicatement et ont déjà été préfrites dans l'huile de tournesol. Fraîchement préparées, les frites Alnatura accompagnent des plats de légumes, de poisson ou de viande. Elles se dégustent aussi simplement avec du ketchup et de la mayonnaise.",
+    "scraped_at": "2025-09-25T23:32:08.220Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/15c00191aa233daa86122a355e32e837/p_1500x1500/08710438123968-a1n1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/frites-golden-allumettes-a-la-friteuse-mccain-8710438123968?t=29595",
+    "name": "Frites Golden allumettes à la Friteuse MCCAIN",
+    "price": 3.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites friteuses produites en France à partir de pommes de terre Francaises et d'huile de tournesol pour vous offrir des frites croustillantes et fondantes. Sans huile de palme et sans conservateur.Produit végétarien.",
+    "scraped_at": "2025-09-25T23:32:09.921Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4b70d275e0cb318aa170a21815b086b2/p_1500x1500/3560071270438-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-steakhouse-special-four-carrefour-classic-3560071270438?t=29595",
+    "name": "Frites Steakhouse spécial four CARREFOUR CLASSIC'",
+    "price": 1.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les Carrefour Classic', des pommes frites larges enrobées, préfrites et surgelées à l'huile de tournesol. Préparez-les rapidement et facilement au four pour un résultat croustillant et savoureux en seulement 15 à 20 minutes. Stockez-les facilement dans votre congélateur pour en profiter à tout moment de la journée.",
+    "scraped_at": "2025-09-25T23:32:12.927Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b7dfaa2ae51d3f46ba94ae133b1d1d43/p_1500x1500/08710438123937-a1n1-s04.jpg",
+    "url": "https://www.carrefour.fr/p/frites-golden-allumettes-a-la-friteuse-mccain-8710438123937?t=29595",
+    "name": "Frites Golden allumettes à la Friteuse MCCAIN",
+    "price": 7.05,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites friteuses produites en France à partir de pommes de terre Francaises et d'huile de tournesol pour vous offrir des frites croustillantes et fondantes. Sans huile de palme et sans conservateur.Produit végétarien.",
+    "scraped_at": "2025-09-25T23:32:21.121Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/bfdeed8803e14fd6a459d6994ac9441a/p_1500x1500/08710438123814_A1C1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/frites-just-au-four-allumettes-mccain-8710438123814?t=29595",
+    "name": "Frites just au four allumettes MCCAIN",
+    "price": 5.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites extra croustillantes produites en France à partir de pommes de terre françaises. Préparées sans huile de palme et sans conservateur. Produit végétarien",
+    "scraped_at": "2025-09-25T23:32:25.024Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/576563e0bcf5390ebd2f40425600f854/p_1500x1500/03599741005421-c1l1-s11.jpg",
+    "url": "https://www.carrefour.fr/p/frites-crousti-bistro-la-gourmande-findus-3599741005421?t=29595",
+    "name": "Frites crousti bistro la gourmande FINDUS",
+    "price": 3.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Retrouvez à la maison tout le plaisir des frites presque comme au Bistro en seulement 4min au micro-ondes. Pratique, rapide et au bon goût de pommes de terres dans une grande boite généreuse qui ravira toutes les papilles ! La Crinckle, une frite à la coupe originale pour toujours plus de croustillance.",
+    "scraped_at": "2025-09-25T23:32:25.720Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ff78e331772a40b194cfa42de1467e55/p_1500x1500/05391528182169_A1N1_s02.png",
+    "url": "https://www.carrefour.fr/p/frites-de-3-legumes-betteraves-carottes-et-panais-strong-roots-5391528182169?t=29595",
+    "name": "Frites de 3 Légumes Betteraves, Carottes et Panais STRONG ROOTS",
+    "price": 4.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Betteraves, carottes et panais croustillants. Enfin, des légumes qui donnent la frite.",
+    "scraped_at": "2025-09-25T23:32:26.522Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4d0895686b393e01954f079014b86253/p_1500x1500/3560070057658-photosite-20210406-165620-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-allumettes-carrefour-classic-3560070057658?t=29595",
+    "name": "Frites allumettes CARREFOUR CLASSIC'",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos allumettes de pommes de terre préfrites surgelées, prêtes en seulement 3 à 4 minutes. Elles sont préparées avec des pommes de terre de qualité et de l'huile de tournesol, pour une texture croustillante à l'extérieur et fondante à l'intérieur. Idéales pour accompagner vos plats préférés.",
+    "scraped_at": "2025-09-25T23:32:27.321Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/425ae4d6832b3a6abd07d282be42182a/p_1500x1500/3560071270407-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-allumettes-special-four-carrefour-classic-3560071270407?t=29595",
+    "name": "Frites allumettes spécial four CARREFOUR CLASSIC'",
+    "price": 3.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les pommes de terre Carrrefour Classic' sont des pommes de terre préfrites et surgelées, parfaites pour accompagner vos repas en famille. Elles sont préparées avec soin, en utilisant uniquement des ingrédients de qualité tels que des pommes de terre et de l'huile de tournesol. Leur texture croustillante et leur délicieux goût raviront tous les amateurs de pommes de terre.",
+    "scraped_at": "2025-09-25T23:32:27.521Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e95e6d17daf1452e8e497a39f7aadddb/p_1500x1500/08710438128871_A1N1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/frite-classique-air-fryer-mccain-8710438128871?t=29595",
+    "name": "Frite Classique Air Fryer MCCAIN",
+    "price": 2.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites extra croustillantes. Préparées sans huile de palme et sans conservateur. Produit végétarien",
+    "scraped_at": "2025-09-25T23:32:28.320Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/224638b908ae3940bacf0adfc669ab2d/p_1500x1500/3560070699223-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-carrefour-classic-3560070699223?t=29595",
+    "name": "Frites CARREFOUR CLASSIC'",
+    "price": 4.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les frites préfrites surgelées Carrefour Classic', préparées avec des pommes de terre de qualité et de l'huile de tournesol. Savourez leur croustillant irrésistible en seulement 4 à 6 minutes de cuisson à la friteuse. Parfaites pour accompagner tous vos plats préférés ! Deléitate con las patatas prefritas ultracongeladas Carrefour Classic', preparadas con patatas de calidad y aceite de girasol. Disfruta de su irresistible textura crujiente en tan solo 4-6 minutos de freído en freidora. ¡Ideales para acompañar todos tus platos favoritos!",
+    "scraped_at": "2025-09-25T23:32:29.720Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/de18256b82c44467bd9b4848e0124917/p_1500x1500/08711571093934_C1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/frites-grillees-sel-et-poivre-lamb-weston-8711571093934?t=29595",
+    "name": "Frites Grillées Sel et Poivre LAMB WESTON",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pomme de terre (79%), Enrobage (12%) Amidon modifié de pomme de terre, Farine de maïs, Farine de riz,\nSel, Amidon de pomme de terre, Épices (Poivre noir, Gingembre), Sucre, Oignon en poudre, Ail en poudre, Agents\nlevants (Diphosphate disodique, Bicarbonate de soude), Arômes (Arôme naturel de poivre noir, Arôme naturel d'oignon),\nExtrait aromatique, Épaississant (Gomme xanthane), Huiles…",
+    "scraped_at": "2025-09-25T23:32:30.221Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/44dcd4edd32535f487c1eedddba71cae/p_1500x1500/3560070057597-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-carrefour-classic-3560070057597?t=29595",
+    "name": "Frites CARREFOUR CLASSIC'",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses pommes de terre préfrites surgelées, prêtes en seulement 3-4 minutes de cuisson à la friteuse. Fabriquées à partir de pommes de terre de qualité et d'huile de tournesol, elles offrent une texture croustillante à l'extérieur et moelleuse à l'intérieur. Parfaites pour accompagner tous vos plats préférés ! Savourez des frites croustillantes à souhait avec notre pack de 1 kg de pommes de terre préfrites surgelées. Préparées avec des ingrédients de première qualité, comme des pommes de terre fraîches et de l'huile de tournesol, nos frites sont un choix délicieux pour tous les amateurs de pommes de terre. Cuisez-les facilement à la friteuse et profitez d'une pause gourmande en un rien de temps !",
+    "scraped_at": "2025-09-25T23:32:31.927Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/49381e38cb6431b2955bcd5d3350c543/p_1500x1500/08710438123845-a1n1-s06.jpg",
+    "url": "https://www.carrefour.fr/p/frites-tradition-mccain-8710438123845?t=29595",
+    "name": "Frites tradition MCCAIN",
+    "price": 6.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des frites friteuses produites en France à partir de pommes de terre Francaises et d'huile de tournesol pour vous offrir des frites croustillantes et fondantes. Sans huile de palme et sans conservateur.Produit végétarien. Des frites friteuses produites en France à partir de pommes de terre françaises",
+    "scraped_at": "2025-09-25T23:32:35.520Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1805b6ef31fa44b1b5a0cab1de273ec6/p_1500x1500/3560070120451_1.jpg",
+    "url": "https://www.carrefour.fr/p/pommes-noisettes-croustillantes-carrefour-3560070120451?t=29595",
+    "name": "Pommes noisettes croustillantes CARREFOUR",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos pommes noisettes croustillantes à l'extérieur et moelleuses à l'intérieur, préparées avec des pommes de terre de qualité et de l'huile de tournesol. Faciles à préparer au four ou à la poêle, elles sont parfaites pour accompagner tous vos plats préférés. Profitez de la délicieuse saveur des pommes noisettes Carrefour sans compromettre votre équilibre alimentaire.",
+    "scraped_at": "2025-09-25T23:32:37.743Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/668625a6aa2e439dbba17dcaf4e6de8f/p_1500x1500/08711571093262_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/frites-waffle-assaisonnees-lamb-weston-8711571093262?t=29595",
+    "name": "Frites Waffle Assaisonnées LAMB WESTON",
+    "price": 3.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pommes de terre (84%), Enrobage (9%) Amidon modifié de pomme de terre , Farine de riz, Fécule de pomme de terre, Sel, Ail en poudre, Epices (Piment, Piment de Cayenne, Paprika, Racine de livèche, Cumin) , Oignon en poudre, Agents levants (Diphosphate disodique, Bicarbonate de soude), Extrait de levure, Dextrose, Extrait aromatique, Epaississant (Gomme xanthane), Huile végétale (Colza, Tournes…",
+    "scraped_at": "2025-09-25T23:32:42.226Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b99f26e6f2ec3e8481e660feb0e4aebe/p_1500x1500/3560070687114-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-carrefour-classic-3560070687114?t=29595",
+    "name": "Frites CARREFOUR CLASSIC'",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses pommes de terre préfrites surgelées Carrefour Classic ! Elles sont savoureuses et croustillantes à souhait, prêtes en seulement 4 à 6 minutes de cuisson. Profitez d'un accompagnement facile à préparer pour tous vos repas. À conserver au congélateur pour en avoir toujours sous la main.",
+    "scraped_at": "2025-09-25T23:32:46.127Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/907962f6b69e469497bb21d22886f53e/p_1500x1500/08710438121902_A1N1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/pommes-de-terre-crunchy-petals-mccain-8710438121902?t=29595",
+    "name": "Pommes de terre crunchy petals MCCAIN",
+    "price": 3.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une texture croustillante à l'exterieur et fondante à l'intérieur! Un look rustique et authentique pour un plaisir EXTRA !!!",
+    "scraped_at": "2025-09-25T23:32:46.622Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8701adc0fb724a17ad9451b0ecfcac52/p_1500x1500/3560070699469_0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-express-4-min-carrefour-classic-3560070699469?t=29595",
+    "name": "Frites express 4 min CARREFOUR CLASSIC'",
+    "price": 0.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses pommes de terre préfrites surgelées, croustillantes à l'extérieur et moelleuses à l'intérieur. Elles sont préparées avec des ingrédients de qualité et sont parfaites pour accompagner tous vos plats préférés.",
+    "scraped_at": "2025-09-25T23:32:48.020Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cf807a1a759b371f80dc6641072985f2/p_1500x1500/3560071499815-0.jpg",
+    "url": "https://www.carrefour.fr/p/melange-de-legumes-carotte-panais-betterave-carrefour-extra-3560071499815?t=29595",
+    "name": "Mélange de légumes carotte panais betterave CARREFOUR EXTRA",
+    "price": 2.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Carottes 29%, panais 28,5%, betteraves rouges 28,5%, huiles végétales (colza, tournesol, en proportion variable), farine de riz, amidon modifié de pomme de terre, dextrine de pomme de terre, farine de maïs, poudres à lever : diphosphates et carbonates de sodium, sel, dextrine de tapioca, stabilisants : gomme xanthane et méthylcellulose, colorants : extrait de paprika, curcumine.",
+    "scraped_at": "2025-09-25T23:32:50.550Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/14316f86304f3636a9e0067ea1961f04/p_1500x1500/3560071270377-0.jpg",
+    "url": "https://www.carrefour.fr/p/frites-special-four-carrefour-classic-3560071270377?t=29595",
+    "name": "frites spécial four CARREFOUR CLASSIC'",
+    "price": 3.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les délicieuses pommes de terre enrobées, préfrites et surgelées Carrefour Classic sont l'accompagnement parfait pour tous vos repas. Les frites croustillantes et dorées au four sont prêtes en seulement 15 à 18 minutes, pour un résultat savoureux à chaque fois.",
+    "scraped_at": "2025-09-25T23:32:54.120Z"
+  }
+]

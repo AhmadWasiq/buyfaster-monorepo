@@ -1,0 +1,462 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/4db46e36d65d3c5187e05e9915052dd8/p_1500x1500/3560071083106-photosite-20171226-162659-0.jpg",
+    "url": "https://www.carrefour.fr/p/legumes-brocolis-choux-fleurs-bio-carrefour-bio-3560071083106?t=29594",
+    "name": "Légumes brocolis choux fleurs Bio CARREFOUR BIO",
+    "price": 2.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Dégustez notre délicieux Duo de Fleurettes Brocolis & Choux-fleurs Carrefour Bio, cultivé selon les principes de l'agriculture biologique en France. Grâce à notre procédé de surgélation, ces légumes conservent leurs propriétés nutritionnelles et leurs saveurs intactes. Parfait en accompagnement de viandes ou de poissons ou dans la préparation de vos plats préférés.",
+    "scraped_at": "2025-09-25T23:22:38.497Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6f409be73e764726b10449bb0436a8f8/p_1500x1500/03083681066852_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/puree-delice-aux-carottes-potiron-et-creme-bonduelle-3083681066852?t=29594",
+    "name": "Purée délice aux carottes, potiron et crème BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La purée Si Douce est un mélange gourmand de carottes et de potiron, finement relevée d'une pointe de crème. Le goût sucré et doux de cette purée séduira toute la famille. Consommer 150g de purée Bonduelle contribue à diversifier les apports en légumes et représente 1 des 5 portions de fruits et légumes recommandées par jour.",
+    "scraped_at": "2025-09-25T23:22:44.309Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/abb0d6897e283d4baae5bc6f11a14558/p_1500x1500/3270190207337-0.jpg",
+    "url": "https://www.carrefour.fr/p/haricots-verts-tres-fins-bio-carrefour-bio-3270190207337?t=29594",
+    "name": "Haricots verts très fins Bio CARREFOUR BIO",
+    "price": 1.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos haricots verts très fins issus de l'agriculture biologique, cultivés, surgelés et conditionnés en France. Profitez d'une préparation facile sans décongélation préalable, que ce soit à la casserole ou à l'autocuiseur. Un produit de qualité, à conserver plusieurs mois au congélateur pour une utilisation pratique et rapide dans vos recettes préférées.",
+    "scraped_at": "2025-09-25T23:22:57.605Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/00452d750bb54b2f85e90859ab29bede/p_1500x1500/03083680836371_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/epinards-feuilles-preservees-bonduelle-3083680836371?t=29594",
+    "name": "Epinards feuilles préservées BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Issus de variétés sélectionnées, cueillis à pleine maturité, les épinards sont lavés, égouttés avant d'êtres superposés feuille après feuille. Ils sont ensuite soigneusement découpés en palet de 50g puis rapidement surgelés afin de préserver toute l'intégralité du légume. Un produit unique dont la saveur, la couleur et la texture sont préservées.",
+    "scraped_at": "2025-09-25T23:23:01.502Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/31d4e1eb2e0d41fdb34aa6ea2f11b7eb/p_1500x1500/03083681097627_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/petits-pois-bio-bonduelle-3083681097627?t=29594",
+    "name": "Petits pois Bio BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les Petits Pois Bio 100% Français présentés dans un nouvel emballage végétal composé à 45% de matière biosourcée issue de la canne à sucre. Ils sont précuits vapeur et sans additif pour une préservation optimale des qualités nutritionnelles et gustatives des légumes au plus proche du frais.",
+    "scraped_at": "2025-09-25T23:23:03.203Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7a3ba650559c3f419689c63b0efe3287/p_1500x1500/3560071418670-0.jpg",
+    "url": "https://www.carrefour.fr/p/potimarron-en-cubes-carrefour-bio-3560071418670?t=29594",
+    "name": "Potimarron en cubes CARREFOUR BIO",
+    "price": 2.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos cubes de potimarrons bio surgelés, faciles à préparer sans décongélation préalable. Préparez-les à la casserole, à l'autocuiseur ou au micro-ondes selon vos préférences. Savourez-les en accompagnement ou dans vos recettes préférées.",
+    "scraped_at": "2025-09-25T23:23:04.801Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a3c1d36e7d97454f8d37d1172454a12b/p_1500x1500/03083681032345_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/petits-pois-extra-fondants-precuits-a-la-vapeur-bonduelle-3083681032345?t=29594",
+    "name": "Petits pois extra-fondants précuits à la vapeur BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Avec la gamme précuit Vapeur Bonduelle, retrouvez dans votre assiette le goût et les qualités au plus proche du frais en seulement 3 minutes. Ces légumes ont été cueillis en France, précuits à la vapeur et surgelés dans la journée.",
+    "scraped_at": "2025-09-25T23:23:06.002Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a47c33bf26ad415daf15b1893779ac26/p_1500x1500/03083681115949_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-sans-residu-de-pesticides-bonduelle-3083681115949?t=29594",
+    "name": "Haricots verts extra-fins sans résidu de pesticides BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Aussitôt cueillis, aussitôt surgelés ! Ces haricots verts récoltés en France sont garantis sans résidu de pesticides*. Ils sont précuits à la vapeur pour préserver le goût et les qualités du légume. Puis simplement surgelés, et tout ça dans la même journée ! *dans la limite de quantification (",
+    "scraped_at": "2025-09-25T23:23:08.002Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4879f5d1b04c3669ae013ef3cc61324b/p_1500x1500/3270190207351-0.jpg",
+    "url": "https://www.carrefour.fr/p/petits-pois-tres-fins-bio-carrefour-bio-3270190207351?t=29594",
+    "name": "Petits pois très fins Bio CARREFOUR BIO",
+    "price": 2.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos petits pois très fins cultivés dans le respect de l'agriculture biologique. Fraîchement récoltés, ils sont lavés, blanchis puis surgelés pour préserver leurs qualités nutritionnelles et leur saveur naturelle. Parfaits en accompagnement de viandes ou poissons, ou dans la préparation de plats et salades.",
+    "scraped_at": "2025-09-25T23:23:07.804Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/173deef130813671b7a76a0d1ff7b8ab/p_1500x1500/3270190208280-0.jpg",
+    "url": "https://www.carrefour.fr/p/oignons-eminces-carrefour-classic-3270190208280?t=29594",
+    "name": "Oignons émincés CARREFOUR CLASSIC'",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les oignons émincés surgelés Carrefour Classic', parfaits pour ajouter une touche d'arôme à toutes vos recettes. Préparez-les à la poêle avec un peu de beurre ou d'huile d'olive et ajoutez-les à vos plats préférés pour une saveur délicieuse et pratique.",
+    "scraped_at": "2025-09-25T23:23:09.801Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/079f5092263b43b1ac2afe6b6fe3468c/p_1500x1500/03083681070354_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/haricots-verts-et-haricots-beurres-precuits-a-la-vapeur-bonduelle-3083681070354?t=29594",
+    "name": "Haricots verts et haricots beurres précuits à la vapeur BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Précuits vapeur : Retrouvez dans votre assiette le goût et les qualités au plus proche des légumes frais en seulement 3 minutes. Ces haricots verts et haricots beurre ont été cultivés en France. Ils ont été cueillis, précuits à la vapeur et surgelés dans la journée. Pour la fabrication de nos emballages, nous utilisons deux fois moins d'encre et 25% de plastique en moins.",
+    "scraped_at": "2025-09-25T23:23:10.906Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b9f96811288546cebf928b7f1414f66f/p_1500x1500/3270190021582_1.jpg",
+    "url": "https://www.carrefour.fr/p/champignons-de-paris-eminces-carrefour-3270190021582?t=29594",
+    "name": "Champignons de Paris émincés CARREFOUR",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieux champignons de Paris émincés surgelés, cultivés dans des champignonnières et récoltés mensuellement. Grâce à notre méthode de surgélation rapide, leurs propriétés gustatives et nutritionnelles sont préservées. Réchauffez-les facilement à la poêle ou au micro-ondes et savourez-les selon vos préférences. Profitez chaque jour de nos légumes Carrefour pour vous faire plaisir !",
+    "scraped_at": "2025-09-25T23:23:11.999Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e433f5b530524939ae8dbc6fe32efc04/p_1500x1500/03083681148329_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/brocoli-en-fleurettes-sans-residu-de-pesticides-bonduelle-3083681148329?t=29594",
+    "name": "Brocoli en fleurettes sans résidu de pesticides BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Nos brocolis sont cueillis à maturité au coeur de la saison, précuits à la vapeur puis surgelés dans la journée pour préserver le goût et les qualités du légume !",
+    "scraped_at": "2025-09-25T23:23:13.000Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/deef573c751948eea6c47a176f66ae3a/p_1500x1500/03083681097658_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/haricots-verts-bio-bonduelle-3083681097658?t=29594",
+    "name": "Haricots verts Bio BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les Haricots Verts BIO 100% FRANÇAIS. Ils sont précuits vapeur et sans additif pour une préservation optimale des qualités nutritionnelles et gustatives des légumes au plus proche du frais.",
+    "scraped_at": "2025-09-25T23:23:13.702Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3fca5fc999cf4ce09b778d372a85f634/p_1500x1500/03083680019408_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-precuits-a-la-vapeur-bonduelle-3083680019408?t=29594",
+    "name": "Haricots verts extra-fins précuits à la vapeur BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Avec la gamme précuit Vapeur Bonduelle, retrouvez dans votre assiette le goût et les qualités des légumes frais en seulement 3 minutes. Ces haricots verts ont été cultivés en France. Ils ont été cueillis, précuits à la vapeur et surgelés dans la journée. Pour la fabrication de nos emballages, nous utilisons deux fois moins d'encre et 25% de plastique en moins.",
+    "scraped_at": "2025-09-25T23:23:16.202Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3be3a685d6154095a4d0bd2e7cef8785/p_1500x1500/03083681054286_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/champignons-de-paris-eminces-epais-bonduelle-3083681054286?t=29594",
+    "name": "Champignons de Paris émincés épais BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Nos champignons de Paris sont cultivés, cueillis et rigoureusement sélectionnés en Val de Loire. Fermes et savoureux : émincés à la façon des Champignons frais, ils ont une coupe nette et épaisse pour plus de texture.",
+    "scraped_at": "2025-09-25T23:23:17.503Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5e30666f86184281a2560f09ef0f7e1d/p_1500x1500/03083681115970_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/epinards-feuilles-preservees-sans-residu-de-pesticides-bonduelle-3083681115970?t=29594",
+    "name": "Epinards feuilles préservées sans résidu de pesticides BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Cueillis à pleine maturité, ces épinards sont garantis sans résidus de pesticides*. Après être lavés et égouttés, ils sont superposés feuille après feuille et découpés en palets pour préserver toute l'intégrité du légume. Puis simplement surgelés, et tout ça dans la même journée ! *Dans la limite de quantification (",
+    "scraped_at": "2025-09-25T23:23:18.607Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/bfeb0486a04342a8a4a97c37816639fe/p_1500x1500/03083681148299_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/chou-fleur-en-fleurettes-sans-residu-de-pesticides-bonduelle-3083681148299?t=29594",
+    "name": "Chou-fleur en fleurettes sans résidu de pesticides BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Nos choux-fleurs sont cultivés en France, cueillis à maturité au coeur de la saison, précuits à la vapeur puis surgelés dans la journée pour préserver le goût et les qualités du légume !",
+    "scraped_at": "2025-09-25T23:23:19.001Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c3930b44199f444eb90dcef8892bf38e/p_1500x1500/03083681116007_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/petits-pois-fondants-sans-residu-de-pesticides-bonduelle-3083681116007?t=29594",
+    "name": "Petits pois fondants sans résidu de pesticides BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ces petits pois récoltés en France sont garantis sans résidu de pesticides*. Ils sont précuits à la vapeur pour préserver le goût et les qualités du légume. Puis simplement surgelés, et tout ça dans la même journée ! *Dans la limite de quantification (inférieur à 0,01 ppm) pour plus de 500 molécules analysées.",
+    "scraped_at": "2025-09-25T23:23:20.099Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/794bf816160a3cd3b5423132d8d03711/p_1500x1500/3560070568864-photosite-20200325-171105-0.jpg",
+    "url": "https://www.carrefour.fr/p/carottes-en-rondelles-bio-carrefour-bio-3560070568864?t=29594",
+    "name": "Carottes en rondelles Bio CARREFOUR BIO",
+    "price": 2.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos carottes en rondelles surgelées issues de l'agriculture biologique. Pratiques et savoureuses, elles peuvent être préparées de différentes façons pour accompagner tous vos plats.",
+    "scraped_at": "2025-09-25T23:23:21.797Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b600c8bb85d937b4a30b5db9e26c4f9d/p_1500x1500/3560070484447-photosite-20181228-161519-0.jpg",
+    "url": "https://www.carrefour.fr/p/poireaux-eminces-bio-carrefour-bio-3560070484447?t=29594",
+    "name": "Poireaux émincés Bio CARREFOUR BIO",
+    "price": 2.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les poireaux émincés Carrefour Bio, issus de l'agriculture biologique et cultivés en France selon les principes de l'agriculture biologique. Parfaits en accompagnement ou dans vos plats et tartes préférés, ces poireaux bio vous permettent de contribuer au respect de l'environnement. Savourez-les avec vos viandes ou poissons préférés pour une touche de fraîcheur et de saveur naturelle.",
+    "scraped_at": "2025-09-25T23:23:27.502Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/20328f2b7c7f42c68090f7021b850a63/p_1500x1500/3560070122349_0.JPG",
+    "url": "https://www.carrefour.fr/p/choux-fleurs-en-fleurettes-carrefour-classic-3560070122349?t=29594",
+    "name": "Choux-fleurs en fleurettes CARREFOUR CLASSIC'",
+    "price": 1.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les choux-fleurs en fleurettes surgelés de Carrefour Classic sont pratiques, faciles à préparer et conservent leur fraîcheur. Disponible en emballage de 1 kg, ce produit assure des préparations savoureuses en quelques minutes seulement.",
+    "scraped_at": "2025-09-25T23:23:28.201Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f395b383c50d30cfb3d61e70d95498a3/p_1500x1500/3560070253371-0.jpg",
+    "url": "https://www.carrefour.fr/p/choux-fleurs-en-fleurettes-bio-carrefour-bio-3560070253371?t=29594",
+    "name": "Choux-fleurs en fleurettes Bio CARREFOUR BIO",
+    "price": 2.05,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos choux-fleurs en fleurettes issus de l'agriculture biologique, cultivés en Espagne et surgelés sur place afin de préserver leurs qualités nutritionnelles et leurs saveurs. Parfaits en accompagnement de viandes et de poissons ou pour la préparation de vos plats et salades.",
+    "scraped_at": "2025-09-25T23:23:33.802Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3a9827c3c4024e6abf65bd4de087c8e6/p_1500x1500/03083681168044_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-duo-de-carottes-et-panais-bonduelle-3083681168044?t=29594",
+    "name": "Plat cuisiné Duo De Carottes Et Panais BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un mélange de carottes et de panais avec une coupe 'comme à la maison', idéal pour manger des légumes facilement !",
+    "scraped_at": "2025-09-25T23:23:35.101Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c40f2bc261a63c87bcce1e8b89ee2181/p_1500x1500/3560071083113-photosite-20200325-171039-0.jpg",
+    "url": "https://www.carrefour.fr/p/oignons-eminces-bio-carrefour-bio-3560071083113?t=29594",
+    "name": "Oignons émincés Bio CARREFOUR BIO",
+    "price": 1.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des oignons bio certifiés surgelés, issus de l'agriculture biologique en Espagne. Prêts à être utilisés directement sans décongélation, ils peuvent être cuisinés à la poêle pendant 8 à 10 minutes avec un peu d'huile ou au four à micro-ondes pendant 7 à 8 minutes avec une cuillère d'eau.",
+    "scraped_at": "2025-09-25T23:23:36.597Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/71f2109b1e4336018444c17785353775/p_1500x1500/3560071072797-0.jpg",
+    "url": "https://www.carrefour.fr/p/courge-butternut-en-ces-carrefour-classic-3560071072797?t=29594",
+    "name": "Courge butternut en ces CARREFOUR CLASSIC'",
+    "price": 1.5,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La courge butternut, un fruit délicieux et polyvalent, est cultivée et surgelée en Italie pour garantir une fraîcheur et une saveur optimales. Profitez de ce légume à tout moment de l'année avec les cubes surgelés de courge butternut de Carrefour.",
+    "scraped_at": "2025-09-25T23:23:38.203Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/88154b4687344af8bee2d7603b294707/p_1500x1500/3560070122165_0.JPG",
+    "url": "https://www.carrefour.fr/p/epinards-en-branches-carrefour-classic-3560070122165?t=29594",
+    "name": "Epinards en branches CARREFOUR CLASSIC'",
+    "price": 1.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les épinards en branches Carrefour CLASSIC', récoltés à maturité et rapidement surgelés pour préserver leurs précieuses propriétés nutritionnelles. Idéaux pour accompagner vos plats, ces épinards verts foncés sont faciles à préparer et constituent une source naturelle de fibres et de protéines. Ajoutez-les à vos recettes préférées sans décongélation préalable, à la casserole, à l'autocuiseur ou au micro-ondes, pour un repas savoureux et équilibré.",
+    "scraped_at": "2025-09-25T23:23:39.603Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/52e9d5ff7b294744b969fbd8e83f6b3d/p_1500x1500/3270190204152_0.JPG",
+    "url": "https://www.carrefour.fr/p/carottes-en-rondelles-carrefour-classic-3270190204152?t=29594",
+    "name": "Carottes en rondelles CARREFOUR CLASSIC'",
+    "price": 1.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les carottes en rondelles surgelées Carrefour Classic', idéales pour préparer rapidement et facilement vos repas. Ces carottes savoureuses sont prêtes en seulement 9 minutes de cuisson, pour régaler toute la famille à tout moment de l'année.",
+    "scraped_at": "2025-09-25T23:23:40.204Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0fae8456efb64ef98ccc2213f686ee90/p_1500x1500/3560071445188_1.jpg",
+    "url": "https://www.carrefour.fr/p/garden-peas-gros-pois-carrefour-extra-3560071445188?t=29594",
+    "name": "Garden Peas gros pois CARREFOUR EXTRA",
+    "price": 1.7,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Garden Peas Carrefour Extra sont de délicieux pois frais, fondants et sucrés. Faciles à préparer, ils apportent une saveur naturelle à tous vos plats.",
+    "scraped_at": "2025-09-25T23:23:40.402Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/918b8ea1c06b436cadd0359e21b92c8f/p_1500x1500/5400101174986_0.jpg",
+    "url": "https://www.carrefour.fr/p/poireaux-en-rondelles-carrefour-classic-5400101174986?t=29594",
+    "name": "Poireaux en rondelles CARREFOUR CLASSIC'",
+    "price": 1.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos rondelles de poireaux surgelées Carrefour Classic, prêtes à être préparées selon vos envies. Faciles à cuisiner en seulement 10 minutes, elles sont idéales pour donner du goût et de la fraîcheur à vos plats. Disponibles en paquet de 1 kg, elles vous permettent de profiter de la saveur des poireaux tout au long de l'année.",
+    "scraped_at": "2025-09-25T23:23:46.304Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3b7042c065454aa1a298f62548df4790/p_1500x1500/3270190020394_0.jpg",
+    "url": "https://www.carrefour.fr/p/choux-de-bruxelles-carrefour-classic-3270190020394?t=29594",
+    "name": "Choux de Bruxelles CARREFOUR CLASSIC'",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les Choux de Bruxelles surgelés Carrefour Classic sont des légumes pratiques et délicieux. Préparez-les rapidement et facilement à la casserole ou au micro-ondes pour accompagner vos plats. Profitez de leur saveur naturelle et de leurs valeurs nutritionnelles pour une alimentation équilibrée et saine.",
+    "scraped_at": "2025-09-25T23:23:47.102Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/fc6ea7309aa63de9ac61201269a94de3/p_1500x1500/3560070260584-0.jpg",
+    "url": "https://www.carrefour.fr/p/champignons-de-paris-eminces-bio-carrefour-bio-3560070260584?t=29594",
+    "name": "Champignons de Paris émincés Bio CARREFOUR BIO",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les champignons de Paris bio Carrefour, certifiés agriculture biologique. Cultivés aux Pays-Bas, ces champignons sont lavés, émincés puis surgelés pour préserver leurs propriétés nutritionnelles et leurs saveurs. Savourez-les en accompagnement de viandes ou de poissons, ou utilisez-les dans la préparation de tous vos plats et salades.",
+    "scraped_at": "2025-09-25T23:23:51.206Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b7be2b7c530d3137be4325502b3e94da/p_1500x1500/3560070484478-0.jpg",
+    "url": "https://www.carrefour.fr/p/potiron-en-cubes-carrefour-classic-3560070484478?t=29594",
+    "name": "Potiron en cubes CARREFOUR CLASSIC'",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre produit de potiron en cubes surgelé Carrefour Classic'. Parfait pour préparer vos plats préférés sans avoir à vous soucier de la préparation, il vous suffit de choisir votre mode de cuisson préféré. Profitez d'un produit pratique et de qualité sans avoir à décongeler au préalable.",
+    "scraped_at": "2025-09-25T23:23:53.199Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/044f68fece8b43cb8a7889ec5984aef5/p_1500x1500/3560070321216_0.JPG",
+    "url": "https://www.carrefour.fr/p/oignons-en-cubes-carrefour-classic-3560070321216?t=29594",
+    "name": "Oignons en cubes CARREFOUR CLASSIC'",
+    "price": 0.93,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les oignons en cubes surgelés Carrefour Classic sont pratiques et faciles à utiliser dans vos recettes préférées. Ils apporteront une saveur délicieuse à vos plats, sans que vous ayez besoin de les éplucher et de les couper vous-même.",
+    "scraped_at": "2025-09-25T23:23:53.804Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3803ec1039f530cba0d24b1a39124f6e/p_1500x1500/3560070568833-0.jpg",
+    "url": "https://www.carrefour.fr/p/epinards-haches-carrefour-bio-3560070568833?t=29594",
+    "name": "Epinards hachés CARREFOUR BIO",
+    "price": 1.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos épinards hachés surgelés issus de l'agriculture biologique, cultivés en Belgique et/ou aux Pays-Bas. Fraîchement récoltés, ils sont soigneusement lavés, blanchis puis hachés avant d'être surgelés afin de préserver toute leur saveur et leurs propriétés nutritionnelles. Parfait en accompagnement de viandes et poissons ou pour agrémenter vos plats préférés.",
+    "scraped_at": "2025-09-25T23:24:01.106Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/355d47d7e5a5353da8f59ee4ddf7777b/p_1500x1500/3560071176297-0.jpg",
+    "url": "https://www.carrefour.fr/p/brocolis-en-fleurettes-precuits-carrefour-extra-3560071176297?t=29594",
+    "name": "Brocolis en fleurettes précuits CARREFOUR EXTRA",
+    "price": 1.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos brocolis en fleurettes, pré-cuits et surgelés, pour une préparation rapide et facile. Profitez de la fraîcheur et de la qualité des légumes, à déguster selon vos préférences de cuisson, à la casserole ou au four à micro-ondes.",
+    "scraped_at": "2025-09-25T23:24:01.601Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/83493334d24637a4a2d5bd921af745b3/p_1500x1500/3560071223526-0.jpg",
+    "url": "https://www.carrefour.fr/p/patates-douces-en-cubes-carrefour-classic-3560071223526?t=29594",
+    "name": "Patates douces en cubes CARREFOUR CLASSIC'",
+    "price": 1.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses patates douces en cubes, surgelées pour une simplicité et une praticité optimale. Préparez-les en quelques minutes à la casserole ou au micro-ondes selon vos préférences. Idéales pour accompagner vos plats ou préparer des recettes savoureuses.",
+    "scraped_at": "2025-09-25T23:24:03.900Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3f7678556f994ca6b21fe73d5bf2829b/p_1500x1500/3270190207344_1.JPG",
+    "url": "https://www.carrefour.fr/p/brocolis-en-fleurettes-bio-carrefour-bio-3270190207344?t=29594",
+    "name": "Brocolis en fleurettes Bio CARREFOUR BIO",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les brocolis Carrefour BIO en fleurettes, issus de l'agriculture biologique. Cultivés selon les principes de l'Agriculture Biologique, ces brocolis sont découpés, lavés et surgelés pour préserver leurs propriétés nutritionnelles et leurs saveurs. Parfaits en accompagnement de viande ou de poisson, ou pour sublimer vos plats, tartes et salades.",
+    "scraped_at": "2025-09-25T23:24:05.403Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/fa079b7f20e842a9b853d42b45ccde59/p_1500x1500/3560070149155_0.jpg",
+    "url": "https://www.carrefour.fr/p/asperges-vertes-carrefour-classic-3560070149155?t=29594",
+    "name": "Asperges vertes CARREFOUR CLASSIC'",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les asperges vertes entières surgelées Carrefour Classic. Préparez-les facilement dans une casserole d'eau bouillante légèrement salée en 10 à 15 minutes pour obtenir la cuisson parfaite selon vos préférences. Une manière pratique de profiter des asperges toute l'année sans compromis sur la fraîcheur.",
+    "scraped_at": "2025-09-25T23:24:05.897Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8819a3d27aa2405fa9413e2ecefad90a/p_1500x1500/3270190207368_1.JPG",
+    "url": "https://www.carrefour.fr/p/epinards-en-branches-bio-carrefour-bio-3270190207368?t=29594",
+    "name": "Epinards en branches Bio CARREFOUR BIO",
+    "price": 1.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les épinards en branches surgelés Carrefour Bio, cultivés selon les principes de l'agriculture biologique. Riches en saveurs et en nutriments, ces épinards bio sont parfaits pour accompagner vos plats de viandes ou de poissons, ou pour être utilisés dans toutes vos recettes préférées.",
+    "scraped_at": "2025-09-25T23:24:07.999Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/47541cc83a33346fbbe4d4f6fff6fa06/p_1500x1500/3560071488581-0.jpg",
+    "url": "https://www.carrefour.fr/p/champignons-de-paris-en-persillade-carrefour-extra-3560071488581?t=29594",
+    "name": "Champignons de Paris en persillade CARREFOUR EXTRA",
+    "price": 2.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Champignons de Paris précuits 92%, huile de tournesol, persil 2%, ail 1%, sel.",
+    "scraped_at": "2025-09-25T23:24:08.698Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9015c09655c24b828b674b83b89b9825/p_1500x1500/3270190020660_0.JPG",
+    "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-carrefour-classic-3270190020660?t=29594",
+    "name": "Haricots verts extra-fins CARREFOUR CLASSIC'",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les haricots verts extra-fins surgelés de Carrefour Classic, des haricots verts de qualité récoltés jeunes et rapidement surgelés pour préserver leurs propriétés gustatives. Faciles à préparer à la casserole ou au micro-ondes, ils sont parfaits pour accompagner tous vos plats préférés. Choisissez la qualité Carrefour pour des légumes savoureux à chaque repas.",
+    "scraped_at": "2025-09-25T23:24:09.699Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8f3809ce3b634d988f231edf8d6de10c/p_1500x1500/3560070588480-photosite-2025210-104524-0.JPG",
+    "url": "https://www.carrefour.fr/p/coriandre-carrefour-3560070588480?t=29594",
+    "name": "Coriandre CARREFOUR",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les herbes aromatiques Carrefour surgelées, parfaites pour assaisonner vos plats en un clin d'œil grâce à leur boîte refermable. Profitez du plaisir des saveurs fraîches sans décongélation préalable.",
+    "scraped_at": "2025-09-25T23:24:09.899Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b31ce5e8f1184257b2b9421414bdc4dc/p_540x540/3560071176266_0.jpg",
+    "url": "https://www.carrefour.fr/p/carottes-en-rondelles-carrefour-extra-3560071176266?t=29594",
+    "name": "Carottes en rondelles CARREFOUR EXTRA",
+    "price": 1.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les carottes en rondelles précuites à la vapeur surgelées Carrefour Extra, prêtes en seulement 3 minutes au micro-ondes ou 5 minutes à la casserole. Savourez le goût authentique des carottes françaises, sans ajout de conservateurs, et profitez d'une préparation rapide et facile pour accompagner vos repas.",
+    "scraped_at": "2025-09-25T23:24:16.403Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9673f2b71e5f4c09bd823595a9769f65/p_1500x1500/3560071019570_1.JPG",
+    "url": "https://www.carrefour.fr/p/brocolis-en-fleurettes-en-fleurettes-carrefour-classic-3560071019570?t=29594",
+    "name": "Brocolis en fleurettes en fleurettes CARREFOUR CLASSIC'",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le brocoli en fleurettes surgelé Carrefour Classic est un produit pratique et de qualité pour vos préparations culinaires. Il est facile à utiliser et conserve toutes ses qualités nutritionnelles pour des repas équilibrés.",
+    "scraped_at": "2025-09-25T23:24:24.899Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cfa44887c04c3cbda2cb9a27998e5f79/p_1500x1500/3560071452902-0.jpg",
+    "url": "https://www.carrefour.fr/p/haricots-duo-extra-fins-carrefour-classic-3560071452902?t=29594",
+    "name": "Haricots duo extra-fins CARREFOUR CLASSIC'",
+    "price": 1.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre mélange de légumes surgelés Carrefour Classic', composé de haricots verts et de haricots beurre. Préparez facilement et rapidement une délicieuse poêlée de légumes avec ce duo savoureux et pratique à utiliser.",
+    "scraped_at": "2025-09-25T23:24:28.012Z"
+  }
+]

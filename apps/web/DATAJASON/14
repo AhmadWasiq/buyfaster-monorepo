@@ -1,0 +1,392 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/adfcadb6ff6048ec99d0524cb4e718ab/p_1500x1500/03242272861553_A1N1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwichs-club-pain-complet-jambon-emmental-sodebo-3242272861553?t=37166",
+    "name": "Sandwichs club pain complet jambon emmental SODEBO",
+    "price": 169,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nIngrédients : Pain de mie (farines de BLE, de BLE complète, de fèves et d'ORGE malté, eau, huile de colza, levure boulangère, sucre, sel, GLUTEN de BLE, vinaigre d'alcool), jambon de porc, EMMENTAL, eau, huile de colza, jaune d'OEUF, vinaigre d'alcool, dextrose, sirop de glucose, amidon et/ou fécule, ferment, conservateur : nitrite de sodium, stabilisant : triphosphates, antioxydant : érythorbate …",
+    "scraped_at": "2025-09-25T17:34:26.312Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6b789933cb183fb69f3393df2e55cab2/p_1500x1500/3560070565313-0.jpg",
+    "url": "https://www.carrefour.fr/p/sandwich-jambon-beurre-carrefour-bon-appetit-3560070565313?t=37166",
+    "name": "Sandwich jambon beurre CARREFOUR BON APPETIT",
+    "price": 109,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux sandwich au jambon cuit standard et beurre, garni d'une savoureuse tranche de pain de mie complet. Un encas parfait pour combler votre faim à tout moment de la journée. Savourez notre sandwich au jambon et beurre, préparé à partir d'ingrédients de qualité tels que le pain de mie complet et le jambon cuit standard. Idéal pour un repas rapide et savoureux.",
+    "scraped_at": "2025-09-25T17:34:43.084Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4a35e7789beb4a9dbe224720d9ac47d9/p_1500x1500/3560070953325_0.jpg",
+    "url": "https://www.carrefour.fr/p/sandwich-thon-crudites-carrefour-bon-appetit-3560070953325?t=37166",
+    "name": "Sandwich thon crudités CARREFOUR BON APPETIT",
+    "price": 139,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux sandwich au thon garni de crudités fraîches et présenté sur un pain de mie complet. Un choix savoureux et équilibré pour vos déjeuners sur le pouce !",
+    "scraped_at": "2025-09-25T17:34:48.088Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1c5678db07114f28a18510292f688617/p_1500x1500/03242272981459_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/sandwichs-club-pain-viennois-thon-oeuf-sodebo-3242272981459?t=37166",
+    "name": "Sandwichs club pain viennois thon œuf SODEBO",
+    "price": 199,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un sandwich à la générosité débordante pour les Méga faims !",
+    "scraped_at": "2025-09-25T17:35:13.187Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7ee3257648fd4ee2a6d3d2543442bd26/p_1500x1500/03367651008104_C1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/sandwich-thon-fromage-frais-ciboulette-daunat-3367651008104?t=37166",
+    "name": "Sandwich thon fromage frais & ciboulette DAUNAT",
+    "price": 217,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un pain moelleux, une garniture fraîche et savoureuse à base de fromage frais et d'herbes cuisinées. Le tout protégé par un film aluminisé qui garantit la fraîcheur jusqu'au moment de consommation.",
+    "scraped_at": "2025-09-25T17:35:17.392Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/bb9670bf4107482089009aee2d5158ad/p_1500x1500/03242272920557_A1N1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwich-baguette-pain-viennois-chorizo-jambon-mayo-legere-sodebo-3242272920557?t=37166",
+    "name": "Sandwich baguette pain viennois chorizo jambon mayo légère SODEBO",
+    "price": 269,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un sandwich à la générosité débordante pour les Mégas faims !",
+    "scraped_at": "2025-09-25T17:35:17.786Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e020b53e85164d07af4757ad692557cc/p_1500x1500/03033491485756_C1N1_s10.png",
+    "url": "https://www.carrefour.fr/p/yaourt-a-boire-fraise-framboise-proteine-0-mg-hipro-3033491485756?t=37166",
+    "name": "Yaourt à boire fraise framboise protéiné 0% MG HIPRO",
+    "price": 239,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "HiPRO à boire est une boisson protéinée lactée saveur fraise framboise. Avec ses 25g de protéines par bouteille et 0% de matières grasses, HiPRO à boire est votre nouvel allié pour le sport. Les protéines d'Hipro à boire contribuent au maintien de la masse musculaire. Aussi pratique qu'un yaourt à boire, cette boisson ambiante peut de plus se conserver hors du frigo. Une boisson protéiné chocolat à emporter unique avec un Nutri-score A! Pour le petit-déjeuner,en snack ou en dessert c'est l'encas idéal pour les sportifs.",
+    "scraped_at": "2025-09-25T17:35:23.489Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d6ddc10253553097b75cfa1b68335436/p_1500x1500/3560070711871-0.jpg",
+    "url": "https://www.carrefour.fr/p/wraps-poulet-roti-crudites-carrefour-bon-appetit-3560070711871?t=37166",
+    "name": "Wraps poulet rôti crudités CARREFOUR BON APPETIT",
+    "price": 239,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre sandwich gourmand composé d'une délicieuse galette de blé aux graines, garnie de poulet rôti traité en salaison et de crudités fraîches. Idéal pour une pause repas savoureuse et équilibrée !",
+    "scraped_at": "2025-09-25T17:35:24.083Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/82e6aab261be3602873db6adebc16b62/p_540x540/3560071448240-0.jpg",
+    "url": "https://www.carrefour.fr/p/sandwich-halal-poulet-crudites-carrefour-sensation-3560071448240?t=37166",
+    "name": "Sandwich halal poulet crudités CARREFOUR SENSATION",
+    "price": 275,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre nouveau sandwich Maxi Club sensation de Carrefour, parfait pour une pause déjeuner savoureuse et pratique. Il est composé d'un pain de mie complet généreusement garni de filet de poulet halal origine France, de tomate, de salade croquante, de carottes fraîches et d'une sauce mayonnaise allégée en matière grasse. Une combinaison délicieuse et équilibrée qui ravira vos papilles.",
+    "scraped_at": "2025-09-25T17:35:25.681Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c3a97487b54342e99373322fdc053a73/p_1500x1500/3245411815141_0.JPG",
+    "url": "https://www.carrefour.fr/p/croque-monsieur-jambon-fromage-carrefour-extra-3245411815141?t=37166",
+    "name": "Croque-monsieur jambon fromage CARREFOUR EXTRA",
+    "price": 169,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les croque-monsieur jambon fromage Carrefour Classic, un délicieux pain de mie garni de fromage fondu et de jambon cuit standard. Parfaits pour un repas rapide et savoureux, ils sont préparés avec des ingrédients de qualité tels que de la farine de blé, du fromage fondant et du jambon cuit. À déguster chauds pour une expérience gourmande et réconfortante.",
+    "scraped_at": "2025-09-25T17:35:26.183Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/120e0aa484b94c19913aa09d77d0e846/p_1500x1500/03242272921059_A1N1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwich-baguette-pain-viennois-poulet-oeuf-mayo-legere-sodebo-3242272921059?t=37166",
+    "name": "Sandwich baguette pain viennois poulet œuf mayo légère SODEBO",
+    "price": 189,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un sandwich à la générosité débordante pour les Méga faims !",
+    "scraped_at": "2025-09-25T17:35:28.301Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b18a461d100231d898f44e0fbf86e33e/p_1500x1500/3560070391011-0.jpg",
+    "url": "https://www.carrefour.fr/p/flan-patissier-carrefour-bon-appetit-3560070391011?t=37166",
+    "name": "Flan pâtissier CARREFOUR BON APPETIT",
+    "price": 179,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux flan pâtissier aux oeufs frais, une douceur gourmande à déguster à tout moment de la journée. Avec sa texture onctueuse et son goût subtil, ce dessert est le choix parfait pour satisfaire vos envies sucrées. Profitez de moments de plaisir sans vous soucier de votre alimentation grâce à notre flan pâtissier de qualité.",
+    "scraped_at": "2025-09-25T17:35:31.086Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7ed1d443804535278cc7739bd03bb8e7/p_1500x1500/3560070711840-0.jpg",
+    "url": "https://www.carrefour.fr/p/wraps-bacon-crudites-oeuf-carrefour-bon-appetit-3560070711840?t=37166",
+    "name": "Wraps bacon crudités œuf CARREFOUR BON APPETIT",
+    "price": 239,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux wrap composé d'une galette de blé aux graines, garnie de bacon cuit fumé, de crudités fraîches et d'œufs savoureux. Un choix gourmand et équilibré pour un repas sur le pouce.",
+    "scraped_at": "2025-09-25T17:35:36.992Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3e21dd32c504370fb9bf85daf5870388/p_1500x1500/3560071413620-0.jpg",
+    "url": "https://www.carrefour.fr/p/wrap-poulet-roti-tex-mex-carrefour-bon-appetit-3560071413620?t=37166",
+    "name": "Wrap poulet rôti Tex Mex CARREFOUR BON APPETIT",
+    "price": 289,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse galette de blé à la tomate garnie de viande de poulet rôti, de légumes et d'une savoureuse sauce tex-mex, le tout recouvert d'un fromage cheddar fondu. Un plat gourmand et équilibré qui saura ravir vos papilles avec ses saveurs relevées et sa composition riche en ingrédients de qualité.",
+    "scraped_at": "2025-09-25T17:35:37.481Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/06460b49c2e13847a6e8a21f1bf4fd18/p_1500x1500/3560070390953-0.jpg",
+    "url": "https://www.carrefour.fr/p/moelleux-au-chocolat-carrefour-bon-appetit-3560070390953?t=37166",
+    "name": "Moelleux au chocolat CARREFOUR BON APPETIT",
+    "price": 185,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux moelleux au chocolat, préparé avec des œufs entiers et une délicieuse recette à base de chocolat noir. Savourez chaque bouchée de ce dessert fondant et moelleux, idéal pour combler vos envies de gourmandise.",
+    "scraped_at": "2025-09-25T17:35:41.015Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b8d150cff7544ee4ba414fc64babfe7d/p_1500x1500/03242272981053_A1N1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwichs-club-pain-suedois-jambon-cheddar-sodebo-3242272981053?t=37166",
+    "name": "Sandwichs club pain suédois jambon cheddar SODEBO",
+    "price": 299,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un sandwich à la générosité débordante pour les Méga faims !",
+    "scraped_at": "2025-09-25T17:35:46.186Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4d4718e35c464c9dabfa20199124bbe8/p_1500x1500/03367651000061_C1L1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwichs-jambon-emmental-pain-complet-daunat-3367651000061?t=37166",
+    "name": "Sandwichs jambon emmental pain complet DAUNAT",
+    "price": 169,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "L'incontournable du sandwich, Le Club Classique: un pain de mie complet moelleux garni de jambon et d'emmental.",
+    "scraped_at": "2025-09-25T17:35:48.283Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f9807834b9214965ad09b2e524a06d27/p_1500x1500/03367651001884_C1C1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwichs-mini-jambon-emmental-daunat-3367651001884?t=37166",
+    "name": "Sandwichs mini jambon emmental DAUNAT",
+    "price": 179,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les Minis, des sandwichs uniques pour toute la famille : des petits pains maxi moelleux et des recettes simples en format ‘mini', pratiques et nomades.",
+    "scraped_at": "2025-09-25T17:35:49.586Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/59b48d6f2545365ea71e1c611b552b7c/p_1500x1500/3560070565283-0.jpg",
+    "url": "https://www.carrefour.fr/p/sandwich-jambon-emmental-carrefour-bon-appetit-3560070565283?t=37166",
+    "name": "Sandwich jambon emmental CARREFOUR BON APPETIT",
+    "price": 125,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux sandwich au pain de mie complet garni de jambon cuit et d'emmental. Fabriqué avec des ingrédients de qualité, notre sandwich est un choix équilibré pour combler votre faim à tout moment de la journée.",
+    "scraped_at": "2025-09-25T17:35:54.184Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/11b4b22e8ac43ff0891ab4ec184b0add/p_1500x1500/3560071415655-0.jpg",
+    "url": "https://www.carrefour.fr/p/sandwich-mini-viennois-jambon-emmental-carrefour-bon-appetit-3560071415655?t=37166",
+    "name": "Sandwich mini viennois jambon emmental CARREFOUR BON APPETIT",
+    "price": 159,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Mini Viennois au jambon emmental, un pain spécial garni de jambon cuit standard et d'emmental français. Un délicieux encas à déguster à tout moment de la journée.",
+    "scraped_at": "2025-09-25T17:35:56.394Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/acca36d621293dfb9c82653d1fce2382/p_1500x1500/3560070390984-0.jpg",
+    "url": "https://www.carrefour.fr/p/tarte-au-citron-carrefour-bon-appetit-3560070390984?t=37166",
+    "name": "Tarte au citron CARREFOUR BON APPETIT",
+    "price": 179,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Tarte au Citron, composée d'un mélange savoureux de sucre, de beurre, de jus de citron et d'œufs frais. Avec son goût acidulé et sa texture fondante, elle ravira les papilles des amateurs de desserts.",
+    "scraped_at": "2025-09-25T17:36:03.797Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1cfdb47efc064490b895cbd8be73968f/p_1500x1500/03367651002881_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwich-poulet-roti-crudites-daunat-3367651002881?t=37166",
+    "name": "Sandwich poulet rôti crudités DAUNAT",
+    "price": 249,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le Moelleux de Daunat c'est un pain cuit et pétri par nos boulangers une croute fine et dorée, une mie tendre. Laissez-vous tentez par notre recette Poulet rôti crudités, un classique pour une pause gourmande. .",
+    "scraped_at": "2025-09-25T17:36:05.984Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/30a510ff762439c094d176fba8c13c25/p_1500x1500/3560070365807-0.jpg",
+    "url": "https://www.carrefour.fr/p/galette-jambon-emmental-carrefour-3560070365807?t=37166",
+    "name": "Galette jambon emmental CARREFOUR",
+    "price": 149,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse galette de blé noir garnie de jambon, d'emmental et de mozzarella. Fabriquée avec de la farine de blé noir d'origine française, cette galette possède une saveur authentique et une texture légère. Idéale pour une pause déjeuner rapide ou un repas gourmand, elle se prépare facilement à la poêle, au micro-ondes ou au four thermique. Une vraie gourmandise à déguster à tout moment de la journée !",
+    "scraped_at": "2025-09-25T17:36:06.383Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5abdab00d4c74805a51d301f32cfd339/p_1500x1500/03770018078410_C1N1_s05.png",
+    "url": "https://www.carrefour.fr/p/sandwich-club-le-british-vegetal-bon-la-vie-3770018078410?t=37166",
+    "name": "Sandwich Club le British Végétal & Bon! LA VIE",
+    "price": 299,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le British, c'est du bacon végétal La Vie™ à base de légumineuses, une sauce mayo végétale onctueuse, de la salade et des tomates pour une touche de fraîcheur, le tout dans un pain de mie aux céréales ultra gourmand, en forme triangulaire. Le sandwich veggie idéal pour une pause déjeuner qui régale et qui fait plaisir à la planète et aux animaux. Riche en protéines et fabriqué en France. 100% vegan, 200% kiffant. Cheers La Vie™ ! Un pain de mie aux céréales ultra gourmand, une sauce mayo végétale onctueuse, de la salade et des tomates pour une touche de fraîcheur. Sans oublier la véritable star du sandwich, le bacon végétal La Vie™ à base de protéines de soja sans OGM, pour encore plus de gourmandise !",
+    "scraped_at": "2025-09-25T17:36:11.883Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/748c3c6bd0423eb695f49dfd26a6e636/p_1500x1500/3560071513887-0.jpg",
+    "url": "https://www.carrefour.fr/p/sandwich-thon-fromage-frais-carrefour-bon-appetit-3560071513887?t=37166",
+    "name": "Sandwich thon fromage frais CARREFOUR BON APPETIT",
+    "price": 169,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "55,5% Pain spécial viennois (farine de BLE, eau, huile de colza, sucre, poudre de LAIT entier, levure, GLUTEN DE BLE, sel, agent de traitement de la farine : acide ascorbique), 18% THON Listao au naturel (THON Listao, eau, sel), 9,5% fromage frais, eau, huile de colza, 3% YAOURT, amidon, 0,5% ciboulette, sucre, vinaigre d'alcool, sel, épaississant : gomme xanthane, poivre, jaune d'OEUF.\nPeut c…",
+    "scraped_at": "2025-09-25T17:36:17.483Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/21d50ab193a14465ac0a41f1bbd2a04c/p_1500x1500/03242272980650_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/sandwichs-club-pain-complet-poulet-roti-mayo-legere-sodebo-3242272980650?t=37166",
+    "name": "Sandwichs club pain complet poulet rôti mayo légère SODEBO",
+    "price": 199,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un sandwich à la générosité débordante pour les Méga faims !",
+    "scraped_at": "2025-09-25T17:36:19.182Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3d6f64b888c14cbd8867370959f7063c/p_1500x1500/03367651003895_C1L1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwich-s-croute-poulet-emmental-daunat-3367651003895?t=37166",
+    "name": "Sandwich s/croûte poulet emmental DAUNAT",
+    "price": 178,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "L'incontournable du sandwich, Le Club Classique: ce pain sans croûte viennois fera craquer les plus gourmands avec son extra moelleux et sa touche légèrement sucrée.",
+    "scraped_at": "2025-09-25T17:36:22.697Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2e1b98e489883fcb98d2eb0bf2b41738/p_1500x1500/3560071196400-0.jpg",
+    "url": "https://www.carrefour.fr/p/sandwich-thon-oeuf-carrefour-bon-appetit-3560071196400?t=37166",
+    "name": "Sandwich thon œuf CARREFOUR BON APPETIT",
+    "price": 219,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux sandwich viennois garni de thon, d'une mayonnaise allégée en matières grasses, de tomates, de salade et d'œuf dur. Savourez le mariage harmonieux des saveurs et la fraîcheur de nos ingrédients sélectionnés avec soin pour une expérience gustative unique.",
+    "scraped_at": "2025-09-25T17:36:24.891Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b089647d29163b57863937d87943d94b/p_1500x1500/3560070777082-0.jpg",
+    "url": "https://www.carrefour.fr/p/tartelette-au-citron-de-sicile-carrefour-bon-appetit-3560070777082?t=37166",
+    "name": "Tartelette au citron de Sicile CARREFOUR BON APPETIT",
+    "price": 135,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse tartelette au citron de Sicile, réalisée avec du jus de citron concentré et une pâte croustillante. Un dessert frais et acidulé qui ravira les amateurs de saveurs intenses.- Savourez notre tartelette au citron de Sicile, préparée avec soin à partir de jus de citron concentré. Laissez-vous séduire par son goût délicatement acidulé et sa pâte croustillante, pour une expérience gustative unique.",
+    "scraped_at": "2025-09-25T17:36:28.885Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/24cceabc7856436fa1ce3050ea700299/p_1500x1500/03367651010213_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/wrap-raclette-bacon-pommes-de-terre-daunat-3367651010213?t=37166",
+    "name": "Wrap Raclette Bacon Pommes de Terre DAUNAT",
+    "price": 279,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Craquez pour le wrap Raclette Daunat, une recette ultra gourmande qui marie du bacon fumé origine France, de la raclette, des pommes de terre et des oignons frits. Le tout roulé dans une galette de blé et relevé de la sauce signature Daunat sweet onion. Une recette réconfortante, inspirée de la street-food à consommer chaud ou froid pour varier les plaisirs.",
+    "scraped_at": "2025-09-25T17:36:33.581Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2ba3b87c1929488ba4c7424853a55a70/p_1500x1500/03367651002416_C1R1_s03.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwichs-poulet-mayonnaise-daunat-3367651002416?t=37166",
+    "name": "Sandwichs poulet mayonnaise DAUNAT",
+    "price": 265,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pour les plus gourmands et les grands appétits, 3 fois plus de plaisir avec ses 3 sandwichs avec une recette classique du marché: du poulet rôti sublimée par une mayonnaise gourmande",
+    "scraped_at": "2025-09-25T17:36:34.583Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0bcea58a92864a62ba26fac02aab7774/p_1500x1500/03367651010176_C1L1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwich-club-jambon-cheddar-sauce-big-burger-daunat-3367651010176?t=37166",
+    "name": "Sandwich Club Jambon Cheddar Sauce Big Burger DAUNAT",
+    "price": 189,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un sandwich élaboré avec un pain 100% mie sans croûte sans conservateur à la texture ultra moelleuse et au goût légèrement sucré. Il est garni d'une tranche de jambon élaboré avec du porc origine France, d'une tranche de cheddar et d'une sauce savoureuse sans conservateur. Une recette riche en saveurs idéal pour vos pauses repas pris sur le pouce",
+    "scraped_at": "2025-09-25T17:36:34.988Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2f746001f98047d7b46208d9a5aa4502/p_1500x1500/03242273012053_A1N1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/wrap-poulet-bacon-cheddar-burger-sodebo-3242273012053?t=37166",
+    "name": "Wrap poulet bacon cheddar burger SODEBO",
+    "price": 287,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une recette tendance avec de la personnalité, librement inspirée des incontournables des wraps « fast food ». Des garnitures gourmandes et généreuses (finger de poulet, bacon fumé et cheddar), accompagnées d'une sauce burger à la mode « US » !",
+    "scraped_at": "2025-09-25T17:36:36.687Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9f4753d3e184480b8a6f867502a3c3b2/p_1500x1500/03242273012251_A1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwich-wraper-s-poulet-pane-cheddar-oignons-frits-et-sauce-douce-a-la-moutarde-sodebo-3242273012251?t=37166",
+    "name": "Sandwich Wraper's Poulet Pané Cheddar Oignons Frits et Sauce Douce à la Moutarde SODEBO",
+    "price": 279,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une recette tendance avec de la personnalité, librement inspirée des incontournables des wraps « fast food ». Des garnitures gourmandes et généreuses (finger de poulet pané, cheddar, oignons frits), accompagnées d'une sauce sweet mustard à la mode « US » !",
+    "scraped_at": "2025-09-25T17:36:37.688Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/fcc4d2e817094f36a1bfbccfd4e6f031/p_1500x1500/03367651003314_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/sandwich-poulet-mayonnaise-daunat-3367651003314?t=37166",
+    "name": "Sandwich poulet mayonnaise DAUNAT",
+    "price": 251,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "L'alliance parfait d'un pain de campagne cuit et pétri par nos boulangers et garni de recettes aussi généreuses qu'incontournables. Découvrez la recette Poulet Rôti pour votre pause snacking",
+    "scraped_at": "2025-09-25T17:36:45.388Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2b407e1d8a1332a88129be6691561bc9/p_1500x1500/3560070953080-0.jpg",
+    "url": "https://www.carrefour.fr/p/sandwich-thon-crudites-oeuf-carrefour-bon-appetit-3560070953080?t=37166",
+    "name": "Sandwich thon crudités œuf CARREFOUR BON APPETIT",
+    "price": 195,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux sandwich au pain de mie à la farine complète, garni de thon, de crudités fraîches et d'œuf. Une combinaison savoureuse qui vous offre un repas équilibré et nourrissant à emporter partout avec vous.",
+    "scraped_at": "2025-09-25T17:36:46.688Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a6a40381210a4122849d1c90fb39fdc1/p_1500x1500/03367651009873_C1R1_s02.png",
+    "url": "https://www.carrefour.fr/p/club-suedois-poulet-aux-epices-daunat-3367651009873?t=37166",
+    "name": "Club Suédois Poulet aux épices DAUNAT",
+    "price": 189,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Avec notre gamme Le Suédois, découvrez 3 recettes gourmandes de sandwichs au pain polaire, parfaits pour une pause dans la journée ! Avec sa mie aérée et alvéolée, son goût légèrement sucré et sa texture moelleuse et fondante à la fois, notre pain est préféré par les consommateurs* ! Et pour encore plus de plaisir, notre nouvelle recette au poulet s'accompagne d'une savoureuse sauce sweet onions fabriquée dans nos ateliers.",
+    "scraped_at": "2025-09-25T17:36:48.893Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d93c160db8304599ad767d66161da823/p_1500x1500/03283040000651_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/tacos-poulet-lardons-karatok-3283040000651?t=37166",
+    "name": "Tacos Poulet Lardons KARATOK",
+    "price": 399,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "recette gourmande avec un mix de viandes françaises et des frites",
+    "scraped_at": "2025-09-25T17:36:49.307Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e093316b6f6944b8a20d1e9c75f2dc29/p_1500x1500/3560070351350_0.jpg",
+    "url": "https://www.carrefour.fr/p/sandwich-poulet-tandoori-carrefour-bon-appetit-3560070351350?t=37166",
+    "name": "Sandwich poulet Tandoori CARREFOUR BON APPETIT",
+    "price": 189,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux sandwich au poulet tandoori, composé d'un pain spécial polaire, de viande de poulet rôti, de sauce condimentaire et de salade. Un mélange savoureux d'ingrédients de qualité pour une pause gourmande. Le sandwich est conservé dans un emballage hermétique et peut être consommé à tout moment de la journée. Savourez chaque bouchée de ce sandwich parfaitement équilibré, idéal pour une pause déjeuner ou un encas sur le pouce.",
+    "scraped_at": "2025-09-25T17:37:01.894Z"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/4d06c49085c13ef7918daaa331c3182a/p_1500x1500/3560070499809-0.jpg",
+    "url": "https://www.carrefour.fr/p/boulettes-au-boeuf-halal-carrefour-3560070499809?t=29592",
+    "name": "Boulettes au bœuf halal CARREFOUR",
+    "price": 9.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les boulettes de bœuf Carrefour Sensation sont élaborées à partir de 51% de viande hachée de bœuf d'origine française, combinées à des protéines végétales pour une préparation savoureuse et halal. Faciles à préparer, ces boulettes sont idéales pour un repas équilibré et gourmand.",
+    "scraped_at": "2025-09-25T23:02:13.018Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/07bc593f3106398ea2e490d07b73c540/p_1500x1500/3245416032307-0.jpg",
+    "url": "https://www.carrefour.fr/p/steaks-haches-pur-boeuf-15-mg-halal-carrefour-sensation-3245416032307?t=29592",
+    "name": "Steaks hachés Pur Boeuf 15% MG Halal CARREFOUR SENSATION",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Viande bovine halal origine France 100%. Pourcentage de matières grasses inférieur à 15%. Rapport collagène sur protéines de viande inférieur à 15%.",
+    "scraped_at": "2025-09-25T23:02:13.215Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8f29fb6339dd3b38b3d92b4269ab105a/p_1500x1500/03512690006240-c1n1-s03.jpg",
+    "url": "https://www.carrefour.fr/p/nuggets-de-filet-halal-isla-delice-3512690006240?t=29592",
+    "name": "Nuggets de Filet Halal ISLA DELICE",
+    "price": 4.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez au rayon surgelé les Nuggets Original Isla Délice. Elaborés avec une préparation à base de viande de Dinde enrobée d'une panure dorée et croustillante, les Nuggets Isla Délice raviront les petits comme les grands.",
+    "scraped_at": "2025-09-25T23:02:20.575Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4e99b4baf2864f618400e66689f2f361/p_1500x1500/3560071459888_0.jpg",
+    "url": "https://www.carrefour.fr/p/burgers-halal-de-poulet-carrefour-sensation-3560071459888?t=29592",
+    "name": "Burgers halal de poulet CARREFOUR SENSATION",
+    "price": 4.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nViande de poulet 53%, peau de poulet, eau, fibres et amidon de pois, protéines texturées de SOJA 3%, dextrose de blé, sel, arôme naturel.\nTraces éventuelles de : GLUTEN, LAIT, ŒUF, CELERI.",
+    "scraped_at": "2025-09-25T23:02:35.574Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/448b3273a8b5307da46ed70a3a765820/p_1500x1500/3560070499748-0.jpg",
+    "url": "https://www.carrefour.fr/p/steaks-haches-halal-15-mg-carrefour-3560070499748?t=29592",
+    "name": "Steaks hachés halal 15% MG CARREFOUR",
+    "price": 10.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les 10 steaks hachés pur bœuf surgelés, Halal, de Carrefour Sensation. Fabriqués en France à partir de viande bovine 100% muscle, ces steaks ont une teneur en matières grasses inférieure à 15% et un rapport collagène sur protéines de viande inférieur à 15%. Les viandes utilisées sont issues d'animaux abattus selon le rite Halal par un sacrificateur professionnel, avec une traçabilité vérifiée par un organisme de contrôle indépendant.",
+    "scraped_at": "2025-09-25T23:02:41.478Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/101e4e860ac531b59f6cd0d564fc1fa8/p_1500x1500/3245413543202-photosite-20210423-171304-0.jpg",
+    "url": "https://www.carrefour.fr/p/hache-au-boeuf-carrefour-classic-3245413543202?t=29592",
+    "name": "Haché au bœuf CARREFOUR CLASSIC'",
+    "price": 9.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les Ultra Moelleux de Carrefour Classic, une délicieuse préparation à base de 80% de viande bovine hachée, enrichie en protéines végétales. Savourez ces moelleux surgelés au bon goût de viande bovine française, pour une expérience gustative unique.",
+    "scraped_at": "2025-09-25T23:02:42.476Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1648136213283804a1b60103aea7f56f/p_1500x1500/3560071423988-0.jpg",
+    "url": "https://www.carrefour.fr/p/hache-halal-au-boeuf-extra-tendre-carrefour-sensation-3560071423988?t=29592",
+    "name": "Haché halal au boeuf extra tendre CARREFOUR SENSATION",
+    "price": 16.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos hamburgers surgelés à base de viande bovine française (origine France) bénéficiant du label halal. Préparés avec 51% de viande hachée de bœuf et enrichis en protéines végétales, nos burgers Carrefour Sensation vous promettent une expérience gustative tendre et savoureuse.",
+    "scraped_at": "2025-09-25T23:02:43.874Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/732efd81fa1b45a6a0f843d00d1bef7d/p_1500x1500/05605395002940_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/gesiers-de-poulet-moelas-best-meat-5605395002940?t=29592",
+    "name": "Gésiers de poulet moelas BEST MEAT",
+    "price": 4.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "MOELAS - GESIERS DE POULET",
+    "scraped_at": "2025-09-25T23:02:49.081Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b983ad97474042c8a44982598c474901/p_1500x1500/3560071459857_0.jpg",
+    "url": "https://www.carrefour.fr/p/cordon-bleu-de-dinde-halal-carrefour-sensation-3560071459857?t=29592",
+    "name": "Cordon bleu de dinde halal CARREFOUR SENSATION",
+    "price": 3.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Viande de dinde 31,5%, peau de poulet, chapelure (farine de BLE, levure, sel, épices), FROMAGE fondu 10% (FROMAGES, eau, amidons modifiés, BEURRE, LAIT écrémé en poudre, LACTOSERUM (LAIT), sel de fonte : E331, gélifiant : E407), jambon de dinde 10% (viande de dinde 8%, eau, dextrose, fibres de bambou, sel, arôme naturel, conservateur : E250), huile de tournesol, eau, farine de BLE, semoule de BLE,…",
+    "scraped_at": "2025-09-25T23:02:50.878Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e46009b7ba113748a01253aaf0736a0e/p_1500x1500/3560071525361-0.jpg",
+    "url": "https://www.carrefour.fr/p/steaks-hache-pur-boeuf-carrefour-extra-3560071525361?t=29592",
+    "name": "Steaks haché pur bœuf CARREFOUR EXTRA",
+    "price": 6.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "100% viande bovine (origine France). Pourcentage de matières grasses inférieur à 15%. Rapport collagène sur protéines de viande inférieur à 15%.",
+    "scraped_at": "2025-09-25T23:02:54.973Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0c57fdd94b7b311aa18137a516aac988/p_1500x1500/3270190020578-photosite-20210716-175852-0.jpg",
+    "url": "https://www.carrefour.fr/p/steaks-haches-pur-boeuf-5-mg-carrefour-extra-3270190020578?t=29592",
+    "name": "Steaks hachés pur bœuf 5% MG CARREFOUR EXTRA",
+    "price": 6.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos steaks hachés pur bœuf surgelés, élaborés en France avec 100% de viande bovine d'origine française. Leur taux de matières grasses est inférieur à 5%, et leur rapport collagène sur protéines de viande est inférieur à 12%. Savourez une viande de qualité en toute simplicité.",
+    "scraped_at": "2025-09-25T23:02:57.572Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/416ce2618a023b15bb29b0c6691e2429/p_1500x1500/3270190020103-photosite-20210317-013113-0.jpg",
+    "url": "https://www.carrefour.fr/p/steaks-haches-pur-boeuf-15-mg-carrefour-extra-3270190020103?t=29592",
+    "name": "Steaks hachés pur bœuf 15% MG CARREFOUR EXTRA",
+    "price": 11.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieux steaks hachés pur bœuf surgelés, élaborés en France à partir de viande bovine origine France. Avec un pourcentage de matières grasses inférieur à 15% et un rapport collagène sur protéines de viande inférieur à 15%, ces steaks sont une option savoureuse pour vos repas. Gardez-les au congélateur et profitez-en à tout moment pour des préparations rapides et faciles.",
+    "scraped_at": "2025-09-25T23:02:57.777Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/fda877da592e3a6cbfeb74551931e79b/p_1500x1500/3560070714568-photosite-20210629-171555-0.jpg",
+    "url": "https://www.carrefour.fr/p/viande-hachee-pur-boeuf-15-mg-carrefour-extra-3560070714568?t=29592",
+    "name": "Viande hachée pur bœuf 15% MG CARREFOUR EXTRA",
+    "price": 5.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre viande hachée pur bœuf surgelée, 100% origine France. Avec un pourcentage de matières grasses inférieur à 15% et un rapport collagène sur protéines de viande inférieur à 15%, notre viande est prête à cuisiner à la poêle pour dévoiler toute sa saveur et sa tendreté. Profitez d'une viande cuite à cœur, bien préparée et de qualité supérieure.",
+    "scraped_at": "2025-09-25T23:03:01.072Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3926b37550443a59b5308f7e7335434e/p_1500x1500/3560070364534-photosite-20210512-210352-0.jpg",
+    "url": "https://www.carrefour.fr/p/hache-a-l-oignon-carrefour-classic-3560070364534?t=29592",
+    "name": "Haché à l'oignon CARREFOUR CLASSIC'",
+    "price": 7.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux produit surgelé Ultra Moelleux à l'oignon, une préparation à base de viande bovine hachée et de protéines végétales. Réveillez vos papilles avec cette savoureuse association et savourez un repas ultra gourmand tout en praticité.",
+    "scraped_at": "2025-09-25T23:03:07.179Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e35c9296c56139538926a2f6ec5d1305/p_1500x1500/3560070820306-photosite-20180323-161206-0.jpg",
+    "url": "https://www.carrefour.fr/p/batonnets-de-poulet-panes-carrefour-3560070820306?t=29592",
+    "name": "Bâtonnets de poulet panés CARREFOUR",
+    "price": 4.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des bâtonnets de poulet croustillants à base de viande de poulet saumurée, enrobés d'une délicieuse panure et prêts à déguster selon vos envies.",
+    "scraped_at": "2025-09-25T23:03:09.776Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1654a232624e30a8b62eaed54812db64/p_1500x1500/3560071263225-0.jpg",
+    "url": "https://www.carrefour.fr/p/steaks-haches-pur-boeuf-15-mg-bio-carrefour-bio-3560071263225?t=29592",
+    "name": "Steaks hachés pur bœuf 15% MG Bio CARREFOUR BIO",
+    "price": 13.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les steaks hachés Carrefour Bio sont élaborés à partir de viande bovine 100% issue de l'agriculture biologique en France. Avec un pourcentage de matières grasses inférieur à 15% et un rapport collagène sur protéines de viande également inférieur à 15%, ces steaks hachés surgelés sont une option savoureuse et pratique pour un repas équilibré.",
+    "scraped_at": "2025-09-25T23:03:10.474Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/27a01ac77b07351097b0016e9c08ae8a/p_1500x1500/3560071442095-0.jpg",
+    "url": "https://www.carrefour.fr/p/boulettes-au-boeuf-carrefour-classic-3560071442095?t=29592",
+    "name": "Boulettes au bœuf CARREFOUR CLASSIC'",
+    "price": 7.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les Boulettes au Boeuf Carrefour Classic, une délicieuse préparation crue de viande bovine hachée avec protéines végétales. Fabriqué en France avec de la viande bovine française, ce produit surgelé de qualité est parfait pour vos repas en famille ou entre amis. À déguster cuit à coeur, les boulettes apportent une saveur savoureuse à vos plats sans aucun compromis sur la qualité.",
+    "scraped_at": "2025-09-25T23:03:11.581Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0d76f2354cd93b2f84ad9b605283ab35/p_1500x1500/3560071046354-0.jpg",
+    "url": "https://www.carrefour.fr/p/burgers-halal-a-l-oignon-carrefour-3560071046354?t=29592",
+    "name": "Burgers halal à l'oignon CARREFOUR",
+    "price": 8.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieux burgers surgelés à l'oignon, préparés à partir de 51% de viande hachée de bœuf halal et enrichis en protéines végétales. Profitez d'une expérience culinaire savoureuse et pratique avec notre produit de qualité, idéal pour une pause gourmande à tout moment de la journée.",
+    "scraped_at": "2025-09-25T23:03:11.883Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e8a1000b22ad3471885e0fcc4a5236cb/p_1500x1500/3560070749805-0.jpg",
+    "url": "https://www.carrefour.fr/p/viande-hachee-halal-pur-boeuf-20-mg-carrefour-3560070749805?t=29592",
+    "name": "Viande hachée halal pur bœuf 20% MG CARREFOUR",
+    "price": 16.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le Carréfour Sensation Halal, une viande hachée pur boeuf surgelée de qualité. Issue de viande bovine d'origine France, cette viande boeuf halal est préparée sans décongélation préalable et sans ajout de matières grasses, offrant ainsi une saveur authentique et savoureuse. Facile à préparer à la poêle, il vous suffit de cuire le produit pendant quelques minutes pour obtenir une viande hachée délicieusement tendre et savoureuse.",
+    "scraped_at": "2025-09-25T23:03:12.780Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c44480c7f42f3df889a7f50b4136e956/p_1500x1500/3560070816903-photosite-20210212-184727-0.jpg",
+    "url": "https://www.carrefour.fr/p/steaks-haches-classique-facon-bouchere-15-mg-carrefour-original-3560070816903?t=29592",
+    "name": "Steaks hachés Classique façon bouchère 15% MG CARREFOUR ORIGINAL",
+    "price": 7.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les 4 Steaks hachés surgelés pur bœuf Carrefour Original, un classique de la cuisine française. Élaborés à partir de viande bovine française de qualité, avec un pourcentage de matières grasses inférieur à 15%, ces steaks vous garantissent un plaisir gustatif authentique. Préparez-les selon votre préférence en les faisant cuire à feu vif pendant 2 minutes de chaque côté, puis laissez-les mijoter à feu doux pour une viande tendre et juteuse.",
+    "scraped_at": "2025-09-25T23:03:14.072Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/83aea22b0aec44eabf6da3cc32a24eb0/p_1500x1500/3245414670280_0.jpg",
+    "url": "https://www.carrefour.fr/p/cotes-de-porc-echine-carrefour-classic-3245414670280?t=29592",
+    "name": "Côtes de porc échine CARREFOUR CLASSIC'",
+    "price": 5.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les côtes de porc échine congelées Carrefour, découpées dans l'échine de porcs français pour vous garantir un goût et une tendreté incomparables. Parfaites pour des repas rapides et savoureux, elles se dégustent grillées au four avec des herbes de Provence, marinées au miel et à la moutarde ou associées à des cèpes. Faites-vous plaisir en variant les recettes !",
+    "scraped_at": "2025-09-25T23:03:15.074Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e0ddf3f3f6b63b5d8d57f5f46e5d258b/p_1500x1500/3560071424015-0.jpg",
+    "url": "https://www.carrefour.fr/p/lamelle-de-kebab-poulet-carrefour-sensation-3560071424015?t=29592",
+    "name": "Lamelle de kebab poulet CARREFOUR SENSATION",
+    "price": 7.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos lamelles de kebab au poulet Carrefour Sensation, une préparation de viande de poulet marinée, cuite et surgelée, sans additifs ajoutés. Idéales pour une préparation rapide et savoureuse à la poêle en seulement 6 à 8 minutes. Gardez-les dans votre congélateur pour en profiter à tout moment, sans avoir à vous soucier de la date de péremption.",
+    "scraped_at": "2025-09-25T23:03:18.474Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/50a8f501c7174119aa28750972b33a4f/p_1500x1500/3560070741670_0.JPG",
+    "url": "https://www.carrefour.fr/p/steaks-haches-le-geant-facon-bouchere-15-mg-carrefour-3560070741670?t=29592",
+    "name": "Steaks hachés Le Géant façon bouchère 15% MG CARREFOUR",
+    "price": 11.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos steaks hachés format XL de 180g, une véritable expérience de plaisir gustatif ! Le GEANT de Carrefour est un steak garanti pur bœuf d'origine française, moulé à la manière des bouchers pour préserver ses saveurs authentiques. Sa forme ronde en fait l'ingrédient idéal pour vos hamburgers maison.",
+    "scraped_at": "2025-09-25T23:03:22.275Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b9359111894d408fb4c3fb88b3f58669/p_1500x1500/3560071172480_0.JPG",
+    "url": "https://www.carrefour.fr/p/steak-hache-facon-bouchere-le-classique-15-mg-carrefour-3560071172480?t=29592",
+    "name": "Steak haché façon bouchère Le Classique 15% MG CARREFOUR",
+    "price": 13.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos steaks hachés surgelés pur bœuf Carrefour, 100% viande bovine origine France. Une délicieuse option pour les amateurs de viande avec une texture aérée, tendre et moelleuse. Un plaisir pour les papilles à chaque bouchée.",
+    "scraped_at": "2025-09-25T23:03:25.580Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5f8cf6a672de360ea699572b221962e4/p_1500x1500/3560070499779-0.jpg",
+    "url": "https://www.carrefour.fr/p/burgers-halal-carrefour-3560070499779?t=29592",
+    "name": "Burgers halal CARREFOUR",
+    "price": 8.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les Burgers Halal Carrefour Sensation, une préparation savoureuse à base de 51% de viande hachée de bœuf et de protéines végétales. Surgelés et Halal, ces Burgers sont parfaits pour un repas rapide et gourmand.",
+    "scraped_at": "2025-09-25T23:03:26.482Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/aef5b73c7abf310c815523fcb02c1165/p_1500x1500/3560071190521-photosite-20190212-191754-0.jpg",
+    "url": "https://www.carrefour.fr/p/viande-hachee-pur-boeuf-bio-carrefour-bio-3560071190521?t=29592",
+    "name": "Viande hachée pur bœuf Bio CARREFOUR BIO",
+    "price": 7.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la viande hachée pur bœuf Bio Carrefour, issue de l'agriculture biologique française. Une viande de qualité supérieure, provenant d'animaux élevés dans le respect des cycles naturels et du bien-être animal. Un choix idéal pour des préparations savoureuses et saines.",
+    "scraped_at": "2025-09-25T23:03:30.275Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/304033bc7cb14b9798b94a10ac24cefb/p_1500x1500/3560071551872-photosite-2025918-234425-0.JPG",
+    "url": "https://www.carrefour.fr/p/cotes-de-porc-echine-carrefour-classic-3560071551872?t=29592",
+    "name": "côtes de porc échine CARREFOUR CLASSIC'",
+    "price": 10.85,
+    "regular_price": 0,
+    "currency": null,
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nIngrédients : eChine de porc 100% viande de porc origine France",
+    "scraped_at": "2025-09-25T23:03:29.981Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/80043a6090b5448490a236f9ba5c34a9/p_1500x1500/08712057027337_D1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/viande-prepare-boeuf-et-poulet-epice-mexicano-autentico-8712057027337?t=29592",
+    "name": "Viande préparé bœuf et poulet épicé MEXICANO AUTENTICO",
+    "price": 5.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "viande de boeuf 42%, Viande de poulet séparée mécaniquement 17%, collagene de poulet, eau, Chapelure (BLE), AMIDON DE BLE, Proteine vegetale hydrolysee (SOJA), poivron, sel, oignon, PROTEINES DE SOJA, graisse de poulet, épices, condiments, E451, extrait de levure, E621, huile de tournesol, sucre, extraits d'épices, E250, E321.",
+    "scraped_at": "2025-09-25T23:03:33.372Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/560ab715f1404993a4804a9cb5bc47d8/p_1500x1500/03770022585379_D1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/kebab-100-poulet-hunkar-3770022585379?t=29592",
+    "name": "Kebab 100% Poulet HUNKAR",
+    "price": 11.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Vous prendriez bien un bon poulet halal pour satisfaire votre palais ?",
+    "scraped_at": "2025-09-25T23:03:37.475Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cfc68dbb756636ba91ad837eb6fcffa4/p_1500x1500/3245412074073-photosite-20170127-081649-0.jpg",
+    "url": "https://www.carrefour.fr/p/cordons-bleus-de-volaille-carrefour-3245412074073?t=29592",
+    "name": "Cordons bleus de volaille CARREFOUR",
+    "price": 3.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les Cordons Bleus de volaille Carrefour, une préparation de viande de poulet enrobée d'une panure croustillante à souhait. Parfaits pour régaler petits et grands, ces cordons bleus sont garnis de fromage et de jambon de dinde au goût fumé.",
+    "scraped_at": "2025-09-25T23:03:42.382Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1d3021c228cc46b68c0e2f47ed12e646/p_1500x1500/3560071534141_0.jpg",
+    "url": "https://www.carrefour.fr/p/nuggets-de-poulet-carrefour-classic-3560071534141?t=29592",
+    "name": "nuggets de poulet CARREFOUR CLASSIC'",
+    "price": 3.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Viande de poulet ( 47%), eau, farine de mais, farine de BLÉ, huile de colza, amidon (contient du BLÉ), fibre de BLÉ, sel, arômes naturels, poudre à lever : e500, GLUTEN DE BLE, dextrose, épice.",
+    "scraped_at": "2025-09-25T23:03:43.279Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/44e84cd6def7487fa085beb506f20593/p_1500x1500/03700091903378_A1C1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/tenders-au-poulet-spicy-extra-croustillant-halal-isla-mondial-3700091903378?t=29592",
+    "name": "Tenders au Poulet Spicy Extra Croustillant Halal ISLA MONDIAL",
+    "price": 7.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "On se fait un bucket spicy ? Isla Mondial vous propose ses délicieux tenders spicy extra croustillants. Préparés à partir de véritables morceaux de poulet épicés , sans VSM et sans exhausteurs de goût pour une saveur toujours plus authentique.",
+    "scraped_at": "2025-09-25T23:03:47.772Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/beb7ec3d4efa4de38e1eb93719f43b7b/p_1500x1500/03700091902456_A1C1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/chicken-burger-halal-isla-mondial-3700091902456?t=29592",
+    "name": "Chicken burger Halal ISLA MONDIAL",
+    "price": 9.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "viande de filet de poulet 59% (origine: UE), panure\nchapelure (farine de BLÉ, sel, dextrose, levure, huile de colza), farine de\nBLÉ, amidon, farine de maïs, GLUTEN DE BLE, oignon en poudre, huile de\ncolza, sel, extrait de levure, épices, eau, maltodextrine, extrait de levure,\narômes naturels, épices, sel, fécule de pomme de terre modifiée, amidon\nde BLÉ. Peut contenir: du LAIT, d…",
+    "scraped_at": "2025-09-25T23:03:49.876Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/38c4439371ab4790a907a29c1daf94bb/p_1500x1500/03700091903415_A1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/chicken-donuts-extra-croustillant-halal-isla-mondial-3700091903415?t=29592",
+    "name": "Chicken Donuts Extra Croustillant Halal ISLA MONDIAL",
+    "price": 9.45,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les enfants en sont fous ! Découvrez nos chicken donuts préparés à partir de 100% de filet de poulet Halal. Prêts en 3 minutes à la friteuse et extra croustillants, vous n'en ferez qu'une bouchée !",
+    "scraped_at": "2025-09-25T23:03:53.383Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/751061b639a13b569f84c77bedb7f423/p_1500x1500/3560070427949-photosite-20210512-210137-0.jpg",
+    "url": "https://www.carrefour.fr/p/steaks-haches-facon-bouchere-15-mg-carrefour-original-3560070427949?t=29592",
+    "name": "Steaks hachés façon bouchère 15% MG CARREFOUR ORIGINAL",
+    "price": 7.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les steaks hachés pur bœuf surgelés Carrefour ORIGINAL, savoureux et préparés à partir de viande bovine française de race Limousine. Prêts en 10-12 minutes, ces steaks de 120g chacun sont idéaux pour une délicieuse façon bouchère au quotidien.",
+    "scraped_at": "2025-09-25T23:03:56.493Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1a3cc24f3ab338519eb1f31e3feb8ce2/p_1500x1500/03700091900735-a1c1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/boulettes-a-l-oignon-halal-isla-mondial-3700091900735?t=29592",
+    "name": "Boulettes à l'oignon Halal ISLA MONDIAL",
+    "price": 8.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ah les boulettes ! tout le monde en raffole et en plus c'est rapide à faire. Les boulettes de viande Halal Isla Mondial 100% viande de bœuf sont élaborées avec cœur. À cuisiner dans toutes sortes de recettes, dans un tajine, avec de la semoule, des pâtes à la sauce tomate… elles régaleront les petits comme les grands. Produit Halal certifié AVS Sans gluten Sans exhausteur de goût",
+    "scraped_at": "2025-09-25T23:03:58.379Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6316ef02f48b4e55b9ba28d4216f7aa8/p_1500x1500/03436590010292_A1R1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/burgers-halal-de-poulet-oriental-viandes-3436590010292?t=29592",
+    "name": "Burgers halal de poulet ORIENTAL VIANDES",
+    "price": 5.08,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "burger de poulet halal 10x60g",
+    "scraped_at": "2025-09-25T23:04:00.274Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6c436d6df68c479db8f9828a01a15485/p_1500x1500/03700091902241_A1N1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/steak-hache-le-p-tit-pur-boeuf-isla-mondial-3700091902241?t=29592",
+    "name": "Steak Haché Le P'tit Pur Bœuf ISLA MONDIAL",
+    "price": 7.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un savoureux steak haché halal de 45 grammes, adapté au besoin des enfants. Le format gaufré rond facilite la cuisson ainsi que la préparation de burger et autres gourmandises pour les plus petits.",
+    "scraped_at": "2025-09-25T23:04:01.673Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9ea5cf1c31723e74b46400ecfa661ae2/p_1500x1500/3560070427918-0.jpg",
+    "url": "https://www.carrefour.fr/p/steaks-haches-charolais-facon-bouchere-carrefour-original-3560070427918?t=29592",
+    "name": "Steaks hachés charolais façon bouchère CARREFOUR ORIGINAL",
+    "price": 7.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les steaks hachés pur bœuf race Charolaise surgelés Carrefour sont élaborés à partir de viande bovine de race Charolaise d'origine française, connue pour son fin persillé et son juteux. Sa texture aérée et son moelleux d'exception sont obtenus grâce à une préparation 'façon bouchère'.",
+    "scraped_at": "2025-09-25T23:04:02.477Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/968a425ae44947c08ab4db23237be174/p_1500x1500/03760325840732_C1L1_s08.png",
+    "url": "https://www.carrefour.fr/p/chicken-tenders-my-pie-3760325840732?t=29592",
+    "name": "Chicken tenders MY PIE",
+    "price": 4.90,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Aiguillettes de poulet panées avec sauce barbecue",
+    "scraped_at": "2025-09-25T23:04:02.674Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/34adfe6c3d0e373988205007792c53fe/p_1500x1500/03512690003836-d1n1-s03.jpg",
+    "url": "https://www.carrefour.fr/p/burger-de-dinde-halal-isla-delice-3512690003836?t=29592",
+    "name": "Burger de dinde halal ISLA DELICE",
+    "price": 4.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Proposez une variante de burger maison à votre famille grâce au Special Burger's par Isla Délice. Ce pané, soigneusement élaboré avec une préparation à base de viande de Dinde Halal enrobée de panure pour plus de croustillant apportera une petite touche inédite à vos recettes de burger.",
+    "scraped_at": "2025-09-25T23:04:02.976Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/023aa7ce0d8e32cb8a85a335f378eec4/p_1500x1500/03700091900605-a1c1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/cordon-bleu-halal-isla-mondial-3700091900605?t=29592",
+    "name": "Cordon bleu Halal ISLA MONDIAL",
+    "price": 6.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients : INGRÉDIENTS: Viande filet de poulet 45% (origine: UE), panure farine de blé, huile de colza, amidon de maïs, sel, amidon de blé, GLUTEN DE BLE, levure, arômes, épices, extrait de curcuma, poudre à lever (E450), épaississant (E412), extrait d'épice, jambon de dinde 10% (viande rouge de dinde (69%), (origine: UE), eau, sel, dextrose, protéines de LAIT, stabilisants: tri-et polyphosphates, conservateurs: lactate de potassium, acétate de sodium et nitrite de sodium, gélifiant: carraghénane semi-raffinée, saccharose, arôme naturel, antioxydant: ascorbate de sodium, extrait d'épices), fromage (10%) ((dont 50% emmental), eau, amidons modifiés, beurre, lactosérum, LAIT écrémé en poudre, acidifiants (E330,E331), gélifiant (E407), sel), eau, fibre de pomme de terre, fibre de pois, sel, fibre d'agrumes, amidon de maïs modifié, protéines de LAIT, extrait de levure. Peut contenir: des ŒUFS, du CELERI, de la MOUTARDE.",
+    "scraped_at": "2025-09-25T23:04:04.472Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/aaafe7112969350088fed1caa5a60374/p_1500x1500/03700091902722-a1c1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/lamelles-de-kebab-halal-isla-mondial-3700091902722?t=29592",
+    "name": "Lamelles de kebab Halal ISLA MONDIAL",
+    "price": 10.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un kebab maison ? Oui ! Préparez vos meilleurs sandwichs avec de véritables lamelles de kebab Halal Isla Mondial. La recette authentique de ce poulet mariné prêt en 4 minutes vous fera voyager vers la Turquie. C'est vous le chef ! Existe aussi en format 450g.",
+    "scraped_at": "2025-09-25T23:04:08.580Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c44a714be33e3a09a1d374531126b723/p_1500x1500/3560070487073-0.jpg",
+    "url": "https://www.carrefour.fr/p/grignottes-de-poulet-halal-roties-carrefour-3560070487073?t=29592",
+    "name": "Grignottes de poulet halal rôties CARREFOUR",
+    "price": 3.45,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les grignottes de poulet Nature Carrefour Sensation, prêtes à déguster froides ou chaudes en seulement 2 minutes. Elles sont préparées avec des manchons de poulets Halal marinés et rôtis, pour une saveur authentique.",
+    "scraped_at": "2025-09-25T23:04:09.674Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/67b18bfdb91245e1aa2b8d4f7f92e204/p_1500x1500/03700141404145_A1N1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/boulettes-a-l-orientale-epicees-halal-oriental-viandes-3700141404145?t=29592",
+    "name": "Boulettes à L'Orientale Epicées Halal ORIENTAL VIANDES",
+    "price": 8.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Boulettes à l'Orientale halal 20%MG Epicées 25x30g (750g) Oriental Viandes",
+    "scraped_at": "2025-09-25T23:04:11.449Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4064f7ed642a3874b554de7c6841facb/p_1500x1500/03700091900483-a1c1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/boulettes-pur-boeuf-halal-isla-mondial-3700091900483?t=29592",
+    "name": "Boulettes Pur Bœuf Halal ISLA MONDIAL",
+    "price": 25.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les boulettes de viande Halal Isla Mondial sont élaborées avec cœur à partir de 100% de viande de bœuf. À cuisiner dans toutes sortes de recettes, dans un tajine, avec de la semoule, des pâtes à la sauce tomate… tendres à souhait, elles régaleront les petits comme les grands. Existe aussi en moyen format.",
+    "scraped_at": "2025-09-25T23:04:13.576Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e9e6851b0ca3493c90fb4448374a668b/p_1500x1500/03700068140515_A1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/poulet-barbecue-assaisonne-mister-pito-3700068140515?t=29592",
+    "name": "Poulet barbecue assaisonné MISTER PITO",
+    "price": 6.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Poulet mariné aux herbes et épices à griller au four ou au barbecue",
+    "scraped_at": "2025-09-25T23:04:20.278Z"
+  }
+]

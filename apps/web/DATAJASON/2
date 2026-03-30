@@ -1,0 +1,312 @@
+[
+    {
+      "main_image": "https://media.carrefour.fr/medias/a49959960c084fa993791d628c418bc6/p_1500x1500/05413458060185_A1C1_s06.jpeg",
+      "url": "https://www.carrefour.fr/p/viande-de-volaille-pilons-de-poulet-5413458060185?t=1931",
+      "name": "Viande de Volaille : Pilons de Poulet",
+      "price": 20.49,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Filet de poulet blanc standard",
+      "scraped_at": "2025-09-24T20:55:50.217Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/3f1a5247d68d49e7b388731d1153893f/p_1500x1500/03230890736889_A1N1_s02.png",
+      "url": "https://www.carrefour.fr/p/escalopes-de-dinde-maitre-coq-3230890736889?t=1931",
+      "name": "Escalopes de dinde MAITRE COQ",
+      "price": 8.50,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Escalope de dinde préparée à partir d'une noix de dinde végétale. .",
+      "scraped_at": "2025-09-24T20:55:51.412Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/f3828af8093b31d9b4cbd4d86edc5a76/p_1500x1500/3276552190163-photosite-20210614-174035-0.jpg",
+      "url": "https://www.carrefour.fr/p/poulet-roti-epice-3276552190163?t=1931",
+      "name": "Poulet rôti épicé",
+      "price": 8.99,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Votre poulet rôti est préparé le jour même en magasin et ont une chair ferme et gouteuse.Ce poulet a été élevé en France dans des exploitations respectant le bien être animal : mise en place de lumière naturelle, perchoir, objet à picorer et réduction de la densité d'élevage au mètre carré.Il a été nourri sans OGM (< 0,9%) et élevé sans antibiotiques",
+      "scraped_at": "2025-09-24T20:56:04.412Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/1da43f5eb10b46cb90622f901fbf6bb0/p_1500x1500/03230890027529_A1N1_s05.png",
+      "url": "https://www.carrefour.fr/p/nuggets-de-poulet-maitre-coq-3230890027529?t=1931",
+      "name": "Nuggets de poulet MAITRE COQ",
+      "price": 6.20,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Viande de poulet traitée en salaison, enrobée d'une pâte à beignet, cuite.",
+      "scraped_at": "2025-09-24T20:56:07.118Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/9692965b623832da9b41ad1263d6a6f5/p_1500x1500/3523680248588-photosite-20210614-174025-0.jpg",
+      "url": "https://www.carrefour.fr/p/jambonneau-cuit-superieur-3523680248588?t=1931",
+      "name": "Jambonneau cuit supérieur",
+      "price": 9.25,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Jarret de porc, eau, sel, dextrose, bouillon aromatique (eau, oignons, ail, poivre, muscade, thym, laurier), antioxydant : érythorbate de sodium, conservateur : nitrite de sodium.\nTraces éventuelles de MOUTARDE.",
+      "scraped_at": "2025-09-24T20:56:09.312Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/21ab2a9c74804f118244aa3abc7451a7/p_1500x1500/03266980033613_A1N0_s07.png",
+      "url": "https://www.carrefour.fr/p/cordon-bleu-poulet-le-gaulois-3266980033613?t=1931",
+      "name": "Cordon bleu poulet LE GAULOIS",
+      "price": 1.99,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Sous une chapelure croustillante, découvrez une viande de poulet associée à du fromage fondu et une tranche de jambon de dinde. Prêts en 12 minutes au four, les Cordons Bleus sont les complices des parents ! Une volaille 100% française et une recette sans colorant, sans arôme artificiel et sans exhausteur de goût.",
+      "scraped_at": "2025-09-24T20:56:12.210Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/fa93a77d9b6845ccafac206cc4d97d82/p_1500x1500/05413458017578_A1C1_s06.png",
+      "url": "https://www.carrefour.fr/p/viande-de-volaille-filets-de-poulet-5413458017578?t=1931",
+      "name": "Viande de Volaille : Filets de Poulet",
+      "price": 9.99,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Filet de poulet blanc standard",
+      "scraped_at": "2025-09-24T20:56:17.215Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/ebc1d101cc88424f9390c89e30ef9a2d/p_1500x1500/3276552190330_0.jpg",
+      "url": "https://www.carrefour.fr/p/palette-de-porc-cuite-3276552190330?t=1931",
+      "name": "Palette de porc cuite",
+      "price": 25.34,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Epaule de porc, eau, sel, dextrose, arômes, antioxydant : érythorbate de sodium, conservateur : nitrite de sodium. Traces de LACTOSE, GLUTEN, OEUFS, FRUITS A COQUE",
+      "scraped_at": "2025-09-24T20:56:21.018Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/bf4364a022534b0b85fc19b664dd52a7/p_1500x1500/03230890014000_A1N1_s04.png",
+      "url": "https://www.carrefour.fr/p/cordons-bleus-de-poulet-maitre-coq-3230890014000?t=1931",
+      "name": "Cordons bleus de poulet MAITRE COQ",
+      "price": 6.20,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Viande de poulet et de dinde traitée en salaison (53%) garnie d'une tranche de jambon de dinde (10%) et d'une tranche de fromage fondu (10%), panée et cuite.",
+      "scraped_at": "2025-09-24T20:56:25.516Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/a1b2d8bc20b041d6a4aa770da63d0929/p_1500x1500/3560070543762-photosite-2025629-14431-0.JPG",
+      "url": "https://www.carrefour.fr/p/panes-de-volaille-facon-normande-carrefour-classic-3560070543762?t=1931",
+      "name": "Panés de volaille façon normande CARREFOUR CLASSIC'",
+      "price": 1.99,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Découvrez nos Panés à la Normande, une délicieuse préparation à base de viande de dinde traitée en salaison, fourrée d'une savoureuse sauce à la normande et panée croustillante. Faciles à préparer au four ou à la poêle, ils offrent une expérience gustative gourmande à chaque bouchée. Savourez un repas rapide et savoureux sans compromis sur la qualité et le goût.",
+      "scraped_at": "2025-09-24T20:56:26.419Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/53fa6e54c27748378af5f7543f93a955/p_1500x1500/3560070487516-photosite-2025629-135355-0.JPG",
+      "url": "https://www.carrefour.fr/p/cordons-bleus-de-dinde-carrefour-3560070487516?t=1931",
+      "name": "Cordons bleus de dinde CARREFOUR",
+      "price": 3.69,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Découvrez nos Cordons Bleus de Dinde Carrefour, une délicieuse préparation à base de viande de dinde traitée en salaison, garnie de jambon de dinde et de fromage fondu. Panés et cuits avec soin, nos cordons bleus vous offrent une expérience gourmande et réconfortante. Fabriqués en France avec des ingrédients de qualité, ils sont parfaits pour un repas rapide et savoureux. Savourez-les au four ou à la poêle selon vos préférences et profitez d'un moment de plaisir culinaire.",
+      "scraped_at": "2025-09-24T20:56:26.220Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/4b366af960154de29af92b5aba1347c7/p_1500x1500/3560071152031_0.jpg",
+      "url": "https://www.carrefour.fr/p/aiguillettes-de-poulet-panees-carrefour-sensation-3560071152031?t=1931",
+      "name": "Aiguillettes de poulet panées CARREFOUR SENSATION",
+      "price": 3.35,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Découvrez nos aiguillettes de poulet panées extra croustillantes, issues de volaille d'origine française. Variez vos repas tout en équilibrant votre alimentation avec ce produit savoureux et facile à préparer.",
+      "scraped_at": "2025-09-24T20:56:29.211Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/e98a484d78f03a91be1fe13d3a7a1611/p_1500x1500/3270190208211-0.jpg",
+      "url": "https://www.carrefour.fr/p/grignottes-de-poulet-roties-nature-carrefour-sensation-3270190208211?t=1931",
+      "name": "Grignottes de poulet rôties nature CARREFOUR SENSATION",
+      "price": 2.69,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Découvrez les Grignottes de Poulet Rôties Carrefour Sensation, un choix gourmand et pratique pour vos repas rapides. Préparées avec des manchons de poulet origine France, ces grignottes sont traitées en salaison et rôties pour un goût délicieux et une texture tendre. À déguster chaudes ou froides selon vos préférences, elles se conservent facilement entre 0°C et +4°C jusqu'à la date indiquée.",
+      "scraped_at": "2025-09-24T20:56:31.821Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/de4d9df85bd933079e029f8a2eba5b34/p_1500x1500/3560071012489-0.jpg",
+      "url": "https://www.carrefour.fr/p/cordons-bleus-de-poulet-carrefour-classic-3560071012489?t=1931",
+      "name": "Cordons bleus de poulet CARREFOUR CLASSIC'",
+      "price": 1.65,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Des Cordons Bleus de Poulet fabriqués en France, avec de la volaille d'origine française, présentés dans des sachets individuels. Un produit de qualité composé de viande de filet de poulet traitée en salaison, garnie de jambon de dinde cuit et de fromage fondu, puis panée et cuite à la perfection. Un délice à déguster en famille ! Découvrez notre savoureux Cordon Bleu de Poulet, une préparation élaborée à partir de viande de filet de poulet de qualité, complétée par un délicieux mélange de jambon de dinde cuit et de fromage fondu. Son panage croustillant et sa cuisson maîtrisée en font un plat apprécié de tous. Pratique avec ses sachets individuels, il vous suffit de le réchauffer au four ou à la poêle pour régaler vos papilles en un rien de temps !",
+      "scraped_at": "2025-09-24T20:56:34.018Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/109ab7774ff43f8d8a3e6a3f57c7d828/p_1500x1500/3560071233938-photosite-20200403-045621-0.jpg",
+      "url": "https://www.carrefour.fr/p/filets-de-poulet-jaune-fermier-label-rouge-filiere-qualite-carrefour-3560071233938?t=1931",
+      "name": "Filets de poulet jaune fermier Label Rouge FILIERE QUALITE CARREFOUR",
+      "price": 6.61,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Découvrez notre produit de volaille d'Auvergne, élevé en plein air dans le respect du bien-être animal. Alimenté avec des céréales et des végétaux de qualité, notre poulet offre une viande délicieuse et tendre. Faites le choix d'une volaille de qualité supérieure, élevée sans antibiotiques de synthèse, pour des repas savoureux et sains.",
+      "scraped_at": "2025-09-24T20:56:34.214Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/b0482a61280549a89121bd8b2c5dad70/p_1500x1500/03266980282882_A1N1_s02.jpg",
+      "url": "https://www.carrefour.fr/p/filets-de-poulet-fermier-label-rouge-loue-3266980282882?t=1931",
+      "name": "Filets de poulet fermier Label Rouge LOUE",
+      "price": 5.47,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "De généreux filets de poulet fermier de Loué Label Rouge. Des filets savoureux qui reflètent le mode d'élevage unique du poulet de Loué : élevé en liberté, nourri aux céréales locales. Ils se prêteront à de multiples recettes : émincés ou entiers, juste cuits à la poêle ou en sauce.",
+      "scraped_at": "2025-09-24T20:56:34.716Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/fbc1930bc3c935a0ac3ee88a2ca74e97/p_1500x1500/3270190265238-photosite-20210115-191035-0.jpg",
+      "url": "https://www.carrefour.fr/p/gesiers-de-volaille-cuisines-en-confit-carrefour-3270190265238?t=1931",
+      "name": "Gésiers de volaille cuisinés en confit CARREFOUR",
+      "price": 2.75,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Découvrez nos délicieux gésiers de volaille confits dans une savoureuse graisse de canard et traités en salaison. Un véritable délice à déguster sans modération pour une expérience gustative irrésistible.",
+      "scraped_at": "2025-09-24T20:56:36.516Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/42c9c58f02e23033937d33613adf47ac/p_1500x1500/3560070472024-photosite-20201229-180149-0.jpg",
+      "url": "https://www.carrefour.fr/p/aiguillettes-de-poulet-blanc-carrefour-classic-3560070472024?t=1931",
+      "name": "Aiguillettes de poulet blanc CARREFOUR CLASSIC'",
+      "price": 4.23,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Les aiguillettes de poulet Carrefour Classic' sont issues de volaille française, élevée sans traitement antibiotique et nourrie sans OGM (",
+      "scraped_at": "2025-09-24T20:56:37.613Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/566495c9cf51469c8a2f902038503e11/p_1500x1500/03266980282875_A1N1_s02.jpg",
+      "url": "https://www.carrefour.fr/p/filets-de-poulet-fermier-jaune-label-rouge-fermiers-de-loue-3266980282875?t=1931",
+      "name": "Filets de poulet fermier jaune Label Rouge FERMIERS DE LOUE",
+      "price": 4.92,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "De généreux filets de poulet fermier de Loué Label Rouge. Des filets savoureux qui reflètent le mode d'élevage unique du poulet de Loué : élevé en liberté, nourri aux céréales locales. Ils se prêteront à de multiples recettes : émincés ou entiers, juste cuits à la poêle ou en sauce.",
+      "scraped_at": "2025-09-24T20:56:36.816Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/ef7bf32c4c233b939763034597945f85/p_1500x1500/03338980106410-a1c1-s02.jpg",
+      "url": "https://www.carrefour.fr/p/magret-de-canard-gras-cru-maison-montfort-3338980106410?t=1931",
+      "name": "Magret de canard gras cru MAISON MONTFORT",
+      "price": 11.82,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Retrouvez tout le plaisir d'un bon magret de canard, garanti Origine France. Maison Montfort est la marque d'une coopérative engagée du Sud Ouest. Chacun de nos canards est élevé dans une exploitation à taille humaine, et nourri avec des céréales françaises, garantie sans OGM.",
+      "scraped_at": "2025-09-24T20:56:39.112Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/659fee5dfa8b39e5bfffc8404ff2acb5/p_1500x1500/3560071233969-0.jpg",
+      "url": "https://www.carrefour.fr/p/filets-de-poulet-blanc-fermier-label-rouge-filiere-qualite-carrefour-3560071233969?t=1931",
+      "name": "Filets de poulet blanc fermier Label Rouge FILIERE QUALITE CARREFOUR",
+      "price": 8.27,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Découvrez notre Filet de Poulet Blanc Fermier d'Auvergne, élevé en plein air, nourri sans OGM et élevé sans traitement antibiotique**. Un produit de qualité supérieure, respectueux de l'environnement et des animaux, pour une alimentation saine et responsable.",
+      "scraped_at": "2025-09-24T20:56:41.317Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/fda2bb54b545329d99a62b762931187e/p_1500x1500/3270190031659-0.jpg",
+      "url": "https://www.carrefour.fr/p/escalopes-de-dinde-carrefour-classic-3270190031659?t=1931",
+      "name": "Escalopes de dinde CARREFOUR CLASSIC'",
+      "price": 3.82,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Découvrez nos délicieuses escalopes de dinde françaises, fraîchement découpées et de classe A. Vous apprécierez la qualité de notre produit issu de dindes nourries, avec une alimentation à base de végétaux, minéraux et vitamines. Savourez une viande tendre et savoureuse, élevée pendant au moins 85 jours, le tout à un prix accessible.",
+      "scraped_at": "2025-09-24T20:56:41.712Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/edea839ffb6c398f99a60d18058300fd/p_1500x1500/3276555413856-photosite-20210614-174032-0.jpg",
+      "url": "https://www.carrefour.fr/p/poulet-roti-eleve-sans-traitement-antibiotique-3276555413856?t=1931",
+      "name": "Poulet rôti élevé sans traitement antibiotique",
+      "price": 8.99,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Poulet rôti issu poulet certifié, épices. Présence de GLUTEN.",
+      "scraped_at": "2025-09-24T20:56:44.217Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/63121074e476341cb6ebfb20a0c409ba/p_1500x1500/3276552190194-0.jpg",
+      "url": "https://www.carrefour.fr/p/poulet-roti-fermier-de-loue-3276552190194?t=1931",
+      "name": "Poulet rôti fermier de Loué",
+      "price": 11.99,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Poulet fermier origine France (alimenté 100% végétaux dont 75% de céréales, minéraux et vitamines, élevé en plein air).\nTraces éventuelles de MOUTARDE.",
+      "scraped_at": "2025-09-24T20:56:46.015Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/849f720ec90d4f2eb9d4ad126e5e7860/p_1500x1500/3560070598021-photosite-2025629-14730-0.JPG",
+      "url": "https://www.carrefour.fr/p/nuggets-de-poulet-carrefour-3560070598021?t=1931",
+      "name": "Nuggets de poulet CARREFOUR",
+      "price": 2.59,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Découvrez nos nuggets de poulet Carrefour, une préparation savoureuse et croustillante à base de viande de poulet traitée en salaison, enrobée d'une délicieuse pâte à beignet. À déguster au four pour une cuisson homogène et sans matière grasse ajoutée, ou à la poêle pour une note dorée et gourmande. Un plaisir à partager en famille ou entre amis !",
+      "scraped_at": "2025-09-24T20:56:50.719Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/57410105952c421880412e6277b7605a/p_1500x1500/05413458017585_A1C1_s06.png",
+      "url": "https://www.carrefour.fr/p/viande-de-volaille-pilons-de-poulet-5413458017585?t=1931",
+      "name": "Viande de Volaille : Pilons de Poulet",
+      "price": 4.49,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Pilons de poulet blanc standard",
+      "scraped_at": "2025-09-24T20:56:52.018Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/c3829888eb7e3616954304ae2b459de5/p_1500x1500/3276559089859-photosite-20210614-174024-0.jpg",
+      "url": "https://www.carrefour.fr/p/poulet-roti-3276559089859?t=1931",
+      "name": "Poulet rôti",
+      "price": 6.99,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Conseils conso\n\nLes informations de ce produit sont certifiées par ConsoTrust-AllergoBox.\n\nConsoTrust-AllergoBox est un partenaire dédié aux allergies et aux régimes alimentaires. Les informations affichées sont mises à jour régulièrement auprès de notre partenaire pour vous permettre d’identifier les produits compatibles avec vos allergies et/ou régimes alimentaires.\n\nEn savoir plus",
+      "scraped_at": "2025-09-24T20:56:52.916Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/9abb90af54bc48d29d75b34245c60bb6/p_1500x1500/03435660748882_A1N1_s05.jpeg",
+      "url": "https://www.carrefour.fr/p/pilons-de-poulet-jaune-la-nouvelle-agriculture-3435660748882?t=1931",
+      "name": "Pilons de poulet jaune LA NOUVELLE AGRICULTURE",
+      "price": 3.75,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Pilon de poulet",
+      "scraped_at": "2025-09-24T20:57:01.516Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/258535fb64d74674add3056cbccc75d4/p_1500x1500/05413458063513_A1C1_s06.png",
+      "url": "https://www.carrefour.fr/p/viande-de-volaille-aiguillettes-de-poulet-5413458063513?t=1931",
+      "name": "Viande de Volaille : Aiguillettes de Poulet",
+      "price": 9.90,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "aiguillettes de filet de poulet blanc standard",
+      "scraped_at": "2025-09-24T20:57:01.811Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/e928509ea0cb3014b283dbfcb72f7b6a/p_1500x1500/3276552190200-photosite-20210614-174029-0.jpg",
+      "url": "https://www.carrefour.fr/p/1-2-poulet-jaune-fermier-de-loue-roti-3276552190200?t=1931",
+      "name": "1/2 poulet jaune fermier de Loué rôti",
+      "price": 5.99,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Poulet fermier (alimenté 100% végétaux dont 75% de céréales, minéraux et vitamines, élevé en plein air). Poulet origine France.\nTraces éventuelles de MOUTARDE.",
+      "scraped_at": "2025-09-24T20:57:03.412Z"
+    },
+    {
+      "main_image": "https://media.carrefour.fr/medias/d7dad84406563e8d80f288c3357038cc/p_1500x1500/3560070343607-photosite-20210709-175136-0.jpg",
+      "url": "https://www.carrefour.fr/p/filets-de-poulet-carrefour-3560070343607?t=1931",
+      "name": "Filets de poulet CARREFOUR",
+      "price": 9.99,
+      "regular_price": 0,
+      "currency": "EUR",
+      "description": "Conseils conso\n\nLes informations de ce produit sont certifiées par ConsoTrust-AllergoBox.\n\nConsoTrust-AllergoBox est un partenaire dédié aux allergies et aux régimes alimentaires. Les informations affichées sont mises à jour régulièrement auprès de notre partenaire pour vous permettre d’identifier les produits compatibles avec vos allergies et/ou régimes alimentaires.\n\nEn savoir plus\n\nGarantie fraîcheur\n\nCe produit reste frais au minimum 2 jours après la livraison de votre commande.",
+      "scraped_at": "2025-09-24T20:57:04.612Z"
+    }
+  ]

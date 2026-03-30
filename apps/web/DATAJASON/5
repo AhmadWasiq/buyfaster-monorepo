@@ -1,0 +1,792 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/4f929c38134c3471a827ffaeb5a33c72/p_1500x1500/3529380014546-0.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-brie-3529380014546?t=36999",
+    "name": "Fromage Brie",
+    "price": 2.0,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Brie pasteurisé - 31% MG produit fini:\nLAIT pasteurisé de vache, sel, ferments lactiques et d'affinage.",
+    "scraped_at": "2025-09-24T21:34:19.292Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/bad9cd0167b041edb099d9821329938d/p_1500x1500/08059070742657_A1L1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-mozzarella-di-bufala-tressee-aop-l-italie-des-fromages-8059070742657?t=36999",
+    "name": "Fromage mozzarella di bufala tressée AOP L'ITALIE DES FROMAGES",
+    "price": 4.5,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Fromage à pâte filée, en forme de boule Consistance : Superficie élastique et lisse, intérieur filée et souple Couleur : blanc perle Saveur/Odeur : Caractéristique et délicat",
+    "scraped_at": "2025-09-24T21:34:27.646Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/232d8432bade4583a45408dba0a8591e/p_1500x1500/3560071178345_1.JPG",
+    "url": "https://www.carrefour.fr/p/emmental-rape-fondant-carrefour-classic-3560071178345?t=36999",
+    "name": "Emmental râpé fondant CARREFOUR CLASSIC'",
+    "price": 2.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Emmental râpé fondant CARREFOUR CLASSIC', fabriqué à partir de lait pasteurisé de vache d'origine française. Ce fromage à pâte pressée cuite est idéal pour donner un fondant optimal à vos pâtes. Avec son sachet refermable, il se conserve facilement entre +4°C et +8°C et peut être consommé dans les 5 jours après ouverture. Ajoutez une touche de saveur à vos plats avec notre Emmental râpé CARREFOUR CLASSIC' !",
+    "scraped_at": "2025-09-24T21:34:30.944Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4d982febf3b941e19e636b06c356db65/p_1500x1500/03123930715008_C1N1_s13.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-rape-emmental-entremont-3123930715008?t=36999",
+    "name": "Fromage Râpé Emmental ENTREMONT",
+    "price": 3.73,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pourquoi l'Emmental Français râpé Entremont est Autrement Bon ? Il est issu de meules au bon goût fruité fabriquées avec du lait Français. L'Emmental râpé Entremont possède des brins fins pour encore plus de fondant ! 100% Emmental : de l'Emmental râpé et rien d'autre !",
+    "scraped_at": "2025-09-24T21:34:57.453Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/31fe9dad12f0355db1595503c990ef31/p_1500x1500/3270190207696-0.jpg",
+    "url": "https://www.carrefour.fr/p/emmental-rape-fondant-carrefour-classic-3270190207696?t=36999",
+    "name": "Emmental râpé fondant CARREFOUR CLASSIC'",
+    "price": 1.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Emmental râpé fondant de qualité supérieure ! Avec son goût délicieux et sa texture fondante, il est parfait pour agrémenter vos plats préférés. Fabriqué par Carrefour Classic, ce produit est issu d'une sélection rigoureuse des meilleurs ingrédients pour vous offrir une expérience gustative inoubliable. Alors, n'hésitez plus et ajoutez notre Emmental râpé fondant à votre panier dès…",
+    "scraped_at": "2025-09-24T21:34:58.052Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cd1df13d6f834f76bb5e386fe49bf581/p_1500x1500/3560070100514_0.jpg",
+    "url": "https://www.carrefour.fr/p/mimolette-tranches-carrefour-3560070100514?t=36999",
+    "name": "Mimolette tranches CARREFOUR",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Mimolette hollandaise jeune, un fromage à pâte pressée non cuite qui ravira vos papilles ! Avec ses 10 tranches, vous pourrez en profiter à tout moment de la journée. Fabriqué aux Pays-Bas à partir de lait origine UE, notre Mimolette est conservée sous atmosphère protectrice pour une fraîcheur optimale. Son goût unique et sa texture fondante en font un incontournable pour les amateurs de fromage. Essayez-la dès maintenant !",
+    "scraped_at": "2025-09-24T21:35:01.548Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b6da404d002e390aa807c3484d0c9cfb/p_1500x1500/3245390032034-0.jpg",
+    "url": "https://www.carrefour.fr/p/cancoillotte-nature-reflets-de-france-3245390032034?t=36999",
+    "name": "Cancoillotte nature REFLETS DE FRANCE",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La Cancoillotte nature Reflets de France, fabriquée en Franche-Comté, est une spécialité fromagère fondue avec seulement 8% de matière grasse dans le produit fini. Préparée à partir de lait et de beurre d'origine France, elle se déguste aussi bien froide, en accompagnement de plateaux de fromages, que chaude, en nappage sur des pommes de terre ou de la charcuterie.",
+    "scraped_at": "2025-09-24T21:35:03.448Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7ad16522c8e64b5781bcd907838148a2/p_1500x1500/3560070511891_0.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-a-raclette-classique-sans-croute-carrefour-original-3560070511891?t=36999",
+    "name": "Fromage à raclette classique sans croûte CARREFOUR ORIGINAL",
+    "price": 3.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Raclette sans croûte, un fromage au lait pasteurisé de vache origine France, à la texture fondante et aux saveurs authentiques. Facile à trancher, elle est idéale pour vos soirées raclette entre amis ou en famille. Avec sa conservation sous atmosphère protectrice, elle se conserve parfaitement entre +4°C et +8°C. Ne résistez plus à cette Raclette classique.",
+    "scraped_at": "2025-09-24T21:35:05.047Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/890bef0ddb0a34a7aac217787336dcaf/p_1500x1500/3560070100453-0.jpg",
+    "url": "https://www.carrefour.fr/p/gouda-carrefour-classic-3560070100453?t=36999",
+    "name": "Gouda CARREFOUR CLASSIC'",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux Gouda jeune, fabriqué aux Pays-Bas à partir de lait de vache pasteurisé. Avec ses 10 tranches, ce fromage à pâte pressée non cuite est parfait pour les amateurs de saveurs authentiques. Sa texture fondante et son goût subtil en font un incontournable de vos plateaux de fromages. Essayez-le dès maintenant !",
+    "scraped_at": "2025-09-24T21:35:05.842Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7df3fd7ff9314cec9c97d91d9cfa8ea0/p_1500x1500/03272320012507_Z1N1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-l-ortolan-doux-et-nature-fromagerie-milleret-3272320012507?t=36999",
+    "name": "Fromage L'Ortolan Doux Et Nature FROMAGERIE MILLERET",
+    "price": 2.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "L'Ortolan est un fromage doux et fondant qui plaira à toute la famille !",
+    "scraped_at": "2025-09-24T21:35:06.048Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4881a874b3673b45a58e7bac80e3a88a/p_1500x1500/3560070884445-0.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-rape-emmental-de-savoie-igp-reflets-de-france-3560070884445?t=36999",
+    "name": "Fromage Râpé Emmental de Savoie IGP REFLETS DE FRANCE",
+    "price": 1.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Emmental de Savoie râpé au lait cru, un fromage à pâte pressée cuite issu de l'aire géographique définie par l'IGP. Fabriqué en Haute-Savoie par les Maîtres Fromagers des Fruitières Chabert depuis 1936, notre Emmental de Savoie Reflets de France est affiné traditionnellement pour lui donner ses trous, sa forme bombée et son goût fruité si caractéristiques. À consommer rapidement après ouverture, notre Emmental de Savoie râpé est parfait pour sublimer vos plats et apporter une touche de saveur à vos recettes. Découvrez tous nos produits sur www.refletsdefrance.fr.",
+    "scraped_at": "2025-09-24T21:35:06.750Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/17da872c0c273184afaef7bbf63ae269/p_1500x1500/3245390032010-0.jpg",
+    "url": "https://www.carrefour.fr/p/cancoillotte-a-l-ail-reflets-de-france-3245390032010?t=36999",
+    "name": "Cancoillotte à l'ail REFLETS DE FRANCE",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la cancoillotte à l'ail Reflets de France, fabriquée en Franche-Comté avec du lait, du beurre et de l'ail d'origine France. Fondante et onctueuse, elle peut être dégustée froide comme un fromage de plateau ou chaude en nappage de pommes de terre et de charcuterie.",
+    "scraped_at": "2025-09-24T21:35:07.443Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8da79f37a2063f38b6135f8af440ecf0/p_1500x1500/3270190020165-0.jpg",
+    "url": "https://www.carrefour.fr/p/camembert-carrefour-classic-3270190020165?t=36999",
+    "name": "Camembert CARREFOUR CLASSIC'",
+    "price": 1.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux Camembert CARREFOUR CLASSIC, un fromage à pâte molle au lait pasteurisé de vache, fabriqué en France avec des ingrédients de qualité. Son goût onctueux et savoureux vous transportera directement en Normandie. Idéal pour les amateurs de fromage, notre Camembert se conserve parfaitement dans son papier d'emballage. Offrez-vous une expérience gustative unique avec notre produit de qualité supérieure.",
+    "scraped_at": "2025-09-24T21:35:08.244Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6eccda6389cb35bdb225a52b6d496925/p_1500x1500/3560070157198-0.jpg",
+    "url": "https://www.carrefour.fr/p/parmigiano-reggiano-rape-aop-carrefour-extra-3560070157198?t=36999",
+    "name": "Parmigiano Reggiano râpé AOP CARREFOUR EXTRA",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Parmigiano Reggiano AOP râpé, un fromage à pâte dure cuite affiné pendant plus de 18 mois pour une saveur intense et délicieuse. Fabriqué en Italie avec du lait cru de vache, du sel et de la présure de veau, ce fromage est parfait pour ajouter une touche de saveur à vos plats préférés. Conditionné sous atmosphère protectrice pour une fraîcheur optimale, notre Parmigiano Reggiano AOP râpé est un must-have pour tous les amateurs de fromage.",
+    "scraped_at": "2025-09-24T21:35:08.045Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ff5f98c52b5a3bd49ce6ea18279beef0/p_1500x1500/3560070930036-0.jpg",
+    "url": "https://www.carrefour.fr/p/comte-au-lait-cru-aop-carrefour-extra-3560070930036?t=36999",
+    "name": "Comté Au Lait Cru AOP CARREFOUR EXTRA",
+    "price": 3.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le Comté au lait cru Carrefour Extra, un fromage à pâte pressée cuite d'Appellation d'Origine Protégée. Elaboré avec soin à partir de lait cru de vache, ce Comté vous promet une expérience gustative authentique et savoureuse.",
+    "scraped_at": "2025-09-24T21:35:08.646Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c9d3860ef1333c60b5ba8709667b18ef/p_1500x1500/3560070441778-0.jpg",
+    "url": "https://www.carrefour.fr/p/quart-maroilles-aop-reflets-de-france-3560070441778?t=36999",
+    "name": "Quart Maroilles AOP REFLETS DE FRANCE",
+    "price": 2.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le Quart Maroilles AOP, un fromage à pâte molle à croûte lavée, affiné pendant 6 semaines, qui offre une texture souple et onctueuse avec une odeur caractéristique. Parfait pour accompagner vos plateaux de fromages ou pour réaliser de délicieuses tartes et flamiche.",
+    "scraped_at": "2025-09-24T21:35:10.061Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/11c651ea30cd43c1b39d75155f78b183/p_1500x1500/3023260005872_0.jpg",
+    "url": "https://www.carrefour.fr/p/des-de-fromage-de-brebis-pour-aperitif-et-salade-aux-herbes-de-provence-salakis-3023260005872?t=36999",
+    "name": "Dés de fromage de brebis pour apéritif et salade aux herbes de Provence SALAKIS",
+    "price": 3.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "De délicieux dés 100 % brebis marinés dans l'huile et les herbes de Provence, toujours prêts à s'échapper de leur bocal pour égayer un apéritif, une salade ou une quiche gourmande. Fromage sans conservateur et brebis nourries sans OGM (",
+    "scraped_at": "2025-09-24T21:35:10.446Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6cae197f24af462ea95c7be5ff59c9ab/p_1500x1500/3560071245962-photosite-2025730-111023-0.jpeg",
+    "url": "https://www.carrefour.fr/p/emmental-francais-carrefour-classic-3560071245962?t=36999",
+    "name": "Emmental français CARREFOUR CLASSIC'",
+    "price": 2.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Emmental français CARREFOUR CLASSIC', un fromage à pâte pressée cuite au lait pasteurisé, doux et fruité. Fabriqué en France avec du lait français, il est parfait pour les amateurs de fromage à la recherche d'une saveur authentique. Avec sa texture fondante et son goût délicieux, notre Emmental est idéal pour agrémenter vos plats ou pour une dégustation gourmande. Essayez-le dès maintenant et laissez-vous séduire par son goût unique !",
+    "scraped_at": "2025-09-24T21:35:12.742Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6b5a3d7e25c139a885518ebc7b78e035/p_1500x1500/3560070060252-photosite-20210225-150923-0.jpg",
+    "url": "https://www.carrefour.fr/p/mozzarella-carrefour-classic-3560070060252?t=36999",
+    "name": "Mozzarella CARREFOUR CLASSIC'",
+    "price": 0.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Mozzarella Carrefour Classic' ! Fabriquée à partir de lait pasteurisé de vache, cette Mozzarella à la texture filée est conservée dans une saumure pour préserver toute sa saveur. Avec son goût doux et crémeux, elle est parfaite pour agrémenter vos salades, pizzas ou encore vos sandwichs. Essayez-la dès maintenant et laissez-vous séduire par son goût authentique !",
+    "scraped_at": "2025-09-24T21:35:14.848Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d089b6a0e21349af8e1d9b973e70579e/p_1500x1500/3560071453978_0.JPG",
+    "url": "https://www.carrefour.fr/p/mozzarella-di-bufala-campana-aop-carrefour-extra-3560071453978?t=36999",
+    "name": "Mozzarella di Bufala Campana AOP CARREFOUR EXTRA",
+    "price": 3.7,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Maxi Pack x3 de Mozzarella di Bufala Campana AOP - DOP, reconnue Saveur de l'Année 2022 par un jury de consommateurs. Ce fromage à pâte filée au lait pasteurisé de bufflonne en saumure est conservé entre 0°C et +4°C. Avec son goût unique et sa texture fondante, notre Mozzarella di Bufala Campana est le choix parfait pour vos recettes italiennes préférées. Commandez dès maintenant et savourez l'authenticité de l'Italie chez vous !",
+    "scraped_at": "2025-09-24T21:35:16.143Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0eac1b0b3701343fad047dad9a0c4de0/p_1500x1500/3560070484560-photosite-20200917-181625-0.jpg",
+    "url": "https://www.carrefour.fr/p/mascarpone-carrefour-classic-3560070484560?t=36999",
+    "name": "Mascarpone CARREFOUR CLASSIC'",
+    "price": 3.1,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le délicieux mascarpone CARREFOUR CLASSIC', une véritable invitation au voyage culinaire ! Avec sa texture crémeuse et son goût subtil, ce fromage italien est parfait pour sublimer vos desserts et vos plats salés. Sa qualité exceptionnelle et son format généreux de 500g en font un choix idéal pour les gourmands et les amateurs de cuisine raffinée. Alors n'hésitez plus et offrez-vous une expérience gustative unique avec le mascarpone CARREFOUR CLASSIC' !",
+    "scraped_at": "2025-09-24T21:35:16.650Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e599d529be004ce89e2e9d82ed333eb0/p_1500x1500/08059070740004_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/fromage-mozzarella-buffala-campana-aop-l-italie-des-fromages-8059070740004?t=36999",
+    "name": "Fromage Mozzarella Buffala Campana AOP L'ITALIE DES FROMAGES",
+    "price": 4.9,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Fromage italien AOP au lait de bufflonne",
+    "scraped_at": "2025-09-24T21:35:17.248Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b57f19db283b355a8bf327dd414eddb6/p_1500x1500/3560070803699-photosite-20200929-172533-0.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-a-cuisiner-mozzarella-carrefour-classic-3560070803699?t=36999",
+    "name": "Fromage à Cuisiner Mozzarella CARREFOUR CLASSIC'",
+    "price": 3.05,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Mozzarella, un fromage à pâte filée au lait pasteurisé de vache, parfait pour vos recettes de cuisine italienne. Fabriquée en Italie avec des ingrédients de qualité, notre Mozzarella est un véritable régal pour les papilles. Sa texture fondante et son goût subtil de lait frais sauront ravir les amateurs de fromage. Notre Mozzarella est prête à être dégustée dès l'ouverture. Essayez-la dès maintenant et laissez-vous transporter en Italie !",
+    "scraped_at": "2025-09-24T21:35:18.749Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ab2991960f694a738a5f57bf2ca10534/p_1500x1500/3270190207702_0.JPG",
+    "url": "https://www.carrefour.fr/p/fromage-a-raclette-classique-carrefour-original-3270190207702?t=36999",
+    "name": "Fromage à raclette classique CARREFOUR ORIGINAL",
+    "price": 3.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Raclette classique, un fromage à pâte pressée non cuite au lait pasteurisé de vache d'origine française. Savourez ses tranchettes fondantes et son goût authentique. Idéal pour vos soirées raclette entre amis ou en famille. Conditionné sous atmosphère protectrice pour une conservation optimale. À déguster rapidement après ouverture. Commandez dès maintenant et régalez-vous !",
+    "scraped_at": "2025-09-24T21:35:19.850Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/eb234481637c4d3e8e0ad95f669197aa/p_1500x1500/3161716052008-photosite-2025515-13332-0.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-caprice-des-dieux-3161716052008?t=36999",
+    "name": "Fromage CAPRICE DES DIEUX",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nFromage de France à pâte molle\nLAIT de vache pasteurisé de France, CREME (LAIT), sel, ferments lactiques (LAIT).\nNaturellement sans lactose.",
+    "scraped_at": "2025-09-24T21:35:20.851Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f468bc7ca7ed4d47964ad9399d07606e/p_1500x1500/3276558387307_0.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-morbier-aop-filiere-qualite-carrefour-3276558387307?t=36999",
+    "name": "Fromage Morbier AOP FILIERE QUALITE CARREFOUR",
+    "price": 4.37,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "LAIT cru, sel, présure, ferments, colorant, charbon végétal.",
+    "scraped_at": "2025-09-24T21:35:23.344Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/66ee6839d3783cd7a9b909df2aed750a/p_1500x1500/3245390137838-0.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-brillat-savarin-igp-reflets-de-france-3245390137838?t=36999",
+    "name": "Fromage Brillat-Savarin IGP REFLETS DE FRANCE",
+    "price": 3.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Brillat-Savarin IGP affiné, un fromage à pâte molle au lait enrichi à la crème fraîche, fabriqué et affiné en Bourgogne par la Fromagerie Lincet. Sa texture fine et onctueuse ainsi que son parfum de noisette en font un produit d'exception. À déguster à température ambiante pour en apprécier toutes les saveurs. Un produit de qualité, fabriqué en France avec des ingrédients sélectionnés avec soin.",
+    "scraped_at": "2025-09-24T21:35:27.050Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/79ab0a9ea17c36cab49948dab28cdc4a/p_1500x1500/3560070060832-photosite-20210601-185052-0.jpg",
+    "url": "https://www.carrefour.fr/p/mozzarella-carrefour-classic-3560070060832?t=36999",
+    "name": "Mozzarella CARREFOUR CLASSIC'",
+    "price": 2.73,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Mozzarella Carrefour Classic, un fromage à pâte filée au lait pasteurisé de vache, en saumure. Savourez sa texture fondante et son goût authentique, parfait pour agrémenter vos salades, pizzas ou plats italiens préférés. Fabriquée en Italie, notre Mozzarella est conservée entre +4°C et +6°C pour préserver toutes ses saveurs. Offrez-vous un moment de plaisir culinaire avec notre Maxi Pack de 3x125g.",
+    "scraped_at": "2025-09-24T21:35:36.243Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/81a8c8dbaff249549b29b73309d1d87f/p_1500x1500/05202258025773_H1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/feta-aop-salakis-5202258025773?t=36999",
+    "name": "Feta AOP SALAKIS",
+    "price": 2.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Faites une escale en Grèce avec la Feta AOP Salakis. Ajoutez une saveur grecque gourmande à vos salades, quiches et autres préparations culinaires !",
+    "scraped_at": "2025-09-24T21:35:38.147Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b2e01304f973433db0932519759fe258/p_1500x1500/08000430133172_C1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/fromage-mozzarella-di-latte-di-bufala-mini-galbani-8000430133172?t=36999",
+    "name": "Fromage Mozzarella Di Latte Di Bufala Mini GALBANI",
+    "price": 2.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Toute la fraîcheur et la saveur typique de la Mozzarella di latte di Bufala Galbani, fabriquée exclusivement au lait de Bufflonne. Sous la forme de petites billes savoureuses, elles seront idéales pour réussir de belles salades composées ou de délicieux apéritifs en un tour de main ! Retrouvez + de 2400 recettes de cuisine italienne, astuces et bons plans sur www.galbani.fr !",
+    "scraped_at": "2025-09-24T21:35:39.950Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6703ad8bfa2139ef91a1d0ec0a5b457d/p_1500x1500/03760056260519-a1c1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/ricotta-12-mat-gr-casa-azzurra-3760056260519?t=36999",
+    "name": "Ricotta 12% Mat.Gr. CASA AZZURRA",
+    "price": 1.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ricotta, fromage de lactosérum, goût et légéreté",
+    "scraped_at": "2025-09-24T21:35:42.047Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/474514f6202148958230df01c6748c63/p_1500x1500/08000430132267_C1C1_s03.png",
+    "url": "https://www.carrefour.fr/p/fromage-mozzarella-mini-galbani-8000430132267?t=36999",
+    "name": "Fromage Mozzarella Mini GALBANI",
+    "price": 2.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le goût si frais et si moelleux de la Mozzarella Galbani sous forme de petites billes savoureuses, idéales pour réussir de belles salades composées ou de délicieux apéritifs en un tour de main ! Retrouvez toutes nos recettes de cuisine italienne, astuces et bons plans sur www.galbani.fr !",
+    "scraped_at": "2025-09-24T21:35:42.252Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8157bd9099374324be84f5fbcf28487a/p_1500x1500/08059070742909_C1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/mozzarella-di-bufala-l-italie-des-fromages-8059070742909?t=36999",
+    "name": "Mozzarella di bufala L'ITALIE DES FROMAGES",
+    "price": 2.0,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Mozzarella réalisée exclusivement à partir de lait de bufflonne ce qui la rend juteuse, nutritive et savoureuse.",
+    "scraped_at": "2025-09-24T21:35:42.453Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/36452d348b9e3b6abfb05bcc85f10732/p_1500x1500/3560070888481-0.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-burrata-carrefour-extra-3560070888481?t=36999",
+    "name": "Fromage Burrata CARREFOUR EXTRA",
+    "price": 4.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la Burrata CARREFOUR, un fromage à la texture onctueuse et crémeuse qui apportera une touche d'élégance à vos salades. Fabriquée à partir de lait et de crème d'origine italienne, cette burrata est un véritable délice pour les papilles. Avec son goût subtil et sa saveur délicate, elle est idéale pour accompagner un filet d'huile d'olive. Offrez-vous un moment de plaisir gustatif avec la Burrata CARREFOUR !",
+    "scraped_at": "2025-09-24T21:35:43.048Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8e6ea5394653436c9adfae6a3ae956e7/p_1500x1500/03123930924011_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/fondue-l-apero-au-cheddar-entremont-3123930924011?t=36999",
+    "name": "Fondue l'Apéro au Cheddar ENTREMONT",
+    "price": 2.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ça chauffe à l'Apéro ! Retrouvez la tendance des fromages, le cheddar, un fromage gourmand et fondant !",
+    "scraped_at": "2025-09-24T21:35:44.051Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/572155c2cf6a48dd8404080251bab4df/p_1500x1500/03123930612505_C1N1_s29.jpeg",
+    "url": "https://www.carrefour.fr/p/emmental-tendre-meule-entremont-3123930612505?t=36999",
+    "name": "Emmental Tendre Meule ENTREMONT",
+    "price": 2.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Au bon lait français de nos éleveurs ! Issu d'une sélection des meules les plus tendres, l'Emmental Tendre Meule est fabriqué à partir de lait français collecté auprès de nos éleveurs. Véritable couteau suisse, il a tout pour plaire ! Alliant douceur et souplesse, c'est l'atout plaisir à placer au centre de votre table familiale : découpé en petits cubes à l'apéritif, dans une salade en entrée, dans un croque-monsieur ou tout simplement en portion avant le dessert.",
+    "scraped_at": "2025-09-24T21:35:44.546Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/38ddd0fb4a8e4c71b6d82bab6ddd55f2/p_1500x1500/08000430138719_C1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/fromage-mozzarella-galbani-8000430138719?t=36999",
+    "name": "Fromage Mozzarella GALBANI",
+    "price": 1.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le goût si frais et si moelleux de la Mozzarella Galbani vous inspire en cuisine pour revisiter vos petits plats du quotidien. Retrouvez toutes nos recettes de cuisine italienne, astuces et conseils sur www.galbani.fr!",
+    "scraped_at": "2025-09-24T21:35:45.848Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/aa263c1a8cb14e7cb2afe20b10d0a24c/p_1500x1500/03412290070071_H1C1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-fouette-madame-loik-nature-au-sel-de-guerande-paysan-breton-3412290070071?t=36999",
+    "name": "Fromage Fouetté Madame Loïk Nature au Sel de Guérande PAYSAN BRETON",
+    "price": 3.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Paysan Breton, né il y a plus de 50 ans par et pour ses éleveurs laitiers, élabore des produits bons et bien faits avec du lait de Bretagne et Pays de La Loire",
+    "scraped_at": "2025-09-24T21:35:47.647Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/59ff218520114ab68250cc1ee8c6876e/p_1500x1500/08000430137866_C1C1_s03.png",
+    "url": "https://www.carrefour.fr/p/fromage-mozzarella-cucina-rapee-galbani-8000430137866?t=36999",
+    "name": "Fromage Mozzarella Cucina Râpée GALBANI",
+    "price": 2.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Spécialement adaptée à la cuisson, la Mozzarella Cucina râpée Galbani apporte moelleux et filant à tous vos plats chauds (pizzas, gratins, lasagnes…). Retrouvez toutes nos recettes de cuisine italienne, astuces et bons plans sur www.galbani.fr !",
+    "scraped_at": "2025-09-24T21:35:48.645Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a70af5c328e24a46ae59fd8180b03869/p_1500x1500/03123930924004_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/fondue-l-apero-a-la-raclette-entremont-3123930924004?t=36999",
+    "name": "Fondue l'Apéro à la Raclette ENTREMONT",
+    "price": 2.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ça chauffe à l'Apéro ! Retrouvez l'Apéro à la Raclette prêt à dipper chaud ! Le meilleure de la raclette Entremont, un acteur incontournable de la raclette.",
+    "scraped_at": "2025-09-24T21:35:50.645Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/332c4ec36b5f4889b844ea59070af318/p_1500x1500/03272770015530_H1L1_s48.png",
+    "url": "https://www.carrefour.fr/p/fromage-de-chevre-100-chevre-islos-3272770015530?t=36999",
+    "name": "Fromage de Chèvre 100% Chèvre ISLOS",
+    "price": 2.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le fromage Grec de Chèvre Islos est fabriqué en Grèce. Star des salades, il est idéal pour de multiples usages. Sa note subtile de chèvre permet toutes les associations aussi bien salées que sucrées.",
+    "scraped_at": "2025-09-24T21:35:53.443Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/54c2e6db6349424286db853a00c594ee/p_1500x1500/08000430132014_C1C1_s03.png",
+    "url": "https://www.carrefour.fr/p/fromage-mozzarella-cucina-galbani-8000430132014?t=36999",
+    "name": "Fromage Mozzarella Cucina GALBANI",
+    "price": 4.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Spécialement adaptée à la cuisson, la Mozzarella Cucina Galbani apporte moelleux et onctuosité à vos plats chauds (pizzas, gratins, lasagnes…), sans relâcher d'eau à la cuisson. Retrouvez toutes nos recettes de cuisine italienne, astuces et bons plans sur www.galbani.fr !",
+    "scraped_at": "2025-09-24T21:35:56.854Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b7432876cdb8454a803d7099ac82fb3a/p_1500x1500/03073781178005_H1N1_s17.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-enfant-gouter-mini-babybel-3073781178005?t=36999",
+    "name": "Fromage Enfant Goûter Mini BABYBEL",
+    "price": 4.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Mini Babybel Original, le petit fromage au lait 100% français et au goût tout doux. Protégé par sa légendaire coque en cire, c'est la portion idéale pour le goûter des enfants après l'école (et celui des adultes!). Riche en protéines et calcium, fait avec 4 ingrédients et c'est tout !",
+    "scraped_at": "2025-09-24T21:35:57.548Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9bd78d8436873770b068f44e92e0a221/p_1500x1500/3560070262557-photosite-20190813-105612-0.jpg",
+    "url": "https://www.carrefour.fr/p/mozzarella-au-lait-pasteurise-bio-carrefour-bio-3560070262557?t=36999",
+    "name": "Mozzarella Au Lait Pasteurisé Bio CARREFOUR BIO",
+    "price": 1.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse mozzarella CARREFOUR BIO, issue de l'agriculture biologique et élaborée en Italie à partir de lait de vaches élevées dans l'Union Européenne. Ce fromage à pâte filée en saumure, au lait pasteurisé de vache, est certifié AB Agriculture Biologique. Sa texture fondante et son goût délicat en font un ingrédient incontournable pour vos recettes italiennes préférées. Disponible en format pratique de 125g, notre mozzarella CARREFOUR BIO est le choix parfait pour les amateurs de fromage bio et de qualité.",
+    "scraped_at": "2025-09-24T21:35:59.349Z"
+  },
+  {
+    "main_image": "https://api.basemedia.carrefour.com/media/referential/media/23321937/file?dimension_name=ORIGINAL&referer=MDM_Photos_MDC",
+    "url": "https://www.carrefour.fr/p/fromage-a-saupoudrer-special-pates-entremont-3123930640621?t=36999",
+    "name": "Fromage à Saupoudrer Spécial Pâtes ENTREMONT",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pour des pâtes à la Française Autrement Bonne ! Une touche de fromage à saupoudrer partout ! - 100% Français - Goût affirmé et équilibré - Râpé finement en poudre - Sans additif",
+    "scraped_at": "2025-09-24T21:36:00.449Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7d7771a2d8a949848c7c28233041bef9/p_1500x1500/08000430139495_C1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/fromage-mozzarella-di-latte-di-bufala-galbani-8000430139495?t=36999",
+    "name": "Fromage Mozzarella Di Latte Di Bufala GALBANI",
+    "price": 4.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Toute la fraîcheur et la saveur typique de la Mozzarella di latte di Bufala Galbani, fabriquée exclusivement au lait de Bufflonne Retrouvez + de 2400 recettes de cuisine italienne, astuces et bons plans sur www.galbani.fr !",
+    "scraped_at": "2025-09-24T21:36:02.250Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8b4c726f6ded4b4595891a9512c93dc1/p_1500x1500/03412290070088_H1C1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-fouette-madame-loik-nature-au-sel-de-guerande-paysan-breton-3412290070088?t=36999",
+    "name": "Fromage Fouetté Madame Loïk Nature au sel de Guérande PAYSAN BRETON",
+    "price": 4.45,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Paysan Breton, né il y a plus de 50 ans par et pour ses éleveurs laitiers, élabore des produits bons et bien faits avec du lait de Bretagne et Pays de La Loire",
+    "scraped_at": "2025-09-24T21:36:03.249Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1274eb4773904455ba248c83360a64d7/p_1500x1500/03123930640652_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-trio-fruite-cuisine-gourmande-entremont-3123930640652?t=36999",
+    "name": "Fromage Trio Fruité Cuisine Gourmande ENTREMONT",
+    "price": 1.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une sélection de 3 fromages pour un râpé fruité et fondant : La Tomme fruitée, l'Emmental et le Gruyère IGP France. Un mélange râpé en gros brins pour une texture gourmande.",
+    "scraped_at": "2025-09-24T21:36:05.047Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3866d7c9d608485a8aee146792ac5614/p_1500x1500/08000430132564_C1N1_s03.png",
+    "url": "https://www.carrefour.fr/p/fromage-mozzarella-format-economique-galbani-8000430132564?t=36999",
+    "name": "Fromage Mozzarella, format économique GALBANI",
+    "price": 3.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le goût si frais et si moelleux de la Mozzarella Galbani vous inspire en cuisine pour revisiter vos petits plats du quotidien. Retrouvez toutes nos recettes de cuisine italienne, astuces et conseils sur www.galbani.fr!",
+    "scraped_at": "2025-09-24T21:36:05.248Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f199fceb4009499fae24a18acc577811/p_1500x1500/03123930650026_C1N1_s22.jpeg",
+    "url": "https://www.carrefour.fr/p/comte-aop-entremont-3123930650026?t=36999",
+    "name": "Comté AOP ENTREMONT",
+    "price": 3.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Dans chaque portion de Comté Entremont, vous retrouvez la générosité et le savoir-faire de nos maîtres affineurs. Après leur fabrication en fruitière, les meules reçoivent un soin tout particulier en cave, pour vous offrir un Comté doux et agréable en bouche.",
+    "scraped_at": "2025-09-24T21:36:06.054Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a3d3cedc82a04bdfbe39ffe514e1cfd3/p_1500x1500/5400101225091_1.jpg",
+    "url": "https://www.carrefour.fr/p/mozzarella-di-bufala-campana-aop-carrefour-extra-5400101225091?t=36999",
+    "name": "Mozzarella Di Bufala Campana AOP CARREFOUR EXTRA",
+    "price": 1.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la Mozzarella di Bufala Campana AOP, un fromage à pâte filée au lait pasteurisé de bufflonne, en saumure. Savourez sa saveur d'origine et son goût unique, reconnu par un jury de consommateurs. Ce fromage de qualité supérieure est certifié par l'Organisme di Campagna et est fabriqué selon les normes strictes de l'AOP. Essayez-le dès maintenant et laissez-vous séduire par son goût authentique !",
+    "scraped_at": "2025-09-24T21:36:06.647Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/795ecd8c0d3541cdb978a91a33356984/p_1500x1500/03023260034247_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/fromage-douceur-roquefort-aop-societe-3023260034247?t=36999",
+    "name": "Fromage Douceur Roquefort AOP SOCIETE",
+    "price": 2.45,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le Roquefort AOP Société Douceur, une nouvelle recette élaborée par les fromagers et maîtres-affineurs Société qui confère au fromage toute sa douceur et beaucoup de gourmandise ! Conformément au cahier des charges de l'AOP Roquefort, il est affiné en caves naturelles, à Roquefort-sur-Soulzon en Aveyron. Société, le plaisir est dans notre tradition depuis 1863.",
+    "scraped_at": "2025-09-24T21:36:06.755Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f6c460ce944139b6aa5b85ed77426c71/p_1500x1500/3560070935475-1.jpg",
+    "url": "https://www.carrefour.fr/p/mozzarella-simpl-3560070935475?t=36999",
+    "name": "Mozzarella SIMPL",
+    "price": 0.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "LAIT pasteurisé de vache, sel, coagulant microbien, acidifiant : acide citrique.",
+    "scraped_at": "2025-09-24T21:36:06.950Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ff60358721f33a419129694fd46ed479/p_1500x1500/3560070530595-photosite-20161001-082142-0.jpg",
+    "url": "https://www.carrefour.fr/p/feta-pour-aperitif-et-salade-aop-bio-carrefour-bio-3560070530595?t=36999",
+    "name": "Féta pour apéritif et salade AOP Bio CARREFOUR BIO",
+    "price": 3.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la Feta AOP issue de l'agriculture biologique, fabriquée en Grèce à partir de lait de brebis et de chèvres élevées dans le respect des cycles naturels et du bien-être animal. Un fromage de qualité, certifié AOP, à la saveur authentique et délicieuse. Profitez de ce produit en portions pratiques de 30g pour agrémenter vos salades et plats méditerranéens préférés.",
+    "scraped_at": "2025-09-24T21:36:07.853Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c1ff12b787174440b10cffbbb83a456b/p_1500x1500/03123930640034_C1N1_s08.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-rape-mozzarella-emmental-gran-leo-pour-pizza-entremont-3123930640034?t=36999",
+    "name": "Fromage Râpé :Mozzarella ,Emmental,Gran Leo pour Pizza ENTREMONT",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un mélange de 3 fromages soigneusement sélectionnés et finement découpés pour apporter tout le fondant, le filant et le goût indispensables à une pizza savoureuse. C'est Autrement Bon !",
+    "scraped_at": "2025-09-24T21:36:08.353Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/772b2efd1c3f403fa32f317a6b5574fb/p_1500x1500/03123930771059_C1N1_s26.png",
+    "url": "https://www.carrefour.fr/p/fromage-rape-comte-aop-entremont-3123930771059?t=36999",
+    "name": "Fromage Râpé Comté AOP ENTREMONT",
+    "price": 2.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Grâce à sa texture fondante et son goût fruité, retrouvez tout le caractère de la première AOP française dans vos plats avec le Comté râpé Entremont. C'est Autrement Bon !",
+    "scraped_at": "2025-09-24T21:36:09.247Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0f6f398c07cc4b7289ec76547f5cb76b/p_1500x1500/03123937111025_C1N1_s09.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-degustation-45-mg-entremont-3123937111025?t=36999",
+    "name": "Fromage Dégustation 45% MG ENTREMONT",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Son goût unique et fruité fera fondre tous les amateurs de fromage, petits et grands !",
+    "scraped_at": "2025-09-24T21:36:09.042Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/23ebafec478d30869ed3255fa1d13abd/p_1500x1500/3560070949083-photosite-20210622-184242-0.jpg",
+    "url": "https://www.carrefour.fr/p/mozzarella-di-bufala-campana-aop-carrefour-extra-3560070949083?t=36999",
+    "name": "Mozzarella di Bufala Campana AOP CARREFOUR EXTRA",
+    "price": 2.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Mozzarella di Bufala Campana AOP en billes ! Fabriquée à partir de lait pasteurisé de bufflonne, cette fromage à pâte filée est un véritable délice pour les papilles. Sa texture fondante et son goût unique en font un incontournable pour les amateurs de fromage. À déguster en apéritif ou en salade, laissez-vous séduire par cette spécialité italienne de qualité supérieure.",
+    "scraped_at": "2025-09-24T21:36:09.745Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c0795b57bd3548eabb92ceefaea67928/p_1500x1500/03760056266313_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/mozzarella-riche-en-proteines-naturelles-casa-azzurra-3760056266313?t=36999",
+    "name": "Mozzarella riche en protéines naturelles CASA AZZURRA",
+    "price": 1.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Riche en protéines naturelles 20G de protéines pour 100G = L'apport recommandé par repas Simplement plus riche en protéines par la sélection d'un lait réduit en matières grasses. Aucun ajout à la recette",
+    "scraped_at": "2025-09-24T21:36:09.951Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/016434bcc29249da8f8eca77f6ebca73/p_1500x1500/03760056266283_A1L1_s04.png",
+    "url": "https://www.carrefour.fr/p/fromage-stracciatella-coeur-de-burrata-casa-azzurra-3760056266283?t=36999",
+    "name": "Fromage Stracciatella Cœur de Burrata CASA AZZURRA",
+    "price": 2.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pour tous les amoureux de la burrata , découvrez la stracciatella : Le cœur crémeux de burrata La crème de la crème : une texture ultra onctueuse (mélange de crème et d'effiloché de mozzarella) Peu d'ingrédients Nature, savoureuse et facile à utiliser Polyvalente : à l'italienne, en fin de cuisson (risotto, pizza, pâtes), bruschetta, à partager, à dipper…",
+    "scraped_at": "2025-09-24T21:36:11.049Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9b277069e1b64514af19659a3fe186a5/p_1500x1500/03236240070405_H1N1_s12.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-fouette-madame-loik-echalote-ciboulette-paysan-breton-3236240070405?t=36999",
+    "name": "Fromage Fouetté Madame Loïk Echalote Ciboulette PAYSAN BRETON",
+    "price": 1.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Paysan Breton, né il y a plus de 50 ans par et pour ses éleveurs laitiers, élabore des produits bons et bien faits avec du lait de Bretagne et Pays de La Loire",
+    "scraped_at": "2025-09-24T21:36:11.345Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d257c90f1eae430a81a8ebaa8c0fad79/p_1500x1500/03123930618101_C1N1_s06.png",
+    "url": "https://www.carrefour.fr/p/fromage-a-raclette-special-burger-et-croque-entremont-3123930618101?t=36999",
+    "name": "Fromage à Raclette Spécial Burger et Croque ENTREMONT",
+    "price": 2.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Savourez les tranches Raclette spécial burger & croque d'Entremont, parfaites pour sublimer vos repas à chaud comme à froid. Que ce soit pour vos burgers ou croque-monsieur, ou bien pour un encas, leur goût cheesy et irrésistible fera toute la différence. Fabriquées avec du lait français, les produits Entremont, 2e marque nationale de raclette, vous garantissent plaisir et qualité.",
+    "scraped_at": "2025-09-24T21:36:14.850Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d084df58356f4436958fcde86e4c285f/p_1500x1500/03123930650149_C1N1_s08.jpeg",
+    "url": "https://www.carrefour.fr/p/comte-aop-entremont-3123930650149?t=36999",
+    "name": "Comté AOP ENTREMONT",
+    "price": 4.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Entremont a sélectionné pour vous une gamme de fromages d'exception. Grâce au savoir-faire de nos maîtres fromagers et affineurs, chaque meule reçoit les soins adaptés à son terroir d'origine.",
+    "scraped_at": "2025-09-24T21:36:15.149Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/60779549afe83a4081d4092fc9558a91/p_1500x1500/3560070514847-0.jpg",
+    "url": "https://www.carrefour.fr/p/ricotta-carrefour-classic-3560070514847?t=36999",
+    "name": "Ricotta CARREFOUR CLASSIC'",
+    "price": 1.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Ricotta Carrefour Classic, un fromage frais à base de lactosérum pasteurisé et de crème de vache. Sa texture onctueuse et son goût subtil en font un ingrédient parfait pour vos recettes salées ou sucrées. Fabriqué en Europe avec des ingrédients de qualité, notre Ricotta est à déguster sans modération !",
+    "scraped_at": "2025-09-24T21:36:15.443Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3d4a40dd8b864e9d8783caa477d0fcf0/p_1500x1500/03123930711703_C1N1_s30.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-rape-emmental-entremont-3123930711703?t=36999",
+    "name": "Fromage Râpé Emmental ENTREMONT",
+    "price": 1.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pourquoi l'Emmental Français râpé Entremont est Autrement Bon ? Il est issu de meules au bon goût fruité fabriquées avec du lait Français. L'Emmental râpé Entremont possède des brins fins pour encore plus de fondant ! 100% Emmental : de l'Emmental râpé et rien d'autre !",
+    "scraped_at": "2025-09-24T21:36:15.750Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8f5f90973b2145daa6c75a5d6747f319/p_1500x1500/03412290070101_H1C1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-fouette-madame-loik-nature-au-sel-de-guerande-paysan-breton-3412290070101?t=36999",
+    "name": "Fromage Fouetté Madame Loïk Nature au sel de Guérande PAYSAN BRETON",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Paysan Breton, né il y a plus de 50 ans par et pour ses éleveurs laitiers, élabore des produits bons et bien faits avec du lait de Bretagne et Pays de La Loire.",
+    "scraped_at": "2025-09-24T21:36:16.846Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/371a975d136941acbb662582ccc225ef/p_1500x1500/3560071549527_1.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-mimolette-en-tranches-carrefour-classic-3560071549527?t=36999",
+    "name": "Fromage Mimolette en Tranches CARREFOUR CLASSIC",
+    "price": 2.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients : LAIT pasteurisé de vache, sel, ferments lactiques, coagulant microbien, colorant : norbixine de rocou. LAIT origine pays-bas.",
+    "scraped_at": "2025-09-24T21:36:17.548Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1135b0a4dbf14dd99f8395567efd7129/p_1500x1500/03760056260113_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/mozzarella-casa-azzurra-3760056260113?t=36999",
+    "name": "Mozzarella CASA AZZURRA",
+    "price": 1.05,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Mozzarella, fromage à pâte filée au lait de vache pasteurisé.",
+    "scraped_at": "2025-09-24T21:36:19.047Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4c2842528604368984e6093d17580f12/p_1500x1500/3560070888511-photosite-20200818-170558-0.jpg",
+    "url": "https://www.carrefour.fr/p/mozzarella-maxi-carrefour-classic-3560070888511?t=36999",
+    "name": "Mozzarella Maxi CARREFOUR CLASSIC'",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Mozzarella Maxi Carrefour Classic ! Fabriquée à partir de lait pasteurisé de vache, elle est fondante et savoureuse. Idéale pour agrémenter vos salades, pizzas ou encore vos sandwichs, elle saura ravir les papilles des petits comme des grands. Avec son poids net de 400g, vous pourrez en profiter en famille ou entre amis. À conserver entre +2°C et +4°C pour une fraîcheur optimale. Essayez-la dès maintenant !",
+    "scraped_at": "2025-09-24T21:36:21.249Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/632bbe781f1c48b0bcefe2c36ae3efe9/p_1500x1500/03412290070583_H1N1_s07.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-a-tartiner-ail-et-fines-herbes-madame-loik-paysan-breton-3412290070583?t=36999",
+    "name": "Fromage à Tartiner Ail Et Fines Herbes Madame Loïk PAYSAN BRETON",
+    "price": 3.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Paysan Breton, né il y a plus de 50 ans par et pour ses éleveurs laitiers, élabore des produits bons et bien faits avec du lait de Bretagne et Pays de La Loire.",
+    "scraped_at": "2025-09-24T21:36:23.650Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2602046953b84cb398f29219dc878400/p_1500x1500/03123930711758_C1N1_s16.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-rape-emmental-entremont-3123930711758?t=36999",
+    "name": "Fromage Râpé Emmental ENTREMONT",
+    "price": 3.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pourquoi l'Emmental Français râpé Entremont est Autrement Bon ? Il est issu de meules fabriquées avec du lait Français et apporte un goût fruité pour des recettes autrement plus gourmandes. Depuis toujours il est râpé sans ajout de fécule. 100% Emmental et 0% additif : De l'Emmental râpé et c'est tout !",
+    "scraped_at": "2025-09-24T21:36:25.450Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cac00f2c2ad045e7b8c39aa1327255bd/p_1500x1500/03123930650064_C1N1_s20.jpeg",
+    "url": "https://www.carrefour.fr/p/comte-aop-entremont-3123930650064?t=36999",
+    "name": "Comté AOP ENTREMONT",
+    "price": 5.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Dans chaque portion de Comté Entremont, vous retrouvez la générosité et le savoir-faire de nos maîtres affineurs. Après leur fabrication en fruitière, les meules reçoivent un soin particulier en cave, pour vous offrir un Comté doux et agréable en bouche.",
+    "scraped_at": "2025-09-24T21:36:26.443Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/decf5e270020475998f01973e965b5fc/p_1500x1500/3560071413675_0.jpg",
+    "url": "https://www.carrefour.fr/p/fromage-burrata-di-bufala-carrefour-extra-3560071413675?t=36999",
+    "name": "Fromage Burrata di Bufala CARREFOUR EXTRA",
+    "price": 2.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Burrata di Bufala CARREFOUR ! Fabriquée à partir de lait de bufflonne pasteurisé et de crème légère de bufflonne UHT, cette burrata à la texture onctueuse et crémeuse est idéale pour agrémenter vos salades. Avec son goût authentique et sa qualité italienne, elle saura ravir vos papilles. À déguster avec un filet d'huile d'olive pour une expérience gustative inoubliable. Commandez dès maintenant et laissez-vous séduire par notre Burrata di Bufala CARREFOUR !",
+    "scraped_at": "2025-09-24T21:36:27.251Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/fa1c2840518a497697ec4189f819147b/p_1500x1500/03123930710737_C1N1_s25.png",
+    "url": "https://www.carrefour.fr/p/fromage-rape-emmental-entremont-3123930710737?t=36999",
+    "name": "Fromage Râpé Emmental ENTREMONT",
+    "price": 2.45,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pourquoi l'Emmental Français râpé Entremont est Autrement Bon ? Il est issu de meules au bon goût fruité fabriquées avec du lait Français. L'Emmental râpé Entremont possède des brins fins pour encore plus de fondant ! 100% Emmental : de l'Emmental râpé et rien d'autre !",
+    "scraped_at": "2025-09-24T21:36:27.850Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6e20aa2132b74215b31c2c9c21b720a8/p_1500x1500/05011069171667_C1N1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/fromage-a-effilocher-a-l-emmental-ficello-5011069171667?t=36999",
+    "name": "Fromage à Effilocher à l'Emmental FICELLO",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ficello, le fromage bon et rigolo à effilocher pour faire plaisir aux enfants ! Ludique et pratique avec ses sachets individuels, Ficello se consomme partout : aussi bien à la maison qu'à l'extérieur pour s'adapter à toutes les activités ! Fabriqué à partir d'un grand verre de lait, Ficello est riche en calcium et Vitamine D. Un produit sain, sans colorant, sans arôme et sans conservateur.",
+    "scraped_at": "2025-09-24T21:36:28.948Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/81a382c5632f3b318485b29d439e8b2c/p_1500x1500/3560070913572-photosite-20200818-170758-0.jpg",
+    "url": "https://www.carrefour.fr/p/mozzarella-mini-carrefour-classic-3560070913572?t=36999",
+    "name": "Mozzarella Mini CARREFOUR CLASSIC'",
+    "price": 1.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Mozzarella Mini Carrefour Classic' ! Fabriquée à partir de lait pasteurisé de vache, cette Mozzarella à pâte filée est le choix parfait pour les amateurs de fromage. Avec sa texture fondante et son goût délicat, elle est idéale pour agrémenter vos salades, pizzas et autres plats italiens. À conserver entre +2°C et +6°C pour une fraîcheur optimale. Essayez-la dès maintenant et laissez-vous séduire par son goût authentique !",
+    "scraped_at": "2025-09-24T21:36:30.048Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d6c838d80d3047a8b3ab16ebfbace451/p_1500x1500/03123930771004_C1N1_s12.png",
+    "url": "https://www.carrefour.fr/p/fromage-rape-comte-aop-entremont-3123930771004?t=36999",
+    "name": "Fromage Râpé Comté AOP ENTREMONT",
+    "price": 2.65,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Grâce à sa texture fondante et son goût fruité, retrouvez tout le caractère de la première AOP française dans vos plats avec le Comté râpé Entremont. C'est Autrement Bon !",
+    "scraped_at": "2025-09-24T21:36:32.346Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/802fb9a01b824c6a80376c6712b505b7/p_1500x1500/03123931282844_C1N1_s09.png",
+    "url": "https://www.carrefour.fr/p/fromage-a-raclette-nature-et-fruite-autrement-bonne-entremont-3123931282844?t=36999",
+    "name": "Fromage à Raclette Nature et Fruité Autrement Bonne ENTREMONT",
+    "price": 4.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une Raclette à la recette unique qui lui apporte un bon goût fruité !",
+    "scraped_at": "2025-09-24T21:36:36.355Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/921dd3f644fd4aaf91b3dde291075f17/p_1500x1500/03023260020233_H1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/fromage-de-brebis-leger-9-mat-gr-salakis-3023260020233?t=36999",
+    "name": "Fromage de Brebis Leger 9% Mat.Gr. SALAKIS",
+    "price": 3.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le goût unique si frais et le fondant du fromage 100 % brebis SALAKIS avec 9% de matières grasses seulement pour se faire plaisir en toute légèreté. Fromage sans conservateur et brebis nourries sans OGM(",
+    "scraped_at": "2025-09-24T21:36:37.747Z"
+  }
+]

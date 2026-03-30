@@ -1,0 +1,792 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/2f66e1eb1e91454ab43180f2239965fe/p_1500x1500/05900130030630_H1N1_s10.png",
+    "url": "https://www.carrefour.fr/p/glaces-caramel-sale-macadamia-d-australie-nuii-5900130030630?t=2104",
+    "name": "Glaces caramel salé & macadamia d'Australie NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez NUII, une aventure gourmande, empreinte d'évasion. Communément appelée la « reine des noix » en Australie, la noix de Macadamia est réputée pour sa saveur délicatement beurrée et sa texture croquante. Ses éclats légèrement torréfiés se mélangent à un enrobage de délicieux chocolat au lait qui renferme une onctueuse crème glacée à la vanille marbrée d'une généreuse sauce au caramel salée. Une saveur irrésistible à explorer ! Chocolat certifié Rainforest Alliance. Recette sans gluten.",
+    "scraped_at": "2025-09-23T19:53:49.948Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/767872d90ec935119a7d2ec41ac31ff5/p_1500x1500/3560071484651-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-cookie-dough-carrefour-sensation-3560071484651?t=2104",
+    "name": "Glaces Cookie Dough CARREFOUR SENSATION",
+    "price": 399,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse crème glacée à la vanille, avec des morceaux de pâte à cookie crue et de chocolat. Fabriquée avec des ingrédients de qualité, elle vous apportera une expérience gustative irrésistible. Idéale pour une pause gourmande !",
+    "scraped_at": "2025-09-23T19:53:53.652Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2e0d4e85c2653e5ebd585b63b99b2798/p_1500x1500/3560071247935-photosite-20210706-193631-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-a-l-eau-ice-tubes-carrefour-classic-3560071247935?t=2104",
+    "name": "Glace à l'eau Ice Tubes CARREFOUR CLASSIC'",
+    "price": 275,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les célèbres glaces à l'eau Carrefour Classic' ! Profitez des délicieux goûts tropical, cola, grenadine, citron et orange. Des saveurs rafraîchissantes fabriquées avec des ingrédients naturels, pasteurisées et congelées, pour un plaisir glacé à tout moment de la journée. Cette offre comprend 20 tubes de glace, idéale à partager en famille ou entre amis.",
+    "scraped_at": "2025-09-23T19:53:56.855Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0919801765173b1587ea9fe8201d1f37/p_1500x1500/3560071249656-photosite-20200814-134816-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-menthe-chocolat-carrefour-3560071249656?t=2104",
+    "name": "Glace menthe chocolat CARREFOUR",
+    "price": 269,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la nouvelle crème glacée à la menthe avec des copeaux de chocolat noir, un mélange rafraîchissant et gourmand pour les amateurs de saveurs intenses. Fabriquée avec des ingrédients de qualité, cette crème glacée saura ravir vos papilles avec son goût naturel de menthe et ses généreux morceaux de chocolat noir. [12036824] Plongez dans un tourbillon de fraîcheur avec notre crème glacée à la menthe agrémentée de copeaux de chocolat noir. Sa texture crémeuse et son goût subtil vous transporteront vers une délicieuse expérience gustative à chaque bouchée. Savourez ce mariage parfait de saveurs, idéal pour se rafraîchir lors des chaudes journées d'été.",
+    "scraped_at": "2025-09-23T19:53:59.953Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d911664400c34ddcbb56f38f2b8d514d/p_1500x1500/08000500384664_C1R1_s14.png",
+    "url": "https://www.carrefour.fr/p/glace-cone-chocolat-au-lait-noisettes-kinder-bueno-8000500384664?t=2104",
+    "name": "Glace cône Chocolat au Lait Noisettes KINDER BUENO",
+    "price": 479,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Retrouvez les saveurs emblématiques de la barre KINDER BUENO dans un cône glacé : une glace onctueuse à la noisette recouverte d'un disque fondant au bon goût de Kinder Bueno, entourée d'une gaufrette croustillante. La combinaison parfaite pour un plaisir gourmand !",
+    "scraped_at": "2025-09-23T19:54:02.756Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0d508d4e793c4d0f9e1f0ddf0dcdd6d9/p_1500x1500/07613034975416_H1C1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-cone-chocolat-pepites-nougatine-extreme-7613034975416?t=2104",
+    "name": "Glace Cône chocolat pépites nougatine EXTREME",
+    "price": 355,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Laissez-vous tenter par l'alliance d'une glace chocolat onctueuse et d'une glace chocolat intense associée à des pépites de nougatine, le tout dans une gaufrette croustillante et pour finir, le délicieux bonbon EXTREME.",
+    "scraped_at": "2025-09-23T19:54:03.053Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/edf900776cef307bb1386cf6f5735102/p_1500x1500/3560071518158-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-chocolat-au-lait-et-noir-carrefour-sensation-3560071518158?t=2104",
+    "name": "Glaces chocolat au lait et noir CARREFOUR SENSATION",
+    "price": 399,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Chocolat au LAIT 26,8% (sucre, beurre de cacao, LACTOSERUM en poudre, matière grasse LAITIERE anhydre, pâte de cacao, LAIT écrémé en poudre, émulsifiants : lécithines de SOJA et polyricinoléate de polyglycérol), LAIT écrémé réhydraté, eau, chocolat noir 9,9% (sucre, pâte de cacao, beurre de cacao, matière grasse LAITIERE anhydre, émulsifiant : polyricinoléate de polyglycérol), sirop de glucose, su…",
+    "scraped_at": "2025-09-23T19:54:05.154Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3d4138c00b634674b796a52c319035d1/p_1500x1500/08000500406427_H1N1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-batonnet-chocolat-au-lait-kinder-chocolat-8000500406427?t=2104",
+    "name": "Glace bâtonnet Chocolat au Lait KINDER CHOCOLAT",
+    "price": 489,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Retrouvez le goût unique de Kinder Chocolat maintenant en version glacée dans un bâtonnet adapté aux plus petits. Un cœur au lait tendre enveloppé d'un double enrobage au lait et au bon chocolat Kinder : un indispensable pour le plaisir des enfants.",
+    "scraped_at": "2025-09-23T19:54:05.460Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c16d68bc89223bcfaf62ab7bb29adf21/p_1500x1500/3560071016661-photosite-20211108-112049-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-vanille-carrefour-3560071016661?t=2104",
+    "name": "Glace vanille CARREFOUR",
+    "price": 169,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse crème glacée à la vanille de Madagascar, réalisée avec des ingrédients de qualité tels que de l'eau, du lait écrémé réhydraté, de la crème et du sucre. Savourez la saveur naturelle et authentique de la vanille de Madagascar, accompagnée de délicats morceaux de gousses de vanille. Un plaisir gourmand à déguster en toutes occasions.",
+    "scraped_at": "2025-09-23T19:54:05.353Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a97d5248eb2243279ae09e54a66bd37f/p_1500x1500/07613034975386_H1C1_s03.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-cone-vanille-pepites-nougatine-extreme-7613034975386?t=2104",
+    "name": "Glace Cône vanille pépites nougatine EXTREME",
+    "price": 355,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Succombez à l'alliance incontournable d'une glace vanille onctueuse et d'une glace vanille points de gousses intense avec des pépites de nougatine croquantes, le tout dans une gaufrette croustillante et pour finir, le délicieux bonbon EXTREME.",
+    "scraped_at": "2025-09-23T19:54:06.957Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1425fbc74f8c43fbac7de24a94b02a5d/p_1500x1500/07613035892866_H1C1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-cone-chocolat-pistache-extreme-7613035892866?t=2104",
+    "name": "Glace Cône chocolat pistache EXTREME",
+    "price": 355,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Laissez-vous tenter par l'alliance d'une glace pistache onctueuse et d'une glace chocolat intense associée à des pépites de nougatine, le tout dans une gaufrette croustillante et pour finir, le délicieux bonbon EXTREME.",
+    "scraped_at": "2025-09-23T19:54:07.355Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b729319635013216a10c712c0df5f189/p_1500x1500/3560070828289-0.jpg",
+    "url": "https://www.carrefour.fr/p/mini-glaces-assortiment-carrefour-extra-3560070828289?t=2104",
+    "name": "Mini glaces assortiment CARREFOUR EXTRA",
+    "price": 309,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux assortiment de mini bâtonnets de glace à la vanille, enrobés de chocolat au lait, de chocolat noir, de chocolat blanc ou de chocolat au lait. Agrémentés de morceaux d'amandes grillées, nos mini bâtonnets offrent une combinaison parfaite de saveurs intenses pour une pause gourmande et rafraîchissante.",
+    "scraped_at": "2025-09-23T19:54:08.653Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8b54eb6a798b3adda580c49248e9a86d/p_1500x1500/3560071168773-photosite-20210223-183628-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-a-l-eau-ice-jets-carrefour-classic-3560071168773?t=2104",
+    "name": "Glace à l'eau Ice jets CARREFOUR CLASSIC'",
+    "price": 275,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse sélection de glaces à l'eau au citron, à l'orange et à la framboise. Elles sont élaborées à partir de jus de fruits concentrés et d'arômes naturels pour une explosion de saveurs rafraîchissantes. N'hésitez plus, offrez-vous ces délicieux bâtonnets glacés pour ravir petits et grands en toute occasion.",
+    "scraped_at": "2025-09-23T19:54:09.050Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/59f5edcca45330edbaf46d72c6a5b7df/p_1500x1500/3245411236366-photosite-20200917-181253-0.jpg",
+    "url": "https://www.carrefour.fr/p/sorbet-citron-carrefour-extra-3245411236366?t=2104",
+    "name": "Sorbet citron CARREFOUR EXTRA",
+    "price": 229,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux sorbet au citron, préparé avec 94,2% de pur jus de citron et agrémenté de morceaux de citron semi-confits pour une explosion de saveurs fruitées. Parfait pour rafraîchir vos papilles pendant les chaudes journées d'été.",
+    "scraped_at": "2025-09-23T19:54:10.654Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/34d12f3122324943878551d84f0b2509/p_1500x1500/03297760082002_H1N1_s02.png",
+    "url": "https://www.carrefour.fr/p/sorbet-fraise-fruits-rouges-et-eclats-d-amandes-charles-alice-3297760082002?t=2104",
+    "name": "Sorbet fraise fruits rouges et éclats d’amandes CHARLES & ALICE",
+    "price": 362,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une gamme de sorbets gourmands accompagnée d'inclusions de fruits à coques, une touche croquante pour un dessert irrésistible",
+    "scraped_at": "2025-09-23T19:54:11.659Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0dc1d24e1ab2449eaaac26419aacc1c9/p_1500x1500/08711327609648_H1N1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-batonnet-amande-magnum-8711327609648?t=2104",
+    "name": "Glace Bâtonnet Amande MAGNUM",
+    "price": 559,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Magnum Amande est une onctueuse glace vanille enrobée d'un épais chocolat au lait craquant et d'éclats d'amandes. Elle allie la douceur de la vanille de Madagascar avec le croquant des amandes cultivées sous le soleil de la Californie. Parfum historique et emblématique, le bâtonnet gourmand Magnum Amande est un incontournable dans l'univers de la glace depuis plus de 25 ans. Le plaisir est là, sai…",
+    "scraped_at": "2025-09-23T19:54:14.056Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4f71b228dac23e82871c8c45d203799a/p_1500x1500/3270190217671-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-cone-vanille-fraise-carrefour-3270190217671?t=2104",
+    "name": "Glace Cône vanille fraise CARREFOUR",
+    "price": 165,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les délicieux cônes glacés vanille fraise Carrefour Extra, avec une savoureuse sauce à la fraise. Une combinaison parfaite de glaces onctueuses à la vanille et à la fraise, accompagnée d'une gaufrette croustillante et d'une délicieuse sauce fruitée. Un plaisir gourmand à partager en famille ou entre amis.",
+    "scraped_at": "2025-09-23T19:54:16.354Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3f6dcfc6ce764d5d93615dc7a67d8d5e/p_1500x1500/08711327621176_H1N1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-batonnet-classic-amande-chocolat-blanc-magnum-8711327621176?t=2104",
+    "name": "Glace Bâtonnet Classic, Amande & Chocolat Blanc MAGNUM",
+    "price": 559,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Magnum Classic, Magnum Amande et Magnum Chocolat Blanc : réveillez vos papilles avec cet assortiment de glaces savoureuses. Croquez dans la couche de chocolat au lait aux éclats d'amandes du Magnum Amande qui dévoile une glace vanille onctueuse. Redécouvrez la délicieuse glace vanille enrobée d'une couche de chocolat au lait craquant du Magnum Classique. Fondez de plaisir avec le Magnum Chocolat Blanc et sa couche de chocolat blanc croquante.",
+    "scraped_at": "2025-09-23T19:54:16.954Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ed3d92889ce9495cb21287214c92c916/p_1500x1500/03297760082033_H1N1_s02.png",
+    "url": "https://www.carrefour.fr/p/sorbet-poire-chocolat-et-eclats-d-amandes-charles-alice-3297760082033?t=2104",
+    "name": "Sorbet poire chocolat et éclats d'amandes CHARLES & ALICE",
+    "price": 362,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une gamme de sorbets gourmands accompagnée d'inclusions de fruits à coques, une touche croquante pour un dessert irrésistible",
+    "scraped_at": "2025-09-23T19:54:17.849Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/51246aa39da84f5c939b9bdb80e3b36b/p_1500x1500/08711327607163_C1N1_s20.png",
+    "url": "https://www.carrefour.fr/p/glace-batonnet-classic-magnum-8711327607163?t=2104",
+    "name": "Glace Bâtonnet Classic MAGNUM",
+    "price": 559,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le classique des classiques ! Le bâtonnet glace Magnum Classic, c'est un chocolat au lait croquant enrobant une onctueuse glace à la vanille qui saura satisfaire les plus gourmands. Parfum historique et emblématique de Magnum, ce bâtonnet gourmand Magnum Classic est un incontournable dans l'univers de la crème glacée depuis plus de 25 ans. La gourmandise ultime pour ceux qui recherchent un maximum de plaisir. Pour profiter pleinement de leurs saveurs, sortez vos glaces Magnum du congélateur quelques minutes avant de les déguster. Magnum voit le jour en 1989 afin de satisfaire un désir de gourmandise activement recherché par les adultes. Le bâtonnet, un format jusque-là plutôt réservé aux enfants, se pare alors d'un enrobage au chocolat de grande qualité. Magnum devient ainsi la première marque de glaces entièrement consacrée aux plaisirs gourmands des adultes. Depuis, Magnum ne cesse de surprendre en élargissant chaque année son offre de nouveaux parfums. Aujourd'hui leader sur le marc…",
+    "scraped_at": "2025-09-23T19:54:19.156Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0c12026172054ea28b3c044bc97f341a/p_1500x1500/03297760082019_H1N1_s03.png",
+    "url": "https://www.carrefour.fr/p/sorbet-mangue-passion-et-eclats-de-noix-de-pecan-charles-alice-3297760082019?t=2104",
+    "name": "Sorbet mangue passion et éclats de noix de pécan CHARLES & ALICE",
+    "price": 362,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une gamme de sorbets gourmands accompagnée d'inclusions de fruits à coques, une touche croquante pour un dessert irrésistible",
+    "scraped_at": "2025-09-23T19:54:19.855Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/dec66f8936694786ab2d19dbcae1d9e7/p_1500x1500/03297760082026_H1N1_s02.png",
+    "url": "https://www.carrefour.fr/p/sorbet-citron-fruits-rouges-et-eclats-de-noisettes-charles-alice-3297760082026?t=2104",
+    "name": "Sorbet citron fruits rouges et éclats de noisettes CHARLES & ALICE",
+    "price": 362,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une gamme de sorbets gourmands accompagnée d'inclusions de fruits à coques, une touche croquante pour un dessert irrésistible",
+    "scraped_at": "2025-09-23T19:54:21.259Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ce5d49a746bb4fe992bb8f62f1bdcb6a/p_1500x1500/08711327608504_H1N1_s10.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-batonnet-chocolat-blanc-magnum-8711327608504?t=2104",
+    "name": "Glace Bâtonnet Chocolat Blanc MAGNUM",
+    "price": 559,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Magnum Chocolat Blanc est une onctueuse glace vanille enrobée d'un chocolat blanc craquant qui saura ravir vos papilles. Retrouvez le croquant Magnum dès la première bouchée, un enrobage chocolat blanc à la saveur inégalée qui dévoile une glace onctueuse. Parfum historique et emblématique de Magnum, ce bâtonnet gourmand Magnum Chocolat Blanc est un incontournable dans l'univers de la glace depuis plus de 25 ans. Une expérience de plaisir intense pour les adeptes du chocolat blanc. Pour profiter pleinement de leurs saveurs, sortez vos glaces Magnum du congélateur quelques minutes avant de les déguster. Magnum voit le jour en 1989 afin de satisfaire un désir de gourmandise activement recherché par les adultes. Le bâtonnet, un format jusque-là plutôt réservé aux enfants, se pare alors d'un enrobage au chocolat de grande qualité. Depuis, Magnum ne cesse de surprendre en élargissant chaque année son offre de nouveaux parfums. Aujourd'hui leader sur le marché de la glace, la marque offre une…",
+    "scraped_at": "2025-09-23T19:54:23.455Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d0f6dd6e7ffb4cdc8e8880217e791af5/p_1500x1500/03274664257330_A1L1_s19.png",
+    "url": "https://www.carrefour.fr/p/sorbet-citron-la-laitiere-3274664257330?t=2104",
+    "name": "Sorbet Citron LA LAITIERE",
+    "price": 405,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Succombez à la fraîcheur du bac La Laitière Citron. Un délicieux sorbet au goût intense et à la texture fondante, sans morceaux pour plaire à toute la famille. Une recette rafraîchissante fabriquée en Bretagne.",
+    "scraped_at": "2025-09-23T19:54:21.855Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ed4ea31f850d341780c340b8e768b81d/p_1500x1500/05000159541398-c1n1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-barres-glacees-chocolat-cacahuetes-et-caramel-snickers-5000159541398?t=2104",
+    "name": "Glaces barres glacées chocolat cacahuètes et caramel SNICKERS",
+    "price": 599,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "L'expérience unique Snickers® glacé : une crème glacée onctueuse à la cacahuète, recouverte d'une couche de cacahuètes croquantes et d'un caramel fondant, le tout dans un enrobage craquant",
+    "scraped_at": "2025-09-23T19:54:24.157Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3147553bc3ce4f27b403f834a3938531/p_1500x1500/08000500384718_C1R1_s13.png",
+    "url": "https://www.carrefour.fr/p/glace-cone-chocolat-blanc-kinder-bueno-white-8000500384718?t=2104",
+    "name": "Glace cône Chocolat Blanc KINDER BUENO WHITE",
+    "price": 479,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Retrouvez les saveurs emblématiques de la barre KINDER BUENO WHITE dans un cône glacé : une glace onctueuse à la noisette recouverte d'un disque fondant au bon goût de Kinder Bueno White, entourée d'une gaufrette croustillante. La combinaison parfaite pour un plaisir gourmand !",
+    "scraped_at": "2025-09-23T19:54:27.757Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6576516d36904a98b8c0bff52a21b546/p_1500x1500/3560071468712_0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-cone-facon-creme-brulee-carrefour-3560071468712?t=2104",
+    "name": "Glace Cône façon crème brûlée CARREFOUR",
+    "price": 235,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la glace saveur crème brûlée de Carrefour Extra, un délicieux mélange de glace onctueuse à la crème brûlée, de gaufrette croustillante, de sauce caramel arômatisée et de brisures de caramel pour une expérience gustative incomparable.",
+    "scraped_at": "2025-09-23T19:54:31.656Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/21777725dc453d5eaf225060a66c01c9/p_1500x1500/3245412194825-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-vanille-macadamia-carrefour-sensation-3245412194825?t=2104",
+    "name": "Glace vanille macadamia CARREFOUR SENSATION",
+    "price": 295,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la crème glacée à la vanille Carrefour Sensation, agrémentée d'une sauce caramel onctueuse et de délicieux morceaux de noix de Macadamia caramélisées. Un délice glacé qui saura ravir vos papilles grâce à son mariage subtil de saveurs. Apportez une touche de gourmandise à vos desserts avec la sauce saveur caramel Carrefour Sensation. Un accompagnement parfait pour sublimer vos glaces, yaourts ou pâtisseries. Laissez-vous séduire par ce délicieux produit qui apportera une note caramélisée à vos instants de plaisir.",
+    "scraped_at": "2025-09-23T19:54:32.157Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a76e1b1d97b23d85bbac701eab522695/p_1500x1500/3560071464790-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-vanille-fraise-vanille-chocolat-carrefour-classic-3560071464790?t=2104",
+    "name": "Glace vanille fraise/vanille chocolat CARREFOUR CLASSIC'",
+    "price": 259,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les mini pots de glace Carrefour CLASSIC' vanille fraise et vanille chocolat au lait, idéaux pour partager un moment gourmand. Chaque pack contient 6 gobelets de glace à la vanille et à la fraise, ainsi que 6 gobelets de glace à la vanille et au chocolat au lait.",
+    "scraped_at": "2025-09-23T19:54:36.555Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6193483413c33fd4bb5be4e586bf39e1/p_1500x1500/3560070774425-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-chocolat-au-lait-amandes-carrefour-extra-3560070774425?t=2104",
+    "name": "Glaces chocolat au lait amandes CARREFOUR EXTRA",
+    "price": 199,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Dégustez notre délicieux ensemble de quatre bâtonnets de glace à la vanille enrobés d'un chocolat au lait extra-fin, agrémenté d'amandes grillées. Parfait pour une pause gourmande rafraîchissante et savoureuse, à savourer à tout moment de la journée.",
+    "scraped_at": "2025-09-23T19:54:37.452Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f1808348377e4bd1a970ffbad3b1db73/p_1500x1500/3560071215118_0.JPG",
+    "url": "https://www.carrefour.fr/p/glaces-vanille-chocolat-carrefour-classic-3560071215118?t=2104",
+    "name": "Glaces vanille chocolat CARREFOUR CLASSIC'",
+    "price": 359,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les délicieux bâtonnets de glace Carrefour Classic' : 6 bâtonnets de glace à la vanille avec un enrobage au cacao maigre et des grains soufflés au riz, ainsi que 6 bâtonnets de glace au chocolat avec un enrobage au cacao maigre et des éclats de biscuits. Savourez ces délices qui vous offrent une expérience glacée et gourmande à tout moment de la journée.",
+    "scraped_at": "2025-09-23T19:54:37.661Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6e30721ae7b931fc8250027d2edfd71a/p_1500x1500/3560071247898-photosite-20200824-172113-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-facon-rocher-chocolat-noisettes-carrefour-3560071247898?t=2104",
+    "name": "Glace façon Rocher chocolat & noisettes CARREFOUR",
+    "price": 295,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse crème glacée au chocolat et à la noisette, agrémentée d'une sauce au chocolat et à la noisette ainsi que de morceaux de noisettes grillées caramélisés. Un pur régal gourmand pour les amateurs de saveurs chocolatées et de noisettes.",
+    "scraped_at": "2025-09-23T19:54:39.749Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f2313a968dc635beaeb36c308fca8e05/p_1500x1500/3560071487874-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-mini-amande-carrefour-extra-3560071487874?t=2104",
+    "name": "Glaces mini amande CARREFOUR EXTRA",
+    "price": 289,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Mini bâtonnets de glace à la vanille enrobés de chocolat au lait et garnis de morceaux d'amandes grillées pour une expérience gourmande et croquante. Profitez de la sensation en bouche incroyable de notre glace vanille-chocolat amande, reconnue pour sa saveur délicieuse par un jury de consommateurs.",
+    "scraped_at": "2025-09-23T19:54:41.651Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5b7caf82fceb320b984daa7ed5d7267a/p_1500x1500/3560071249663-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-cones-vanille-carrefour-3560071249663?t=2104",
+    "name": "Glaces cônes vanille CARREFOUR",
+    "price": 199,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse glace à la vanille agrémentée de généreux morceaux de noisettes caramélisées. Un grand classique de Carrefour qui saura vous séduire à coup sûr. À savourer seul ou à partager avec vos proches, prolongez le plaisir en essayant les autres parfums de notre gamme.",
+    "scraped_at": "2025-09-23T19:54:43.655Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/dd36a283dc5e4e36af4f42d3da8ae4f1/p_1500x1500/03760184013957_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/crevettes-panko-chapelure-croustillante-deli-s-world-3760184013957?t=2104",
+    "name": "Crevettes Panko Chapelure Croustillante DELI'S WORLD",
+    "price": 590,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Crevette enrobée de chapelure panko accompagnée d'une sauce chili",
+    "scraped_at": "2025-09-23T19:54:44.151Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6f005539db8a3f318a49037f5b6dd891/p_1500x1500/3560070105038-photosite-20210608-182758-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-cafe-eclats-chocolat-carrefour-extra-3560070105038?t=2104",
+    "name": "Glace café éclats chocolat CARREFOUR EXTRA",
+    "price": 219,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse crème glacée au café, accompagnée de généreux morceaux de chocolat. Savourez la combinaison parfaite entre le café intense et le chocolat fondant pour une expérience gourmande inoubliable.",
+    "scraped_at": "2025-09-23T19:54:46.655Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/864f92162b5f41e699e171cb507a4701/p_1500x1500/05900130031118_H1N1_s19.png",
+    "url": "https://www.carrefour.fr/p/glaces-chocolat-blanc-baies-rouges-des-montagnes-scandinaves-nuii-5900130031118?t=2104",
+    "name": "Glaces chocolat blanc & baies rouges des Montagnes Scandinaves NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez NUII, une aventure gourmande, empreinte d'évasion. Laissez-vous tenter par les délicieuses cranberries* des Montagnes Scandinaves bien connues pour leur goût sucré et acidulé. Elles sont utilisées dans la préparation d'une savoureuse sauce aux cranberries* qui vient marbrer une délicieuse crème glacée au mascarpone. Le tout est recouvert de chocolat blanc craquant et de morceaux de cranberries* cueillies à la main. Une saveur irrésistible à explorer ! *baies rouges (airelles). Chocolat certifié Rainforest Alliance. Recette sans gluten.",
+    "scraped_at": "2025-09-23T19:54:48.949Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c8afa327f9b734108ea316736f8b66ee/p_1500x1500/3270190217633-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-chocolat-pistaches-carrefour-extra-3270190217633?t=2104",
+    "name": "Glaces chocolat pistaches CARREFOUR EXTRA",
+    "price": 245,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse glace au chocolat et à la pistache, accompagnée de morceaux de noisettes caramélisés, le tout enveloppé dans une gaufrette croustillante et décoré avec du cacao maigre. Une combinaison gourmande qui ravira vos papilles à chaque bouchée.",
+    "scraped_at": "2025-09-23T19:54:49.254Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c83a351518714715b938cca9a2b1de57/p_1500x1500/03560071520045_A1N1_s02.png",
+    "url": "https://www.carrefour.fr/p/glaces-cones-mangue-passion-carrefour-extra-3560071520045?t=2104",
+    "name": "Glaces cônes mangue passion CARREFOUR EXTRA",
+    "price": 265,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Eau, sucre, jus de fruit de la passion à base de concentré 12,4%, sirop de glucose, farine de BLE, purée de mangue 8,8%, graisse végétale de coprah, cacao maigre en poudre 0,6%, émulsifiant : lécithines de SOJA, jus concentré de fruit de la passion 0,3%, huile végétale de coprah, denrée alimentaire colorante: concentré de carotte, arôme naturel de mangue, arôme naturel de fruit de la passion, géli…",
+    "scraped_at": "2025-09-23T19:54:53.467Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4639f13f210338368ebe7e9e5120d8fc/p_1500x1500/3560071018740-0.png",
+    "url": "https://www.carrefour.fr/p/glaces-caramel-au-beurre-sale-carrefour-sensation-3560071018740?t=2104",
+    "name": "Glaces caramel au beurre salé CARREFOUR SENSATION",
+    "price": 329,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre savoureux bâtonnet de crème glacée au caramel au beurre salé, enrobé de délicieux chocolat au lait et agrémenté de brisures de caramel croustillantes, le tout accompagné d'une sauce onctueuse au caramel au beurre salé. Deux fois plus de plaisir gourmand dans chaque bouchée !",
+    "scraped_at": "2025-09-23T19:54:54.456Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f731ad3f682332aaa9998df5aa276adc/p_1500x1500/3560071215088-photosite-20210406-165604-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-vanille-carrefour-classic-3560071215088?t=2104",
+    "name": "Glaces vanille CARREFOUR CLASSIC'",
+    "price": 359,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les bâtonnets de glace à la vanille Carrefour Classic, un délicieux mélange de vanille crémeuse, d'enrobage au cacao maigre et de grains de riz soufflé pour une texture légère et craquante. Parfait pour une pause fraîche et gourmande, à déguster en famille ou entre amis.",
+    "scraped_at": "2025-09-23T19:54:55.655Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3f655d9ddb8e444fab2eebc9e10d627b/p_1500x1500/3560071484750_0.JPG",
+    "url": "https://www.carrefour.fr/p/glaces-vanilla-macadamia-carrefour-sensation-3560071484750?t=2104",
+    "name": "Glaces Vanilla Macadamia CARREFOUR SENSATION",
+    "price": 359,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse glace à la vanille avec son enrobage croquant au chocolat au lait, sa sauce caramel au beurre salé et ses éclats de caramel et de noix de macadamia. Un savoureux mélange de textures et de saveurs pour une véritable expérience gourmande.",
+    "scraped_at": "2025-09-23T19:54:56.457Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3af3cdb9edb0452eba8e59212c732c94/p_1500x1500/05900130036335_H1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-batonnet-pistache-d-anatolie-et-creme-nuii-5900130036335?t=2104",
+    "name": "Glace Bâtonnet Pistache d'Anatolie et Crème NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez NUII, une aventure gourmande, empreinte d'évasion. Succombez à l'onctuosité d'une crème glacée à la pistache, recouverte d'un délicieux enrobage de chocolat blanc avec des morceaux de pistaches d'Anatolie grillées. Une aventure au goût unique ! Cacao certifié Rainforest Alliance. Convient aux végétariens.",
+    "scraped_at": "2025-09-23T19:54:57.661Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f87f2ddf9be34330b2b98c116704e86a/p_1500x1500/3560071471545_0.JPG",
+    "url": "https://www.carrefour.fr/p/glaces-cones-speculoos-carrefour-extra-3560071471545?t=2104",
+    "name": "Glaces cônes spéculoos CARREFOUR EXTRA",
+    "price": 245,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux gelato au spéculoos, composé de 66% de crème glacée au spéculoos, d'un cœur de sauce spéculoos et d'une gaufrette croustillante. Savourez ces saveurs uniques sans modération ! Plongez dans l'univers des saveurs avec notre glace au biscuit spéculoos, contenant 66% de crème glacée riche en goût, une sauce onctueuse et des morceaux croquants de biscuit. Une délicieuse expérience gourmande à partager ou à déguster seul(e) !",
+    "scraped_at": "2025-09-23T19:54:58.150Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/824ea8608a213670a9bb879800672d1a/p_1500x1500/3560070774456-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-chocolat-blanc-vanille-carrefour-extra-3560070774456?t=2104",
+    "name": "Glaces chocolat blanc vanille CARREFOUR EXTRA",
+    "price": 275,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos bâtonnets de glace à la vanille 72,7% enrobés d'une délicieuse couche de chocolat blanc 27,3% pour une expérience gourmande irrésistible. Savourez le mariage subtil de la vanille crémeuse et du chocolat fondant dans chaque bouchée.",
+    "scraped_at": "2025-09-23T19:54:58.558Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0c4c4ce49b9a4422ac228976661c70cc/p_1500x1500/3560070355877_0.jpg",
+    "url": "https://www.carrefour.fr/p/dessert-glace-vanille-fruits-rouges-carrefour-extra-3560070355877?t=2104",
+    "name": "Dessert glacé vanille fruits rouges CARREFOUR EXTRA",
+    "price": 275,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux dessert glacé saveur vanille avec un sorbet aux fruits rouges, une pâte de biscuit et des morceaux de meringue, parfait pour une pause gourmande rafraîchissante. Préparez-vous à savourer chaque bouchée de cette combinaison délicieuse de saveurs sucrées et acidulées.",
+    "scraped_at": "2025-09-23T19:54:59.761Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1b0af8c76c34444bbf743300a27fee2f/p_1500x1500/05900130040189_C1N1_s14.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-mini-batonnet-macadamia-australien-et-miel-de-nouvelle-zelande-nuii-5900130040189?t=2104",
+    "name": "Glace Mini Bâtonnet Macadamia Australien et Miel de Nouvelle-Zélande NUII",
+    "price": 419,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Voyagez à travers la gamme NUII et découvrez les saveurs uniques de 2 de nos parfums : Salted Caramel & Australian Macadamia , Caramelised Salted Almond & New Zealand Honey. Chocolat certifié Rainforest Alliance. Convient aux végétariens.",
+    "scraped_at": "2025-09-23T19:55:00.860Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c7240bc962974a26ba0ee192224d48ab/p_1500x1500/5900130042398-photosite-2025612-115210-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-batonnets-chocolat-noir-noix-du-bresil-nuii-5900130042398?t=2104",
+    "name": "Glace Bâtonnets Chocolat noir & Noix du Brésil NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Laissez-vous transporter au cœur de la forêt Amazonienne et succombez à la saveur unique des noix du Brésil mélangées à un délicieux enrobage chocolat noir qui recouvrent une onctueuse crème glacée au chocolat, marbrée d'une sauce au caramel malté.",
+    "scraped_at": "2025-09-23T19:55:02.356Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3369a720ac904120806be36cf886baa1/p_1500x1500/3560070335879_0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-chocolat-carrefour-extra-3560070335879?t=2104",
+    "name": "Glaces chocolat CARREFOUR EXTRA",
+    "price": 245,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les délicieux cônes de glace au chocolat avec une sauce au chocolat fondante et une gaufrette croustillante. Un dessert gourmand et riche en saveurs chocolatées pour une pause sucrée inoubliable. Craquez pour notre assortiment de cônes de glace au chocolat, dont les glaces riches et onctueuses sont rehaussées par une sauce au chocolat savoureuse. Avec leur gaufrette croquante et leur décor de cacao maigre, ces cônes sont le choix parfait pour les amateurs de chocolat.",
+    "scraped_at": "2025-09-23T19:55:03.156Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/aaf2ca77c802455f9d4d60d88b815138/p_1500x1500/3270190023401-photosite-2025918-235219-0.JPG",
+    "url": "https://www.carrefour.fr/p/glace-rhum-raisins-carrefour-extra-3270190023401?t=2104",
+    "name": "Glace rhum raisins CARREFOUR EXTRA",
+    "price": 219,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse crème glacée au rhum avec une préparation de raisins macérés. Savourez une combinaison exquise de saveurs dans chaque bouchée de notre produit exclusif.",
+    "scraped_at": "2025-09-23T19:55:05.158Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c50d581f53d83491972323e172b9d5e3/p_1500x1500/3560071490164-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-chocolat-blanc-amandes-carrefour-extra-3560071490164?t=2104",
+    "name": "Glace chocolat blanc amandes CARREFOUR EXTRA",
+    "price": 275,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les délicieux bâtonnets Yhone White Almond, avec un coeur fondant à la vanille entouré d'un enrobage de chocolat blanc de qualité supérieure et agrémenté de morceaux d'amandes grillées. Une combinaison gourmande qui ravira les amateurs de saveurs douces et croquantes. Une expérience glacée à déguster sans modération.",
+    "scraped_at": "2025-09-23T19:55:05.452Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8a6ace4bc53d4b06b080bf378114ee9a/p_1500x1500/05900130036298_H1N1_s09.png",
+    "url": "https://www.carrefour.fr/p/glace-batonnet-new-york-cookies-et-cream-nuii-5900130036298?t=2104",
+    "name": "Glace bâtonnet New York cookies et cream NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez NUII, une aventure gourmande, empreinte d'évasion. Embarquez pour une escapade New Yorkaise. Succombez à l'onctuosité d'une crème glacée généreusement marbrée de morceaux de cookies, enrobée d'un délicieux chocolat et de morceaux de cookies de New York. Une recette pleine de gourmandise tout droit venue des Etats-Unis !",
+    "scraped_at": "2025-09-23T19:55:05.049Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/40f461bd4f0d415c980261b266857188/p_1500x1500/3560071552466_0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-ice-push-cola-carrefour-classic-3560071552466?t=2104",
+    "name": "Glace Ice Push Cola CARREFOUR CLASSIC",
+    "price": 269,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Eau, sucre, dextrose, extrait de MALT D'ORGE, acidifiant : acide citrique, arôme naturel, stabilisants : gomme guar et farine de graines de caroube. Peut contenir des Traces d'OEUFS, FRUITS A COQUE et LAIT.",
+    "scraped_at": "2025-09-23T19:55:06.454Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/62ccd289bc0b4ee58b0bf8f5a8a2dd45/p_1500x1500/3270190217640_0.JPG",
+    "url": "https://www.carrefour.fr/p/glace-cone-vanille-chocolat-carrefour-extra-3270190217640?t=2104",
+    "name": "Glace Cône vanille chocolat CARREFOUR EXTRA",
+    "price": 165,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les délicieux cônes glacés Carrefour Extra à la vanille et au chocolat, parsemés de morceaux croquants de noisettes caramélisées. Une combinaison gourmande pour une expérience sensorielle unique.",
+    "scraped_at": "2025-09-23T19:55:07.056Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e65b77630a7645fb98d043615ea8b021/p_1500x1500/05900130030982_H1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/glaces-amandes-vanille-de-java-nuii-5900130030982?t=2104",
+    "name": "Glaces amandes & vanille de Java NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez NUII, une aventure gourmande, empreinte d'évasion. Réputée pour sa saveur exotique et son goût subtilement fumé, laissez-vous tenter par délicatesse de la vanille de Java. Mélangée à une onctueuse crème glacée, son goût unique se révèle sous une couche de chocolat au lait craquant et de généreux éclats d'amandes. Une alliance irrésistible à explorer… Chocolat certifié Rainforest Alliance. Recette sans gluten.",
+    "scraped_at": "2025-09-23T19:55:08.151Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b2bb6fbd815a4a9ba07a6b31c3f2f499/p_1500x1500/05900130038674_H1N1_s14.png",
+    "url": "https://www.carrefour.fr/p/glace-chocolat-noisettes-nuii-5900130038674?t=2104",
+    "name": "Glace chocolat noisettes NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez NUII, une aventure gourmande, empreinte d'évasion. Etes-vous prêt à vivre la Dolce Vita ? Succombez à l'onctuosité d'une crème glacée à la noisette et d'un enrobage agrémenté de gaufrettes croustillantes et de généreuses noisettes délicatement grillées. Un voyage unique au cœur de l'Italie",
+    "scraped_at": "2025-09-23T19:55:09.648Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a5cf0bb4e53339ae80efa6f8299b885a/p_1500x1500/3560071518189-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-cones-sundae-caramel-carrefour-extra-3560071518189?t=2104",
+    "name": "Glaces cônes Sundae caramel CARREFOUR EXTRA",
+    "price": 269,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Eau, sucre, LAIT écrémé réhydraté, sirop de glucose, farine de BLE, graisse végétale de coprah, LACTOSERUM en poudre, caramel au beurre salé 1,3% (sirop de glucose, LAIT entier concentré sucré, BEURRE salé 0,2%, eau, sucre, sel), NOIX DE PECAN 0,9%, cacao maigre en poudre 0,6%, émulsifiants : lécithines de SOJA et mono-et diglycérides d'acides gras, huile végétale de coprah, gélifiants : gomme gua…",
+    "scraped_at": "2025-09-23T19:55:10.561Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8974de18a3da4bb097c5cbcb4334553d/p_1500x1500/3560070821143_0.JPG",
+    "url": "https://www.carrefour.fr/p/glaces-fruits-rouges-carrefour-extra-3560070821143?t=2104",
+    "name": "Glaces fruits rouges CARREFOUR EXTRA",
+    "price": 279,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les bâtonnets de glace Carrefour Extra Red Fruits sont des délices savoureux composés d'une délicieuse glace à la vanille, marbrée de sorbet aux fruits rouges et enrobée d'un sorbet aux fruits rouges aromatisé. Parfaits pour se rafraîchir pendant les journées chaudes, ils offrent une combinaison rafraîchissante de saveurs fruitées et crémeuses.",
+    "scraped_at": "2025-09-23T19:55:12.757Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c80293395cc743c8ae2ac3eeb8614b6b/p_1500x1500/05900130034980_H1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/glace-caramel-white-chocolate-texan-pecan-nuii-5900130034980?t=2104",
+    "name": "Glace caramel White Chocolate & Texan Pecan NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez NUII, une aventure gourmande, empreinte d'évasion. Succombez à la saveur unique des noix de pécan du Texas mélangées à un délicieux enrobage de chocolat blanc caramélisé qui recouvrent une onctueuse crème glacée marbrée d'une sauce au caramel malté. Une aventure au goût unique ! Chocolat certifié Rainforest Alliance. Convient aux végétariens.",
+    "scraped_at": "2025-09-23T19:55:14.159Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/851d7d40c0a93d41bab4c3e41b7856c3/p_1500x1500/3560071018795-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-cone-vanille-caramel-beurre-sale-carrefour-3560071018795?t=2104",
+    "name": "Glace Cône vanille caramel beurre salé CARREFOUR",
+    "price": 254,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux cornet de glace à la vanille et au caramel beurre salé, avec une fine gaufrette croustillante, un chemisage au cacao et des éclats de caramel aromatique. Savourez ce dessert gourmand, élaboré avec des ingrédients de qualité, pour une expérience gustative unique. Parfait pour les amateurs de glace à la recherche d'un moment de plaisir sucré.",
+    "scraped_at": "2025-09-23T19:55:16.056Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0a261f906d2547969f2cc00faea62f23/p_1500x1500/3560071552497_0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-a-l-eau-ice-push-fraise-carrefour-classic-3560071552497?t=2104",
+    "name": "Glace à l'eau Ice Push Fraise CARREFOUR CLASSIC",
+    "price": 269,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Eau, sucre, purée de fraises 16%, dextrose, acidifiant : acide citrique, denrée alimentaire colorante : concentré de jus de betterave rouge, arôme naturel, stabilisants : gomme guar - farine de graines de caroube. Peut contenir des Traces d'OEUFS, de FRUITS A COQUE et de LAIT.",
+    "scraped_at": "2025-09-23T19:55:17.154Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/10bd7bd3cbbf3a91b2927a3041a79759/p_1500x1500/3560070828197-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-double-sauce-au-chocolat-carrefour-3560070828197?t=2104",
+    "name": "Glaces double sauce au chocolat CARREFOUR",
+    "price": 399,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les délicieux bâtonnets de glace Carrefour Sensation Double Chocolate, constitués de chocolat à 55,3%, d'une sauce au chocolat et d'un enrobage de chocolat noir. Savourez ces gourmandises glacées à base d'ingrédients de qualité, pour un plaisir glacé et chocolaté.",
+    "scraped_at": "2025-09-23T19:55:17.961Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/65c242678069486fbd490c2ddabb5b11/p_1500x1500/05900130031279_H1N1_s28.png",
+    "url": "https://www.carrefour.fr/p/glaces-beurre-de-cacahuete-sirop-d-erable-du-canada-nuii-5900130031279?t=2104",
+    "name": "Glaces beurre de cacahuète & sirop d'érable du Canada NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez NUII, une aventure gourmande, empreinte d'évasion. Légèrement caramélisé avec une note boisée, le sirop d'érable est recueilli sur l'érable canadien et vient marbrer une délicieuse crème glacée au beurre de cacahuète, le tout enrobé d'un chocolat au lait craquant et d'éclats de cacahuètes. Une association sucré/salé parfaitement équilibrée à découvrir ! Chocolat certifié Rainforest Alliance. Recette sans gluten.",
+    "scraped_at": "2025-09-23T19:55:17.469Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5f753a56681c41a8ab77a893bd8351bb/p_1500x1500/3560070335930_0.JPG",
+    "url": "https://www.carrefour.fr/p/glace-cone-menthe-chocolat-carrefour-extra-3560070335930?t=2104",
+    "name": "Glace Cône menthe chocolat CARREFOUR EXTRA",
+    "price": 245,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux cornet glacé Menthe Chocolat, avec sa savoureuse sauce au chocolat et ses morceaux fondants. Un mélange exquis de glace à la menthe et de glace au chocolat, agrémenté d'une gaufrette croustillante. Un plaisir gourmand à déguster à tout moment de la journée. Délectez-vous de notre glace Menta Chocolate, un cornet glacé irrésistible avec sa sauce onctueuse au chocolat et ses morceaux de chocolat fondant. Un équilibre parfait entre la fraîcheur de la menthe et l'intensité du chocolat. Un délice à savourer sans modération.",
+    "scraped_at": "2025-09-23T19:55:18.660Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a1c72a3fe6d44caf98f2404272a9b078/p_1500x1500/03415581114713_C1N1_s28.jpeg",
+    "url": "https://www.carrefour.fr/p/glace-caramel-au-beurre-sale-haagen-dazs-3415581114713?t=2104",
+    "name": "Glace caramel au beurre salé HAAGEN-DAZS",
+    "price": 479,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Laissez-vous tenter par notre onctueuse crème glacée en pot au caramel beurre salé, sa sauce au caramel salé et ses éclats caramélisés au beurre salé. Cette glace est fabriquée en France, à Tilloy-lès-Mofflaines. Toutes nos glaces sont sans conservateur, ni colorant, ni arôme artificiel.",
+    "scraped_at": "2025-09-23T19:55:18.955Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/584cc24a07b7405fba2b33dbee63c32f/p_1500x1500/05900130031194_H1N1_s32.png",
+    "url": "https://www.carrefour.fr/p/glaces-cookies-menthe-des-vallees-de-l-idaho-nuii-5900130031194?t=2104",
+    "name": "Glaces cookies & menthe des vallées de l'Idaho NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez NUII, une aventure gourmande, empreinte d'évasion. Cultivée dans les vallées de l'Idaho la menthe renferme un goût intensément frais. Chaque bouchée révèle une crème glacée à la fois douce et rafraîchissante, associée à des morceaux de cookies gourmands, le tout recouvert d'un délicieux chocolat au lait avec des morceaux de cookies. Un voyage au cœur des vallées à couper le souffle. Chocolat certifié Rainforest Alliance.",
+    "scraped_at": "2025-09-23T19:55:19.357Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1cd6ae4e82944b55a48be4d04c012518/p_1500x1500/3560070048335_0.jpg",
+    "url": "https://www.carrefour.fr/p/mini-glaces-vanille-chocolat-carrefour-extra-3560070048335?t=2104",
+    "name": "Mini glaces vanille chocolat CARREFOUR EXTRA",
+    "price": 269,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre assortiment de mini cônes Carrefour, un véritable délice glacé pour petits et grands. Ces mini cônes sont composés de délicieuses crèmes glacées à la vanille et au chocolat, enrobées de chocolat au lait et de chocolat blanc. Une combinaison parfaite pour satisfaire toutes les envies gourmandes !",
+    "scraped_at": "2025-09-23T19:55:20.958Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a29f776291683186a5a30ad3e16de7f4/p_1500x1500/3560070822584-photosite-20200826-170453-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-caramel-fleur-de-sel-carrefour-extra-3560070822584?t=2104",
+    "name": "Glace caramel fleur de sel CARREFOUR EXTRA",
+    "price": 319,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse crème glacée au caramel et à la fleur de sel, savoureusement aromatisée à 94% avec de généreux morceaux de caramel fondant. Une composition gourmande à base de lait écrémé réhydraté, crème fraîche et concentré de protéines de lactosérum, pour une expérience gustative irrésistible.",
+    "scraped_at": "2025-09-23T19:55:21.255Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3f5513aafe5a371ab9a3e45301cb7dab/p_1500x1500/3560070774395-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-chocolat-au-lait-coeur-vanille-carrefour-extra-3560070774395?t=2104",
+    "name": "Glaces chocolat au lait cœur vanille CARREFOUR EXTRA",
+    "price": 199,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux bâtonnet de glace à la vanille enrobé d'un chocolat au lait extra fin. Savourez le mariage subtil de la douceur de la vanille et de la richesse du chocolat. Un plaisir gourmand à déguster à tout moment de la journée.",
+    "scraped_at": "2025-09-23T19:55:23.459Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4f90b9b7b8fd48eca6b33143dd7ada63/p_1500x1500/3560071484729_0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-coco-delice-carrefour-sensation-3560071484729?t=2104",
+    "name": "Glaces Coco Délice CARREFOUR SENSATION",
+    "price": 329,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Dégustez la nouveauté gourmande de Carrefour Sensation : les Carrés Délice Coco avec des éclats d'amandes grillés et de la noix de coco râpée, enrobés d'un délicieux chocolat blanc. Un mélange exquis pour les amateurs de noix de coco qui ravira vos papilles.",
+    "scraped_at": "2025-09-23T19:55:23.850Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d94721a222b741939eace3f2413a6d19/p_1500x1500/3560070820948_0.JPG",
+    "url": "https://www.carrefour.fr/p/glaces-fruits-exotiques-carrefour-extra-3560070820948?t=2104",
+    "name": "Glaces fruits exotiques CARREFOUR EXTRA",
+    "price": 279,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez les bâtonnets de glace Carrefour Extra Exotic Fruits, un délicieux mélange de vanille et de sorbet aux fruits exotiques marbré, avec un enrobage aux fruits exotiques. Un plaisir gourmand pour tous les amateurs de saveurs exotiques. Les bâtonnets de glace Carrefour Extra Exotic Fruits sont fabriqués avec soin à partir d'une base de lait écrémé réhydraté et de purées concentrées de pêche, fruit de la passion et mangue, pour une texture onctueuse et un goût intense. Un régal glacé à déguster à tout moment !",
+    "scraped_at": "2025-09-23T19:55:24.158Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1b6942052eee3419811697449a45bd19/p_1500x1500/3560071518004-0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-chocolat-blanc-caramel-carrefour-sensation-3560071518004?t=2104",
+    "name": "Glaces chocolat blanc caramel CARREFOUR SENSATION",
+    "price": 359,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Chocolat blanc 28,9% (sucre, beurre de cacao, poudre de LACTOSERUM, matière grasse LAITIERE anhydre, poudre de LAIT écrémé, émulsifiants : lécithines de SOJA et polyricinoléate de polyglycérol, arôme naturel de vanille), LAIT écrémé réhydraté, eau, sirop de glucose, sucre, graisse végétale de coprah, LACTOSE et protéines de LAIT, farine de BLE, caramel au beurre salé 0,7% (sirop de glucose, LAIT e…",
+    "scraped_at": "2025-09-23T19:55:25.358Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4fec88638c98497db35049c01769aa7c/p_1500x1500/3560071550431_0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-cone-rhum-raisins-carrefour-extra-3560071550431?t=2104",
+    "name": "Glace Cône Rhum Raisins CARREFOUR EXTRA",
+    "price": 359,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients : LAIT ÉCRÉMÉ réhydraté, sucre, farine de BLÉ, concentré de protéines de LACTOSÉRUM, matière grasse de coprah, eau, sirop de glucose, préparation rhum raisin 4,3% (raisins secs 2,6%, rhum, sucre), copeaux de chocolat (pâte de cacao, sucre, beurre de cacao, matières grasses butyriques (LAIT), émulsifiant : lécithines de SOJA, arôme naturel de vanille), cacao maigre en poudre, rhum gélif…",
+    "scraped_at": "2025-09-23T19:55:26.258Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ed422a87b77536648c29b8d300a87375/p_1500x1500/3560071016685-photosite-20200917-181103-0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-chocolat-noir-carrefour-extra-3560071016685?t=2104",
+    "name": "Glace chocolat noir CARREFOUR EXTRA",
+    "price": 225,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez la délicieuse crème glacée au chocolat noir 96% avec des copeaux de chocolat noir 4%. Une combinaison irrésistible qui ravira les amateurs de chocolat. Carrefour Extra propose une expérience gourmande dans chaque cuillerée.",
+    "scraped_at": "2025-09-23T19:55:26.651Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2c6303db76be4e3eaecc3902cc2ba248/p_1500x1500/03274664241438_C1N1_s03.png",
+    "url": "https://www.carrefour.fr/p/glace-cone-choco-caramel-toffee-extreme-3274664241438?t=2104",
+    "name": "Glace Cône Choco Caramel Toffee EXTREME",
+    "price": 355,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une gamme inspirée des pâtisseries les plus gourmandes, façon Extrême ! Toute la gourmandise de deux glaces Chocolat et Caramel, avec des éclats de caramel sur le dessus, des inclusions de biscuits spéculoos à l'intérieur, et pour finir, une sauce au caramel dans la dernière bouchée en plus de l'incontournable bout cacaoté ! Extrême, jusqu'au bout.",
+    "scraped_at": "2025-09-23T19:55:26.851Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b59192cff0cd4ac7873a131a2f5d03f6/p_1500x1500/5900130042329_0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-mini-batonnet-indian-mango-new-zeland-honey-nuii-5900130042329?t=2104",
+    "name": "Glace Mini Bâtonnet Indian Mango & New Zeland Honey NUII",
+    "price": 490,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Voyagez à travers la gamme NUII et découvrez les saveurs uniques de 2 de nos parfums : Coconut & Indian Mango, Salted Caramelised Almond & New Zealand Honey. Chocolat certifié Rainforest Alliance. Convient aux végétariens.",
+    "scraped_at": "2025-09-23T19:55:27.149Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f50e608274b14484a33717c3cb749501/p_1500x1500/3560071552435_0.jpg",
+    "url": "https://www.carrefour.fr/p/glace-batonnet-cookie-white-carrefour-sensation-3560071552435?t=2104",
+    "name": "Glace Bâtonnet Cookie White CARREFOUR SENSATION",
+    "price": 319,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients: chocolat blanc 31% (sucre, beurre de cacao, LACTOSÉRUM en poudre, MATIÈRE GRASSE LAITIÈRE anhydre, LAIT ÉCRÉMÉ en poudre, émulsifiants (lécithines, polyricinoléate de polyglycérol), extrait naturel de vanille), LAIT ÉCRÉMÉ réhydraté, sucre, eau, concentré de protéines de LACTOSÉRUM, sirop de glucose, matière grasse de coprah, CRÈME fraîche (contient LAIT), farine de BLÉ, BEURRE (conti…",
+    "scraped_at": "2025-09-23T19:55:28.056Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/51568ac90726497399594bd7ea5ce1da/p_1500x1500/3560071550349_0.jpg",
+    "url": "https://www.carrefour.fr/p/glaces-chocolat-noisettes-carrefour-sensation-3560071550349?t=2104",
+    "name": "Glaces chocolat noisettes CARREFOUR SENSATION",
+    "price": 309,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients : LAIT ÉCRÉMÉ réhydraté, sucre, farine de BLÉ, graisse végétale de noix de coco, chocolat au LAIT 5,6% (sucre, beurre de cacao, pâte de cacao, LAIT entier en poudre, MATIÈRE GRASSE LAITIÈRE anhydre (contient LAIT), LAIT ÉCRÉMÉ en poudre, LACTOSE, émulsifiants : lécithines et polyricinoléate de polyglycérol), huile végétale de coprah, pâte de NOISETTES grillées 3,8%, sirop de glucose, c…",
+    "scraped_at": "2025-09-23T19:55:30.453Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/76a49a59c7f040399d00f6588543fa3d/p_1500x1500/3560071460730_0.JPG",
+    "url": "https://www.carrefour.fr/p/glace-cone-vanille-praline-carrefour-extra-3560071460730?t=2104",
+    "name": "Glace Cône vanille praliné CARREFOUR EXTRA",
+    "price": 239,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux pack de 6 cônes glacés Carrefour Extra, parfum vanille et praliné, accompagnés de généreux morceaux de noisettes caramélisées. Une combinaison savoureuse de crèmes glacées onctueuses, de gaufrettes croquantes et de décors cacaotés, le tout agrémenté d'une touche délicatement sucrée. Savourez ces cônes gourmands en famille ou entre amis pour une pause fraîche et délicieuse.",
+    "scraped_at": "2025-09-23T19:55:32.567Z"
+  }
+]

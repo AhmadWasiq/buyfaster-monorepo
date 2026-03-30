@@ -1,0 +1,462 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/312fb4d85b5f4a73b6131e3460a4fd20/p_1500x1500/3560070446384_0.jpg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-concombres-fromage-blanc-carrefour-classic-3560070446384?t=37008",
+    "name": "Salades crudités concombres fromage blanc CARREFOUR CLASSIC'",
+    "price": 1.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieux produit Carrefour Classic : des concombres frais accompagnés d'une sauce au fromage blanc et à la ciboulette, parfaite pour apporter une touche de fraîcheur et de saveur à vos plats. Une alliance gourmande à déguster sans modération pour agrémenter vos salades, sandwichs ou simplement en apéritif !",
+    "scraped_at": "2025-09-25T17:20:54.061Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/63c54af311d3410a909206f69a4c3760/p_1500x1500/03083680484473_H1R1_s01.png",
+    "url": "https://www.carrefour.fr/p/taboule-menthe-huile-d-olive-bonduelle-3083680484473?t=37008",
+    "name": "Taboulé menthe & huile d'olive BONDUELLE",
+    "price": 2.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Fabriqué en France Blé français",
+    "scraped_at": "2025-09-25T17:20:55.492Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a44bd519af0046ce981171d71d1e3f23/p_1500x1500/03281780898576_A1C1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/macedoine-a-la-moutarde-a-l-ancienne-pierre-martinet-3281780898576?t=37008",
+    "name": "Macédoine à la moutarde à l'Ancienne PIERRE MARTINET",
+    "price": 2.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La recette traditionnelle de la Macédoine de légumes revisitée et relevée de moutarde à l'ancienne, une recette onctueuse et gourmande à déguster en famille ou entre amis !",
+    "scraped_at": "2025-09-25T17:21:12.731Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e178ef445a34311793ea52a7af189f32/p_1500x1500/3245413730190-0.jpg",
+    "url": "https://www.carrefour.fr/p/friands-a-la-viande-carrefour-le-marche-3245413730190?t=37008",
+    "name": "Friands à la viande CARREFOUR LE MARCHE",
+    "price": 3,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pâte feuilletée 51% (farine de BLE 28%, BEURRE14%, eau, ŒUF, sel), viande de porc (origine : France) 40%, eau, Porto rouge modifié (Porto rouge, sel), MOUTARDE (eau, graine de MOUTARDE, vinaigre d'alcool, sel), échalote, sel, ŒUF, poivre, muscade, girofle, conservateur : nitrite de sodium. Pourcentages exprimés sur l'ensemble du produit.\nPeut contenir des traces de crustacés, POISSONS, mollusq…",
+    "scraped_at": "2025-09-25T17:21:19.538Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/37a486f8d45f4594a9b1d61086bf5624/p_1500x1500/03281780096057_A1C1_s12.jpeg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-duo-taboule-oriental-crudites-carottes-rapees-pierre-martinet-3281780096057?t=37008",
+    "name": "Salades crudités duo taboulé oriental crudités carottes râpées PIERRE MARTINET",
+    "price": 1.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Pierre Martinet a réuni dans une même barquette des Carottes râpées accompagnées d'un savoureux Taboulé oriental. il sera le complice idéal des repas sur le pouce.",
+    "scraped_at": "2025-09-25T17:21:19.941Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/264de28c1dbc4262a03a8a955908af70/p_1500x1500/3270190212980_1.JPG",
+    "url": "https://www.carrefour.fr/p/carottes-rapees-au-jus-de-citron-carrefour-classic-3270190212980?t=37008",
+    "name": "Carottes râpées au jus de citron CARREFOUR CLASSIC",
+    "price": 0.74,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses carottes râpées assaisonnées au jus de citron, élaborées à base de carottes cultivées en France. Elles sont agrémentées d'une sauce légère à base de moutarde, vinaigre d'alcool, sucre et jus de citron concentré pour une saveur acidulée et rafraîchissante. À déguster en accompagnement de vos plats préférés ou en salade croquante.",
+    "scraped_at": "2025-09-25T17:21:21.532Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ef3c10406b854f32b5788acb37ea4d60/p_1500x1500/03281780893892_A1L1_s06.png",
+    "url": "https://www.carrefour.fr/p/salade-taboule-oriental-a-l-huile-d-olive-vierge-extra-pierre-martinet-3281780893892?t=37008",
+    "name": "Salade Taboulé oriental à l'huile d'olive vierge extra PIERRE MARTINET",
+    "price": 2.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une recette traditionnelle de taboulé préparée avec de la semoule de blé dur de qualité supérieure, des tomates, de l'huile d'olive vierge extra et des épices … Un savant mélange dont seul Pierre Martinet a le secret.",
+    "scraped_at": "2025-09-25T17:21:22.530Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/16f66db8ddac40c88a7b867e6a1a4f96/p_1500x1500/03281780868852_A1N1_s06.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-taboule-5-legumes-au-jus-de-citron-pierre-martinet-3281780868852?t=37008",
+    "name": "Salade Taboulé 5 légumes au jus de citron PIERRE MARTINET",
+    "price": 2.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une recette source de fibres, attrayante avec de la fraîcheur en visuel et en goût et parfumé au jus de citron jaune, menthe et agrémenté d'huile de colza. Avec 5 légumes et au Nutriscore A et avec du Blé français !",
+    "scraped_at": "2025-09-25T17:21:23.229Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/388cfa46c2c33174a0142ad719247c85/p_1500x1500/3276558108148-photosite-20211012-183130-0.jpg",
+    "url": "https://www.carrefour.fr/p/carottes-rapees-ail-et-ciboulette-carrefour-le-marche-3276558108148?t=37008",
+    "name": "Carottes râpées ail et ciboulette CARREFOUR LE MARCHE",
+    "price": 1.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Carottes râpées 83%, huile de colza, eau, sucre, ciboulette 1,5%, vinaigre de Xérès, MOUTARDE de Dijon (eau, graines de MOUTARDE, vinaigre d'alcool, sel), ail 0,5%, sel, vinaigre d'alcool, échalotes, épaississant : gomme xanthane.\n\nPeut contenir des traces de CELERI, ŒUFS, LAIT, POISSON, crustacés, GLUTEN, SOJA, graines de SESAME.\n\nModif…",
+    "scraped_at": "2025-09-25T17:21:26.226Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cda3bd98750841ee96ffc4f3bc7233b7/p_1500x1500/03281780085105_A1C1_s16.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-taboule-poulet-ciboulette-pierre-martinet-3281780085105?t=37008",
+    "name": "Salade taboulé Poulet ciboulette PIERRE MARTINET",
+    "price": 2.25,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un taboulé riche en poulet Origine France qui réunit des ingrédients de qualité rigoureusement sélectionnés, associant des légumes, des féculents et des protéines. Voici une recette savoureuse pour se régaler en famille.",
+    "scraped_at": "2025-09-25T17:21:29.036Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c0bca8266a5a39bca0a61ad75febd1bb/p_1500x1500/03281780063509-a1l1-s07.jpg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-lentilles-a-la-lyonnaise-pierre-martinet-3281780063509?t=37008",
+    "name": "Salades crudités lentilles à la lyonnaise PIERRE MARTINET",
+    "price": 2.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une savoureuse recette de lentilles relevée d'oignons émincés et sans conservateur.",
+    "scraped_at": "2025-09-25T17:21:30.228Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/512fb1be0b36446f90dceec89c422963/p_1500x1500/03281780024906_A1C1_s08.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-piemontaise-jambon-aux-tomates-fraiches-pierre-martinet-3281780024906?t=37008",
+    "name": "Salade piémontaise jambon aux tomates fraiches PIERRE MARTINET",
+    "price": 3.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Recette généreuse et savoureuse avec du porc français et du jambon sans nitrite ajouté conservé grâce à des extraits végétaux et antioxydants.",
+    "scraped_at": "2025-09-25T17:21:31.525Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a1ccf59bd02a49e9807450932b5cef1f/p_1500x1500/03281780868814_A1L1_s07.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-taboule-5-legumes-au-jus-de-citron-pierre-martinet-3281780868814?t=37008",
+    "name": "Salade Taboulé 5 légumes au jus de citron PIERRE MARTINET",
+    "price": 1.96,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une recette source de fibres, attrayante avec de la fraîcheur en visuel et en goût et parfumé au jus de citron jaune, menthe et agrémenté d'huile de colza. Avec 5 légumes et au Nutriscore A !",
+    "scraped_at": "2025-09-25T17:21:31.830Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0d110e780eac46e58105940a4e1a88fa/p_1500x1500/03281780066609_A1L1_s08.jpeg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-pates-torti-surimi-ciboulette-pierre-martinet-3281780066609?t=37008",
+    "name": "Salades crudités pâtes torti surimi ciboulette PIERRE MARTINET",
+    "price": 1.87,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un délicieux mélange de pâtes et de surimi MSC dans une sauce onctueuse avec des pâtes Origine France.",
+    "scraped_at": "2025-09-25T17:21:32.628Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cebf8ec339e440739378d46f3dfd1918/p_1500x1500/03281780889994_A1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-vegetale-quinoa-aux-legumes-sans-gluten-pierre-martinet-3281780889994?t=37008",
+    "name": "Salade Végétale quinoa aux légumes sans gluten PIERRE MARTINET",
+    "price": 1.64,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une Salade de Quinoa aux légumes, fraîche et savoureuse, à partager en famille !",
+    "scraped_at": "2025-09-25T17:21:33.027Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/273ff02f3f074a8493b6f67f2630a15d/p_1500x1500/03281780892895_A1C1_s15.jpeg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-boulghour-aux-noisettes-pierre-martinet-3281780892895?t=37008",
+    "name": "Salades crudités boulghour aux noisettes PIERRE MARTINET",
+    "price": 2.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une délicieuse salade de boulghour agrémentée de cranberries et noisettes, source de protéines et source de fibres. Associant des lentilles corail et légumes (tomates, courgettes grillées), cette salade sera l'indispensable des repas 'véganes'.",
+    "scraped_at": "2025-09-25T17:21:33.228Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/75fe0b59634a4171b6379a5fd2cb3c49/p_1500x1500/03281780025514_A1C1_s11.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-taboule-poulet-ciboulette-pierre-martinet-3281780025514?t=37008",
+    "name": "Salade Taboulé Poulet ciboulette PIERRE MARTINET",
+    "price": 1.92,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un taboulé riche en poulet Origine France qui réunit des ingrédients de qualité rigoureusement sélectionnés, associant des légumes, des féculents et des protéines. Voici une recette savoureuse pour se régaler en famille.",
+    "scraped_at": "2025-09-25T17:21:35.935Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/26deec17c4514a8daa96f7b326258b51/p_1500x1500/03281780898569_A1C1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-de-concombres-au-skyr-pierre-martinet-3281780898569?t=37008",
+    "name": "Salades crudités de Concombres au Skyr PIERRE MARTINET",
+    "price": 2.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Face à l'engouement du Skyr au rayon crèmerie, Pierre Martinet lance une recette de Concombres intégrant une savoureuse et onctueuse sauce au Skyr relevée de ciboulette. Une recette fraîche et croquante pour toute la famille !",
+    "scraped_at": "2025-09-25T17:21:38.230Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ec6ab8a8ba184bcab43f3fadd4a845b2/p_1500x1500/03281780895162_A1C1_s11.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-vegetale-taboule-a-l-avocat-pierre-martinet-3281780895162?t=37008",
+    "name": "Salade Végétale taboulé à l'avocat PIERRE MARTINET",
+    "price": 2.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un Taboulé agrémenté d'un aliment « tendance » : l'avocat. Agrémenté de pois chiches, amandes, carottes jaunes en julienne, baies de goji et graines de courge, ce taboulé avec blé français, ravira les papilles !",
+    "scraped_at": "2025-09-25T17:21:39.930Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7619249de12f461b8fbad795ec6e6fbd/p_1500x1500/03281780894950_A1L1_s07.jpeg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-carottes-rapees-ciboulette-pierre-martinet-3281780894950?t=37008",
+    "name": "Salades crudités carottes râpées ciboulette PIERRE MARTINET",
+    "price": 5.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des carottes râpées, du jus de citron, des brins de ciboulette, un classique revisité par Pierre Martinet. Une recette savoureuse à déguster toute l'année.",
+    "scraped_at": "2025-09-25T17:21:40.625Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/705931a6fd713056a84d8f13753d5605/p_1500x1500/03281780054347-a1l1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/salade-taboule-oriental-a-l-huile-d-olive-vierge-extra-pierre-martinet-3281780054347?t=37008",
+    "name": "Salade Taboulé oriental à l'huile d'olive vierge extra PIERRE MARTINET",
+    "price": 1.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le savoureux Taboulé Oriental Pierre Martinet en format familial pour les repas en famille ou entre amis.",
+    "scraped_at": "2025-09-25T17:21:41.029Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cd2e5f32f05044979bba22a1dc0a8778/p_1500x1500/3560071235406_0.jpg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-betterave-moutarde-a-l-ancienne-carrefour-classic-3560071235406?t=37008",
+    "name": "Salades crudités betterave moutarde à l'ancienne CARREFOUR CLASSIC'",
+    "price": 1.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse salade de betteraves rouges assaisonnées à la moutarde à l'ancienne. Composée d'ingrédients de qualité tels que des betteraves rouges fraîches, de l'eau, de l'huile de colza, de l'oignon et de la moutarde à l'ancienne, cette salade offre une explosion de saveurs harmonieuses. Idéale pour accompagner vos repas ou en entrée, elle saura satisfaire tous les gourmets en quête d'une expérience gustative authentique.",
+    "scraped_at": "2025-09-25T17:21:40.734Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/93d73983a6624feeae2cb531e37890a8/p_1500x1500/3270190207474_0.JPEG",
+    "url": "https://www.carrefour.fr/p/salades-crudites-piemontaise-jambon-carrefour-classic-3270190207474?t=37008",
+    "name": "Salades crudités piémontaise jambon CARREFOUR CLASSIC'",
+    "price": 2.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse Piémontaise au jambon, une salade composée de pommes de terre cuites, de tomates, de jambon cuit supérieur et d'œufs durs, le tout délicatement assaisonné. Une combinaison savoureuse pour une pause déjeuner gourmande qui satisfera tous les amateurs de salades fraîches.",
+    "scraped_at": "2025-09-25T17:21:43.832Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d1edf238118648f98dacf8c1f67bdaab/p_1500x1500/03281780897074_A1C1_s12.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-de-pates-pates-concombre-saumon-et-skyr-pierre-martinet-3281780897074?t=37008",
+    "name": "Salade de pâtes Pâtes, Concombre, Saumon et Skyr PIERRE MARTINET",
+    "price": 0.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Nouvelle recette intégrant une savoureuse sauce au Skyr et typée Norvège à base de pâtes, saumon cuit, concombres, ciboulette et jus de citron vert.",
+    "scraped_at": "2025-09-25T17:21:43.633Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/7144ccab66274382aeece1e5f452f6ae/p_1500x1500/3270190207535_0.jpg",
+    "url": "https://www.carrefour.fr/p/celeri-remoulade-carrefour-classic-3270190207535?t=37008",
+    "name": "Céleri rémoulade CARREFOUR CLASSIC'",
+    "price": 1.35,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse salade de céleri rémoulade Carrefour Classic, préparée avec du céleri râpé frais et assaisonnée d'une touche de moutarde de Dijon. Cette savoureuse salade contient également du fromage blanc et de l'huile de colza pour une texture crémeuse et un goût irrésistible. Parfaite en accompagnement de vos plats ou en apéritif, elle est préparée avec des ingrédients de qualité et certifiée sans couvercles en plastique. Essayez-la dès maintenant pour un plaisir gustatif léger et savoureux.",
+    "scraped_at": "2025-09-25T17:21:48.028Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/61764a58de3c4094aced35e5012efb2b/p_1500x1500/3560070457335_0.jpg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-coleslaw-carrefour-classic-3560070457335?t=37008",
+    "name": "Salades crudités Coleslaw CARREFOUR CLASSIC'",
+    "price": 3.14,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre Coleslaw Duo Croquant, une délicieuse salade de choux blancs, carottes et oignons assaisonnée. Sa recette savoureuse et équilibrée, composée principalement de choux blancs et de carottes fraîchement coupés, vous offre une expérience croquante et rafraîchissante. Parfait en accompagnement ou en plat principal, ce Coleslaw vous garantit une explosion de saveurs à chaque bouchée.",
+    "scraped_at": "2025-09-25T17:21:49.127Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/93ac98384db0342b8e4f04e18c97fbbc/p_1500x1500/03281780892925-a1l1-s07.jpg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-carottes-rapees-a-l-huile-d-olive-vierge-extra-pierre-martinet-3281780892925?t=37008",
+    "name": "Salades crudités Carottes râpées à l'huile d'olive vierge extra PIERRE MARTINET",
+    "price": 2.30,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Afin de compléter et varier sa gamme de Carottes râpées, Pierre Martinet intègre une nouvelle saveur : l'Huile d'Olive Vierge Extra pour une recette douce et subtilement assaisonnée.",
+    "scraped_at": "2025-09-25T17:21:56.936Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ed3701d970403351b000b6df1650d359/p_1500x1500/3276558108230-photosite-20211012-183545-0.jpg",
+    "url": "https://www.carrefour.fr/p/celeri-rape-pointe-de-moutarde-carrefour-le-marche-3276558108230?t=37008",
+    "name": "Céleri râpé pointe de moutarde CARREFOUR LE MARCHE",
+    "price": 2.54,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "CELERI râpé 79,5%, huile de colza, eau, MOUTARDE de Dijon 2,2% (eau, graines de MOUTARDE, vinaigre d'alcool, sel), CREME fraîche fluide, MOUTARDE de Reims 1% (eau, graines de MOUTARDE, vin, vinaigre de vin, sel, sucre, conservateur : SULFITE acide de sodium, épices, antioxydant : acide citrique, épaississants : gomme xanthane), jaune d'OEUF, vinaigre d'alcool, sel, épaississant : gomme xanthane.…",
+    "scraped_at": "2025-09-25T17:21:57.332Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cf7a5ed2abc44b3cb7cccb58935c5afe/p_1500x1500/03281780893465_A1C1_s06.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-vegetale-quinoa-croquant-amandes-noisettes-pierre-martinet-3281780893465?t=37008",
+    "name": "Salade Végétale Quinoa croquant amandes noisettes PIERRE MARTINET",
+    "price": 2.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Source de protéines et de fibres, cette recette croquante et riche en ingrédients, est pleine de saveurs et de gourmandise !",
+    "scraped_at": "2025-09-25T17:21:58.435Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c7b9b4d163053191bc0513181dc552e0/p_1500x1500/3083681047868-photosite-20150529-163302-0.jpg",
+    "url": "https://www.carrefour.fr/p/carottes-rapees-echalote-persil-bonduelle-3083681047868?t=37008",
+    "name": "Carottes râpées échalote/persil BONDUELLE",
+    "price": 2.05,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nSalade de carottes râpées à l'échalote et au persil, assaisonnée:\nCarottes (77%), eau, échalote (4,5%, huile de colza, vinaigre d'alcool, persil (0,8%), sel, sucre, MOUTARDE de Dijon (eau, graines de MOUTARDE, vinaigre d'alcool, sel), amidon transformé de pomme de terre, arôme naturel de citron, anti-oxydant : acide ascorbique, épaississants : gomme xanthane, gomme guar, purée d'ail, arôme nat…",
+    "scraped_at": "2025-09-25T17:21:58.828Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a88feb0d375f4081929c488679beff01/p_540x540/3560070454044_0.jpg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-torti-au-surimi-ciboulette-carrefour-classic-3560070454044?t=37008",
+    "name": "Salades crudités Torti au surimi ciboulette CARREFOUR CLASSIC'",
+    "price": 1.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse salade de pâtes alimentaires au surimi, aux poivrons rouges et à l'estragon, parfaitement assaisonnée pour une explosion de saveurs en bouche. Profitez d'un repas frais et équilibré, prêt à être consommé en un clin d'œil.",
+    "scraped_at": "2025-09-25T17:22:04.128Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5f24c019559841929fef51124778c810/p_1500x1500/3560071484415_0.jpg",
+    "url": "https://www.carrefour.fr/p/salade-riz-a-la-provencale-carrefour-classic-3560071484415?t=37008",
+    "name": "Salade riz à la provençale CARREFOUR CLASSIC'",
+    "price": 1.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Riz long grain étuvé de Camargue IGP 45%, maïs 11%, THON à l'huile 9,9% (THON listao 9,4%, huile de tournesol, sel), eau, poivron vert 7%, tomates 4,45%, olives noires en rondelles 3% (olives noires, eau, sel, stabilisant : gluconate ferreux), poivrons rouges 3%, vinaigre d'alcool, huile de colza, persil 0,5%, sel, MOUTARDE de Dijon (eau, graines de MOUTARDE, vinaigre d'alcool, sel), arôme naturel…",
+    "scraped_at": "2025-09-25T17:22:05.036Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/fb9772bb774d45e0bc3d2397bc246992/p_1500x1500/03377460015163_C1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/chou-rouge-polonia-3377460015163?t=37008",
+    "name": "Chou Rouge POLONIA",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "sans colorant sans conservateur",
+    "scraped_at": "2025-09-25T17:22:07.828Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/f84ce55f3cf94e6fb0e7d7ee44fe9c90/p_1500x1500/03083681034974_A1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/coleslaw-sauce-douce-bonduelle-3083681034974?t=37008",
+    "name": "Coleslaw sauce douce BONDUELLE",
+    "price": 1.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nIngrédients: Ingrédients : Choux blancs (45%), carottes (29%), sauce (23%) (huile de colza, eau, MOUTARDE de Dijon (eau, graines de MOUTARDE, vinaigre d'alcool, sel), oignons (1%), vinaigre d'alcool, sel, jaune d'OEUF en poudre, concentré de jus d'orange, anti-oxydant : acide ascorbique, épaississants : gomme xanthane -gomme guar). Fabriqué dans un atelier utilisant également : GLUTEN, LAIT, CELE…",
+    "scraped_at": "2025-09-25T17:22:10.031Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d6b9f6def8b240c887bd4c6a871cd30e/p_1500x1500/3560070850907_0.jpg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-chou-rouge-a-la-moutarde-carrefour-classic-3560070850907?t=37008",
+    "name": "Salades crudités chou rouge à la moutarde CARREFOUR CLASSIC'",
+    "price": 2.30,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse salade de chou rouge émincé, assaisonnée, offrant une texture croquante et un goût savoureux. Réalisée à partir de chou rouge cultivé en France et aux Pays-Bas, cette salade apporte une touche de fraîcheur à vos repas. Pratique et facile à utiliser, elle se conserve entre 0°C et +4°C et se déguste dans les 24h après ouverture.",
+    "scraped_at": "2025-09-25T17:22:11.931Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9d99a472281d38788430304fec6f6977/p_1500x1500/03276558108414-a1c1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/duo-carotte-celeri-rapes-ail-et-ciboulette-carrefour-le-marche-3276558108414?t=37008",
+    "name": "Duo carotte céleri râpés ail et ciboulette CARREFOUR LE MARCHE",
+    "price": 3.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "CELERI râpé 45%, carottes râpées 32%, huile de colza, eau, sucre, vinaigre d'alcool, MOUTARDE de Dijon (eau, graines de MOUTARDE, vinaigre d'alcool, sel), ciboulette 1,5%, ail 0,5%, sel, échalotes, épaississant : gomme xanthane.\nPeut contenir des traces d'ŒUFS, LAIT, POISSON, crustacés, GLUTEN, SOJA, graines de SESAME, FRUITS A COQUE et mollusques.",
+    "scraped_at": "2025-09-25T17:22:12.833Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/17fee6b4b18d4d5ebc169763341f4fdd/p_1500x1500/3560071513351_0.jpg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-surimi-ananas-carrefour-classic-3560071513351?t=37008",
+    "name": "Salades crudités surimi ananas CARREFOUR CLASSIC'",
+    "price": 2.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Surimi 45% {eau, chair de POISSON, amidon (dont BLE), huile de colza, blanc d'OEUF, sucre, sel, arômes naturels (contient POISSONS, CRUSTACES), colorant : extrait de paprika}, ananas 14%, huile de colza, carottes cuites 11%, eau, jus de citron à base de concentré, vinaigre d'alcool, sel, MOUTARDE (eau, graines de MOUTARDE, vinaigre d'alcool, sel), amidon modifié de pomme de terre, jaune d'OEUF en …",
+    "scraped_at": "2025-09-25T17:22:13.032Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1df6d1d912fc40b7917017b656f6dbc5/p_1500x1500/03083680696807_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/salade-riz-a-la-provencale-au-thon-basilic-bonduelle-3083680696807?t=37008",
+    "name": "Salade Riz à la Provençale au Thon & Basilic BONDUELLE",
+    "price": 2.30,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Fabriqué en France",
+    "scraped_at": "2025-09-25T17:22:13.633Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c6103d034db73fbbb7ce3c5a0acc7003/p_1500x1500/3276558108179-photosite-20211012-183729-0.jpg",
+    "url": "https://www.carrefour.fr/p/carottes-rapees-ciboulette-ail-carrefour-le-marche-3276558108179?t=37008",
+    "name": "Carottes râpées ciboulette ail CARREFOUR LE MARCHE",
+    "price": 2.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Carottes râpées 83%, huile de colza, eau, sucre, ciboulette 1,5%, vinaigre de Xérès, MOUTARDE de Dijon (eau, graines de MOUTARDE, vinaigre d'alcool, sel), ail 0,5%, sel, vinaigre d'alcool, échalotes, épaississant : gomme xanthane.\n\nPeut contenir des traces de CELERI, ŒUFS, LAIT, POISSON, crustacés, GLUTEN, SOJA, graines de SESAME.\n\nModif…",
+    "scraped_at": "2025-09-25T17:22:15.229Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/dc93be36df6a4b4bbf8a6ab431619fd9/p_1500x1500/03083681179569_A1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/mini-farfalle-poulet-roti-petits-legumes-bonduelle-3083681179569?t=37008",
+    "name": "Mini Farfalle Poulet Roti Petits Légumes BONDUELLE",
+    "price": 1.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients:Pâtes cuites 27% (eau, semoule de BLE dur, OEUFS frais), concombre 16%, maïs doux 16%, tomate 16%, viande de cuisse de poulet traités en salaison rôtie 8% (viande de cuisse de poulet* 7%, eau, dextrose, fécule de manioc, sel), eau, huile de colza, vinaigre d'alcool, purée d'ail, MOUTARDE à l'ancienne, sel, MOUTARDE de Dijon, épaississants: gomme de xanthane et gomme de guar, OEUF en po…",
+    "scraped_at": "2025-09-25T17:22:15.432Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/17ec9836aa003484aaa3f5876eff76d6/p_540x540/3276558108209-photosite-20211012-182945-0.jpg",
+    "url": "https://www.carrefour.fr/p/celeri-rape-sauce-remoulade-carrefour-le-marche-3276558108209?t=37008",
+    "name": "Céleri râpé sauce rémoulade CARREFOUR LE MARCHE",
+    "price": 1.75,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "CELERI râpé 79,5%, huile de colza, eau, MOUTARDE de Dijon 2,2% (eau, graines de MOUTARDE, vinaigre d'alcool, sel), CREME, fraîche fluide, MOUTARDE de Reims 1% (eau, graines de MOUTARDE, vin, vinaigre de vin, sel, sucre, conservateur : SULFITE acide de sodium, épices, antioxydant : acide citrique, épaississant : gomme xanthane), jaune d'OEUF, vinaigre d'alcool, sel, épaississant : gomme xanthane.…",
+    "scraped_at": "2025-09-25T17:22:15.731Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b26a1122b0ca405691e4446d4134f62a/p_1500x1500/03281780893915_A1L1_s09.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-taboule-oriental-a-l-huile-d-olive-vierge-extra-pierre-martinet-3281780893915?t=37008",
+    "name": "Salade Taboulé oriental à l'huile d'olive vierge extra PIERRE MARTINET",
+    "price": 1.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Une recette traditionnelle de taboulé préparée avec de la semoule de blé dur de qualité supérieure, des tomates, de l'huile d'olive vierge extra et des épices … Un savant mélange dont seul Pierre Martinet a le secret.",
+    "scraped_at": "2025-09-25T17:22:16.731Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c822dcb7b19646b49f94060487bb66cf/p_540x540/3560071263379_0.jpg",
+    "url": "https://www.carrefour.fr/p/salades-crudites-macedoine-de-legumes-carrefour-classic-3560071263379?t=37008",
+    "name": "Salades crudités Macédoine de légumes CARREFOUR CLASSIC'",
+    "price": 2.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre macédoine de légumes Carrefour Classic, composée de carottes, petits pois, haricots verts et navets. Un mélange savoureux et coloré qui apportera une touche de fraîcheur à vos plats.",
+    "scraped_at": "2025-09-25T17:22:27.330Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9cacf9981a8d4667abb74e72da2a02ee/p_1500x1500/03281780898699_A1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/salade-scala-pates-tomates-olives-parmigiano-reggiano-pierre-martinet-3281780898699?t=37008",
+    "name": "Salade Scala Pâtes Tomates Olives Parmigiano Reggiano PIERRE MARTINET",
+    "price": 1.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "La cuisine italienne étant la cuisine la plus exportée du monde, Pierre Martinet lance une recette typée « Italie », à base de pâtes Conchiglie et accompagnée de tomates fraîches, olives noires Coquillos, Parmigiano Reggiano, le tout finement relevé d'une touche de basilic qui fera voyager au pays de la Dolce Vita !",
+    "scraped_at": "2025-09-25T17:22:30.651Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e51d940afb41402bb7cb6ad000aeae0c/p_1500x1500/3270190207504_0.jpg",
+    "url": "https://www.carrefour.fr/p/salade-taboule-oriental-carrefour-classic-3270190207504?t=37008",
+    "name": "Salade Taboulé oriental CARREFOUR CLASSIC'",
+    "price": 1.19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre délicieuse salade de semoule de blé dur aux poivrons, tomates et raisins secs, un mélange savoureux de saveurs méditerranéennes. Riche en fibres et en protéines, cette salade fraîche et légère est idéale pour accompagner tous vos repas.",
+    "scraped_at": "2025-09-25T17:22:38.031Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/15a963f9f4ff31579c87e1c183060859/p_1500x1500/3276558108384-photosite-20211012-183228-0.jpg",
+    "url": "https://www.carrefour.fr/p/duo-de-carotte-celeri-rapes-ail-ciboulette-carrefour-le-marche-3276558108384?t=37008",
+    "name": "Duo de carotte céleri râpés ail ciboulette CARREFOUR LE MARCHE",
+    "price": 19,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "CELERI râpé 45%, carottes râpées 32%, huile de colza, eau, sucre, vinaigre d'alcool, MOUTARDE de Dijon (eau, graines de MOUTARDE, vinaigre d'alcool, sel), ciboulette 1,5%, ail 0,5%, sel, échalotes, épaississant : gomme xanthane.\n\nPeut contenir des traces d'ŒUFS, LAIT, POISSON, crustacés, GLUTEN, SOJA, graines de SESAME.\n\nModification tem…",
+    "scraped_at": "2025-09-25T17:22:44.532Z"
+  }
+]

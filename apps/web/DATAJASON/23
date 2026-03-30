@@ -1,0 +1,422 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/0155fe2d1e2b48e5a7e7a008de199e77/p_1500x1500/08710438121605_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/mini-batonnet-mozzarella-sticks-pickers-mccain-8710438121605?t=29589",
+    "name": "Mini bâtonnet mozzarella sticks Pickers MCCAIN",
+    "price": 2.24,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Mini Bâtonnets de Fromage Mozzarella, panés",
+    "scraped_at": "2025-09-25T23:40:19.365Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1956878f222d34d2b214221a7e29b0d1/p_1500x1500/3245414671386-0.jpg",
+    "url": "https://www.carrefour.fr/p/escargots-prepares-belle-grosseur-simpl-3245414671386?t=29589",
+    "name": "Escargots préparés belle grosseur SIMPL",
+    "price": 3.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Chairs d'ESCARGOTS Helix Lucorum (MOLLUSQUE) 50%, BEURRE, margarine (huile de colza, graisse de palme, eau, concentré de jus de citron), persil 7,4%, ail réhydraté 3,7%, échalotte réhydratée, sel, épices et plantes aromatiques CELERI.",
+    "scraped_at": "2025-09-25T23:40:25.172Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/943b96fa9a984309bec28ea70492c318/p_1500x1500/08710438121544_C1N1_s23.jpeg",
+    "url": "https://www.carrefour.fr/p/nacho-cheese-triangles-pickers-mccain-8710438121544?t=29589",
+    "name": "Nacho cheese triangles Pickers MCCAIN",
+    "price": 2.24,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des bouchées croustillantes de forme triangulaire au fromage avec des poivrons rouges et verts et une chapelure composée de petits morceaux de chips de tortilla. Vegan",
+    "scraped_at": "2025-09-25T23:40:46.181Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/cb9f67bf1d8345ac8af2a0252b29f79e/p_1500x1500/03083681166873_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/croustis-mini-mexican-mais-haricot-rouge-cheddar-bonduelle-3083681166873?t=29589",
+    "name": "Croustis Mini Mexican Maïs Haricot Rouge Cheddar BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des légumes gourmands qui vont faire du bruit dans votre assiette ! De bonnnns légumes cuisinés avec touche de fromage, et un max de croustillant !",
+    "scraped_at": "2025-09-25T23:40:51.675Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b2ca626bbda047e0ae0704a619b113bf/p_1500x1500/03083681147834_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/croustis-de-legumes-au-brocoli-bonduelle-3083681147834?t=29589",
+    "name": "Croustis de légumes au brocoli BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des légumes gourmands qui vont faire du bruit dans votre assiette ! De bonnnns légumes cuisinés avec touche de fromage, et un max de croustillant !",
+    "scraped_at": "2025-09-25T23:40:54.776Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/23677f36e0d946cfb29c6ad426726ee2/p_1500x1500/05905279248076_C1N1_s12.jpeg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-gyoza-legumes-ajinomoto-5905279248076?t=29589",
+    "name": "Plat cuisiné Gyoza légumes AJINOMOTO",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Les gyozas : le produit emblématique pour composer son propre repas japonais à la maison",
+    "scraped_at": "2025-09-25T23:40:54.477Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5337421faa9d4e6f89f917c99d655b9a/p_1500x1500/03760184013544_C1N1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/nems-aux-crevettes-deli-s-world-3760184013544?t=29589",
+    "name": "Nems aux crevettes DELI'S WORLD",
+    "price": 5.90,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Incontournables de la cuisine vietnamienne, les nems garnis d'une farce à la crevette accompagnées d'une sauce Nuoc Mam ,vous feront voyager pour un moment convivial en famille ou entre amis.",
+    "scraped_at": "2025-09-25T23:40:56.576Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/641ca04bd1fa3ede9958f605d39e5972/p_1500x1500/3245413588142-0.jpg",
+    "url": "https://www.carrefour.fr/p/feuilletes-au-chevre-et-a-l-epinard-carrefour-3245413588142?t=29589",
+    "name": "Feuilletés au chèvre et à l'épinard CARREFOUR",
+    "price": 4.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieux feuilletés garnis de fromage de chèvre fondant, d'épinards frais et d'une onctueuse sauce blanche à la crème fraîche légère, le tout enveloppé dans une pâte feuilletée pur beurre. Idéal en entrée ou en plat principal, accompagné d'une fraîche salade pour un repas savoureux et croustillant.",
+    "scraped_at": "2025-09-25T23:40:59.277Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5e49970e389f4cc1b22b6a8e3e953a81/p_1500x1500/03083681147957_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/croustis-de-legumes-au-chou-fleur-bonduelle-3083681147957?t=29589",
+    "name": "Croustis de légumes au chou-fleur BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des légumes gourmands qui vont faire du bruit dans votre assiette ! De bonnnns légumes cuisinés avec touche de fromage, et un max de croustillant !",
+    "scraped_at": "2025-09-25T23:41:02.381Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/1e1d2838b8994daaa7319ccc90b6e6c1/p_1500x1500/05905279248069_C1N1_s10.jpeg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-gyoza-poulet-legumes-ajinomoto-5905279248069?t=29589",
+    "name": "Plat cuisiné Gyoza poulet légumes AJINOMOTO",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "De savoureux et authentiques Gyoza Japonais (raviolis à poêler) farcis au poulet et aux légumes. - Bon équilibre entre la saveur poulet et la texture croquante des légumes - Une pâte fine et croustillante",
+    "scraped_at": "2025-09-25T23:41:05.077Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/12e2c6d13f1441f298c376634c2439a0/p_1500x1500/03083681166750_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/croustis-maxi-texas-mais-poivrons-haricots-rouges-bonduelle-3083681166750?t=29589",
+    "name": "Croustis Maxi Texas Maïs Poivrons Haricots Rouges BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des légumes gourmands qui vont faire du bruit dans votre assiette ! De bonnnns légumes cuisinés avec touche de fromage, et un max de croustillant !",
+    "scraped_at": "2025-09-25T23:41:06.478Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/fe123be4129c33e3b0d26db6105cf632/p_1500x1500/3270190021100-0.jpg",
+    "url": "https://www.carrefour.fr/p/crepes-jambon-emmental-carrefour-classic-3270190021100?t=29589",
+    "name": "Crêpes jambon emmental CARREFOUR CLASSIC'",
+    "price": 3.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieuses crêpes garnies de jambon cuit supérieur et d'emmental surgelées, prêtes en seulement 10 à 12 minutes à la poêle. Elles sont réalisées à partir de farine de froment, d'œufs frais et de délicieux ingrédients de qualité. Un vrai plaisir gourmand à partager en famille ou entre amis.",
+    "scraped_at": "2025-09-25T23:41:10.382Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6c6314869bf74cc38048e44e501ddd6c/p_1500x1500/08710438121575_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/italian-pops-cheesy-pickers-mccain-8710438121575?t=29589",
+    "name": "Italian pops cheesy Pickers MCCAIN",
+    "price": 2.24,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des bouchées croustillantes avec garniture au risotto à la tomate et cœur de mozzarella.",
+    "scraped_at": "2025-09-25T23:41:12.377Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c197923f99ca3f2d92e3caaee61c58b1/p_1500x1500/3245414076440-0.jpg",
+    "url": "https://www.carrefour.fr/p/crepes-emmental-carrefour-classic-3245414076440?t=29589",
+    "name": "Crêpes emmental CARREFOUR CLASSIC'",
+    "price": 3.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Dégustez nos délicieuses crêpes-flapjes surgelées à l'emmental, garnies d'une préparation savoureuse et généreuse. Prêtes en seulement 10 à 12 minutes, ces crêpes aux œufs frais sont idéales pour une pause gourmande à tout moment de la journée.",
+    "scraped_at": "2025-09-25T23:41:13.372Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/bddfd4bc2c5f4c1bb05551c40e7b88a8/p_1500x1500/09557477771281_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/crepes-feuilletees-meloui-halal-bladi-9557477771281?t=29589",
+    "name": "Crêpes feuilletées Méloui halal BLADI",
+    "price": 1.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Crêpes Feuilletée halal Nature 400g",
+    "scraped_at": "2025-09-25T23:41:18.877Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/99ea2a1103374b49ae313409409d9256/p_1500x1500/03760197637683_C1N1_s08.jpeg",
+    "url": "https://www.carrefour.fr/p/raviolis-gyoza-crevettes-ajinomoto-3760197637683?t=29589",
+    "name": "Raviolis gyoza crevettes AJINOMOTO",
+    "price": 5.50,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un format plus généreux avec 20 Gyozas crevette à l'intérieur ! Correspond à une cible familiale. Un sachet pratique avec son bandeau supérieur qui permet de le refermer",
+    "scraped_at": "2025-09-25T23:41:20.377Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/012b7ea2e2ac447998536859702cef7a/p_1500x1500/08710438125573_A1N1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/chili-cheese-nuggets-pickers-by-mccain-8710438125573?t=29589",
+    "name": "Chili Cheese Nuggets PICKERS BY MCCAIN",
+    "price": 2.24,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des bouchées croustillantes au fromage et poivrons, avec un coeur au cheddar extra fondant, enrobées d'une panure au riz soufflé extra croustillant. Vegan",
+    "scraped_at": "2025-09-25T23:41:20.779Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9f95377ab5324fbea268f953dde6c7c4/p_1500x1500/03083681166842_H1L1_s01.png",
+    "url": "https://www.carrefour.fr/p/croustis-mini-italian-aubergine-poivron-mozzarella-bonduelle-3083681166842?t=29589",
+    "name": "Croustis Mini Italian Aubergine Poivron Mozzarella BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des légumes gourmands qui vont faire du bruit dans votre assiette ! De bonnnns légumes cuisinés avec touche de fromage, et un max de croustillant !",
+    "scraped_at": "2025-09-25T23:41:26.776Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c6bfe381d67b442b8c9c3ac595b40953/p_1500x1500/03760197637768_C1N1_s09.jpeg",
+    "url": "https://www.carrefour.fr/p/gyoza-boeuf-legumes-ajinomoto-3760197637768?t=29589",
+    "name": "Gyoza bœuf légumes AJINOMOTO",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "De savoureux et authentiques Gyoza Japonais (raviolis à poêler) farcis au bœuf et aux légumes. - Bon équilibre entre la saveur boeuf et la texture croquante des légumes - Une pâte fine et croustillante",
+    "scraped_at": "2025-09-25T23:41:31.173Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6eb6e20d869d451884b41f7dc6052cf9/p_1500x1500/08710438129564_A1N1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/pickers-smoky-cheese-donuts-mccain-8710438129564?t=29589",
+    "name": "Pickers Smoky Cheese Donuts MCCAIN",
+    "price": 2.24,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Beignets de mozzarella enrobés de cornflakes, goût fumé, pré-frits",
+    "scraped_at": "2025-09-25T23:41:32.176Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/919b6af03d5939ada96749a652ff987e/p_1500x1500/03661945010584-d1c1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-gyoza-boeuf-et-poivrons-mei-asia-3661945010584?t=29589",
+    "name": "Plat cuisiné gyoza bœuf et poivrons MEI ASIA",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nFarce 65% : viande de bœuf 36%, mélange de poivrons 18%, oignon, eau, suif de bœuf 10%, sauce SOJA (eau, graine SOJA, BLÉ, sel), ciboulette, arômes, sel, sucre, huile de SESAME grillé, poivre noir, extrait de levure, gingembre en poudre. Pâte 35% : farine de BLÉ, eau, huile de colza, sel.",
+    "scraped_at": "2025-09-25T23:41:32.877Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3dee84f393534aa49bd33a22096bff21/p_1500x1500/03083681166811_H1C1_s01.png",
+    "url": "https://www.carrefour.fr/p/croustis-mini-frenchy-epinard-courgette-chevre-bonduelle-3083681166811?t=29589",
+    "name": "Croustis Mini Frenchy Epinard Courgette Chèvre BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des légumes gourmands qui vont faire du bruit dans votre assiette ! De bonnnns légumes cuisinés avec touche de fromage, et un max de croustillant !",
+    "scraped_at": "2025-09-25T23:41:34.579Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e26e83295d324d48bf2bd0b10f775835/p_1500x1500/03165441660026_A1L1_s01.png",
+    "url": "https://www.carrefour.fr/p/plat-cuisine-galettes-st-jacques-tipiak-3165441660026?t=29589",
+    "name": "Plat cuisiné galettes St Jacques TIPIAK",
+    "price": 4.59,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "S'inspirant des traditions culinaires, Tipiak vous propose de découvrir ses délicieuses galettes saint jacques au beurre persillé, cuisinées en Bretagne, à Fouesnant.",
+    "scraped_at": "2025-09-25T23:41:35.482Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0e08e0d13bb3368e96e4de54d1deb602/p_1500x1500/3289471029117-photosite-20171121-161202-0.jpg",
+    "url": "https://www.carrefour.fr/p/crabes-farcis-la-compagnie-artique-3289471029117?t=29589",
+    "name": "Crabes farcis LA COMPAGNIE ARTIQUE",
+    "price": 5.29,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nCrabes farcis\nEau, chair de CRABE TOURTEAU 20%, surimi saveur CRABE 10% (chair de POISSONS, sucre, stabilisants : sorbitol de BLE, diphosphates, triphosphates et polyphosphates, eau, amidons de BLE, blanc d'OEUF réhydraté, huile de colza, sel, arômes (contient POISSONS et CRUSTACES), exhausteur de goût : glutamate monosodique, colorant : extrait de paprika), préparation pour sauce béchamel (po…",
+    "scraped_at": "2025-09-25T23:41:36.685Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ce8865c3d6c038049df8170375c33c92/p_1500x1500/03760184010048-a1n1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/galette-feuillete-fouree-halal-oummi-3760184010048?t=29589",
+    "name": "Galette feuilleté fourée Halal OUMMI",
+    "price": 3.15,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Prêt à consommer en quelques minutes.",
+    "scraped_at": "2025-09-25T23:41:38.481Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/47fb3768da994d2f9cd73b09b75abba5/p_1500x1500/08710438121636_C1N1_s09.png",
+    "url": "https://www.carrefour.fr/p/onion-rings-crispy-pickers-mccain-8710438121636?t=29589",
+    "name": "Onion rings crispy Pickers MCCAIN",
+    "price": 2.24,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des rondelles d'oignons croustillants. Vegan",
+    "scraped_at": "2025-09-25T23:41:38.781Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3365e95e43ba363c8f93c3d410362e6c/p_1500x1500/03289475001270-c1n1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/paniers-feuilletes-ail-fines-herbes-la-compagnie-artique-3289475001270?t=29589",
+    "name": "Paniers feuilletés ail & fines herbes LA COMPAGNIE ARTIQUE",
+    "price": 4.09,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Composés à 50% de pâte feuilletée et d'une riche garniture de BOURSIN AIL & FINES HERBES, ces paniers sont le symbole du savoir-faire de LA COMPAGNIE ARTIQUE et de la tradition fromagère de BOURSIN. Ils révèlent le subtil mélange du fromage frais connu de tous, dans un enrobage croustillant.",
+    "scraped_at": "2025-09-25T23:41:40.077Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/ef93899f328f42c190372b153bd7cfc5/p_1500x1500/03165440370407_A1N1_s01.png",
+    "url": "https://www.carrefour.fr/p/coquilles-st-jacques-a-la-bretonne-tipiak-3165440370407?t=29589",
+    "name": "Coquilles St-Jacques à la bretonne TIPIAK",
+    "price": 6.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "S'inspirant des traditions culinaires, Tipiak vous propose de découvrir ces délicieuses Coquilles Saint-Jacques à la bretonne qui sauront séduire les gourmands comme les gourmets.",
+    "scraped_at": "2025-09-25T23:41:40.978Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/221a4107b1323371aa28fde1beb477c6/p_1500x1500/3560071427801-0.jpg",
+    "url": "https://www.carrefour.fr/p/friand-feuilletes-jambon-emmental-carrefour-classic-3560071427801?t=29589",
+    "name": "Friand feuilletés jambon emmental CARREFOUR CLASSIC'",
+    "price": 3.45,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez nos délicieux feuilletés au jambon supérieur cuit et à l'emmental français, prêts à cuire. De savoureux ingrédients de qualité dans une pâte feuilletée croustillante pour une expérience gourmande. Cuisinez-les facilement au four pour un délicieux repas en quelques minutes seulement.",
+    "scraped_at": "2025-09-25T23:41:45.385Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/42c2dbf330e2388eb6792a56ca8db842/p_1500x1500/3287370002323-photosite-20170503-162045-0.jpg",
+    "url": "https://www.carrefour.fr/p/tapas-chorizo-bernadet-3287370002323?t=29589",
+    "name": "Tapas chorizo BERNADET",
+    "price": 3.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Eau, chorizo doux 21% (viande de PORC, sel, lactose, dextrine, poivre, dextrose, ail, caséinate, arôme, émulsifiant E450, épices, antioxydant E301, conservateurs E250-E252), flocons de pommes de terre 20%, farine de BLE 7%, blancs d'ŒUFS entiers 7%, LAIT en poudre écrémé 3%, ail en poudre, sel, persil, poivre gris, piment de Cayenne. Huile de friture : pépins de raisin, tournesol, colza.",
+    "scraped_at": "2025-09-25T23:41:46.775Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/dc1cd6b2494d3c318de1f0ea617a21ff/p_1500x1500/03282740318646-a1n1-s01.jpg",
+    "url": "https://www.carrefour.fr/p/coquilles-fruits-de-mer-tipiak-3282740318646?t=29589",
+    "name": "Coquilles fruits de mer TIPIAK",
+    "price": 5.70,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nIngrédients : Ingrédients : eau, moules du Pacifique décoquillées 10% (MOLLUSQUES), colin d'Alaska 10% (POISSONS), crème fraîche (LAIT), crevettes décortiquées 7,5% (CRUSTACÉS), carottes, oignons, courgettes, amidon modifié de manioc, chapelure 3,3% (farine de BLÉ (GLUTEN), eau, sel, levure), ail 3%, beurre 2% (LAIT), LAIT écrémé en poudre, persil 0,7%, sel, vinaigre de vin blanc, jus de citron co…",
+    "scraped_at": "2025-09-25T23:41:48.972Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/e3df15ff39c4460f959a348237a5aee8/p_1500x1500/03083681147926_H1C1_s03.png",
+    "url": "https://www.carrefour.fr/p/croustis-de-legumes-butternut-et-potiron-bonduelle-3083681147926?t=29589",
+    "name": "Croustis de légumes butternut et potiron BONDUELLE",
+    "price": 3.55,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Des légumes gourmands qui vont faire du bruit dans votre assiette ! De bonnnns légumes cuisinés avec touche de fromage, et un max de croustillant !légumes seront ravir les papilles de toute la famille.",
+    "scraped_at": "2025-09-25T23:41:50.482Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d3873a4cbe9d36b4aa8461b6abf07c22/p_1500x1500/03661945010591-d1c1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/gyoza-boeuf-et-celeris-mei-asia-3661945010591?t=29589",
+    "name": "Gyoza bœuf et céleris MEI ASIA",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nFarce 65% : légumes (CELERI 17,7%, oignon), viande de bœuf 36%, eau, suif de bœuf 10%, sauce SOJA (eau, graine SOJA, BLÉ, sel), sel, sucre, huile de SESAME grillé, poivre noir, extrait de levure, gingembre en poudre. Pâte 35% : farine de BLÉ, eau, huile de colza, sel.",
+    "scraped_at": "2025-09-25T23:41:50.777Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a96cf4476ad0417ba6970b22c9ffe9c1/p_1500x1500/03760197637676_C1N1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/raviolis-gyoza-poulet-et-legumes-ajinomoto-3760197637676?t=29589",
+    "name": "Raviolis gyoza poulet et légumes AJINOMOTO",
+    "price": 5.50,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Un format plus généreux avec 20 Gyoza Poulet à l'intérieur ! Correspond à une cible familiale. Un sachet pratique avec son bandeau supérieur qui permet de le refermer.",
+    "scraped_at": "2025-09-25T23:41:50.980Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/9fb610fb0e4a469185897fcac498a104/p_1500x1500/03273310346343_A1R1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/galettes-alsaciennes-pommes-de-terre-oignons-persil-kauffer-s-3273310346343?t=29589",
+    "name": "Galettes Alsaciennes Pommes de Terre, Oignons, Persil KAUFFER'S",
+    "price": 3.69,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ces galettes de pommes de terre raviront les papilles de tous.",
+    "scraped_at": "2025-09-25T23:41:52.578Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/af55867a8c5a30eeb7972b94e8a8f5b2/p_1500x1500/03287370002347-a1r1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/tapas-jambon-sec-bernadet-3287370002347?t=29589",
+    "name": "Tapas jambon sec BERNADET",
+    "price": 3.85,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nEau, Jambon 21,7% (jambon, sel, conservateurs E250-E252, antioxydant E301), flocons de pomme de terre déshydratée (pomme de terre, émulsifiant : mono et diglycérides d'acides gras, épice : curcuma) 16,5%, farine de BLÉ 7%, huile de friture (huile de pépins de raisin, huile de tournesol, huile de colza) 2,9%, LAIT en poudre 3%, blancs d'OEUFS 2,8%, OEUFS entiers 2,8%, ail, sel, persil, poivre.…",
+    "scraped_at": "2025-09-25T23:41:52.880Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5332395f35484eee8638db61a5406d21/p_1500x1500/03165441660002_A1L1_s01.png",
+    "url": "https://www.carrefour.fr/p/galettes-jambon-fromage-tipiak-3165441660002?t=29589",
+    "name": "Galettes jambon fromage TIPIAK",
+    "price": 2.99,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "S'inspirant des traditions culinaires, Tipiak vous propose de découvrir ses délicieuses galettes jambon fromage, cuisinées en Bretagne, à Fouesnant.",
+    "scraped_at": "2025-09-25T23:41:58.078Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/373dcf9c0175402497d3539f7454a064/p_1500x1500/03282741660225_A1L1_s01.png",
+    "url": "https://www.carrefour.fr/p/galette-champignons-jambon-emmental-3282741660225?t=29589",
+    "name": "Galette Champignons Jambon Emmental",
+    "price": 3.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "S'inspirant des traditions culinaires, Tipiak vous propose de découvrir ses délicieuses galettes champignons jambon emmental, cuisinées en Bretagne, à Fouesnant.",
+    "scraped_at": "2025-09-25T23:41:59.981Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2f508f8290e54b57ab4e198a479da429/p_1500x1500/03399852000014_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/glacon-aperitifs-alimentaire-l-aperi-glacon-3399852000014?t=29589",
+    "name": "Glaçon apéritifs alimentaire L'APERI GLACON",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Glaçon alimentaire certifié - +/- 30 glaçons par poche",
+    "scraped_at": "2025-09-25T23:42:03.675Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6e0580d97c1f36ea8a0cf80025fb7ae1/p_1500x1500/03512690004987-c1n1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/m-semen-halal-ilsa-delice-3512690004987?t=29589",
+    "name": "M'semen Halal ILSA DELICE",
+    "price": 2.79,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "PRODUIT CERTIFIE HALAL PAR UN ORGANISME DE CONTROLE INDEPENDANT. CERTIFICATION APPOSEE SUR LE FACING.",
+    "scraped_at": "2025-09-25T23:42:03.886Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/676346950e1d3159a14d723857419c65/p_1500x1500/03661945010577-d1c1-s02.jpg",
+    "url": "https://www.carrefour.fr/p/gyoza-poulet-chou-et-champignons-mei-asia-3661945010577?t=29589",
+    "name": "Gyoza poulet chou et champignons MEI ASIA",
+    "price": 4.49,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nFarce 65% : viande de poulet 40%, chou 13%, champignon shiitake 13%, oignon, sauce SOJA (eau, graine SOJA, BLÉ, sel), arômes, sel, sucre, huile de SESAME grillé, gingembre en poudre, extrait de levure, poivre blanc. Pâte 35% : farine de BLÉ, eau, huile de colza, sel.",
+    "scraped_at": "2025-09-25T23:42:07.777Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/d45c628554c144a5bff6b2ee7a48d2f7/p_1500x1500/03165440302507_A1L1_s01.png",
+    "url": "https://www.carrefour.fr/p/coquilles-st-jacques-a-la-bretonne-tipiak-3165440302507?t=29589",
+    "name": "Coquilles St-Jacques à la bretonne TIPIAK",
+    "price": 5.70,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "S'inspirant des traditions culinaires, TIPIAK vous propose de découvrir ces délicieuses Coquilles Saint-Jacques* à la Bretonne qui sauront séduire les gourmands comme les gourmets.",
+    "scraped_at": "2025-09-25T23:42:08.377Z"
+  }
+]

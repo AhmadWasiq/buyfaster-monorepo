@@ -1,0 +1,72 @@
+<a href="#"
+   class="btn-gradient"
+   aria-label="Start Shopping">
+  <span class="label-default">Start Shopping</span>
+  <span class="label-hover" aria-hidden="true">Get Started</span>
+  <span class="shine" aria-hidden="true"></span>
+</a>
+
+<style>
+  .btn-gradient {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    padding: 0.9rem 1.6rem;
+    border-radius: 50px; /* pill */
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    line-height: 1;
+    background: linear-gradient(199deg, rgb(6, 182, 212) 0%, rgb(20, 20, 20) 100%);
+    box-shadow: 0 10px 20px 1px rgba(0,0,0,0.5);
+    overflow: hidden; /* hide shine overflow */
+    transition: transform .15s ease, box-shadow .15s ease;
+  }
+  .btn-gradient:focus-visible {
+    outline: none;
+    box-shadow:
+      0 10px 20px 1px rgba(0,0,0,0.5),
+      0 0 0 3px rgba(6,182,212,.45),
+      0 0 0 6px rgba(255,255,255,.25);
+  }
+  .btn-gradient:active {
+    transform: translateY(1px) scale(0.99);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.45);
+  }
+
+  /* Text swap (default vs hover) */
+  .label-default, .label-hover {
+    position: relative;
+    transition: opacity .2s ease, transform .2s ease;
+    will-change: transform, opacity;
+  }
+  .label-hover {
+    position: absolute;
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  .btn-gradient:hover .label-default {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  .btn-gradient:hover .label-hover {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Glossy diagonal shine */
+  .shine {
+    position: absolute;
+    inset: -30% -10%; /* overhang so the blur doesn’t show edges */
+    background: rgba(255,255,255,0.3);
+    filter: blur(5px);
+    transform: rotate(45deg) translateY(-120%);
+    transition: transform .6s ease;
+    pointer-events: none;
+  }
+  .btn-gradient:hover .shine {
+    transform: rotate(45deg) translateY(0%);
+  }
+</style>

@@ -1,0 +1,430 @@
+[{
+  "main_image": "https://media.carrefour.fr/medias/eaa00331e8dd3ec6ac595616e3364653/p_540x540/3270190153917-photosite-20211203-232141-0.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-carrefour-extra-3270190153917?t=2132",
+  "name": "Haricots verts extra-fins CARREFOUR EXTRA",
+  "price": 2.45,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nHaricots verts extra-fins, eau, sel.",
+  "scraped_at": "2025-09-24T02:38:10.142Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/d7a69cdff3e44b568234dde4826a5f54/p_1500x1500/03165950221961_D1C1_s01.jpeg",
+  "url": "https://www.carrefour.fr/p/thon-entier-naturel-msc-saupiquet-3165950221961?t=2132",
+  "name": "Thon entier naturel MSC SAUPIQUET",
+  "price": 2.85,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Si notre Thon Entier Nature est si bon, c'est parce que nous y avons ajouté notre touche. Il est issu d'une pêche durable, certifiée MSC, et contient juste ce qu'il faut d'eau pour le rendre si bon et si moelleux, sans avoir besoin de l'égoutter !",
+  "scraped_at": "2025-09-24T02:38:40.743Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/d0dbf93697584a069f7859ccf7d610bf/p_1500x1500/03019089044833_C1N1_s02.jpeg",
+  "url": "https://www.carrefour.fr/p/thon-entier-au-naturel-petit-navire-3019089044833?t=2132",
+  "name": "Thon entier au naturel PETIT NAVIRE",
+  "price": 6.08,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Un thon entier au naturel issu d'une pêcherie engagée dans un programme d'amélioration visant à obtenir la certification MSC.",
+  "scraped_at": "2025-09-24T02:39:09.544Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/53fa15e9d2433531a8b392ada5abdada/p_1500x1500/3560071095826-0.jpg",
+  "url": "https://www.carrefour.fr/p/thon-listao-entier-au-naturel-entier-au-naturel-carrefour-classic-3560071095826?t=2132",
+  "name": "thon listao entier au naturel entier au naturel CARREFOUR CLASSIC'",
+  "price": 3.39,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Offre réservée aux porteurs de la carte PASS. Pour toute commande passée le mardi avec votre carte PASS, bénéficiez de 15% cagnottés sur tous les produits de marques Carrefour.",
+  "scraped_at": "2025-09-24T02:39:16.944Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/4e40cf6e18143fa9b495def0fefd771f/p_1500x1500/5400101015548-photosite-20210126-173133-0.jpg",
+  "url": "https://www.carrefour.fr/p/corned-beef-simpl-5400101015548?t=2132",
+  "name": "Corned beef SIMPL",
+  "price": 2.89,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Bœuf 98,7% (viande de bœuf 55%*, maigre de tête de bœuf, cœur de bœuf), sel, conservateur : nitrite de sodium. Bœuf origine UE. *Exprimé en grammes mis en œuvre pour fabriquer 100 g de produit fini.",
+  "scraped_at": "2025-09-24T02:39:19.038Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/ba7d2afa99df33f5a2ab23a6fb3f66e9/p_540x540/3560071000035-1.jpg",
+  "url": "https://www.carrefour.fr/p/thon-au-naturel-simpl-3560071000035?t=2132",
+  "name": "Thon au naturel SIMPL",
+  "price": 1.09,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nTHON listao (Katsuwonus pelamis), eau, sel.",
+  "scraped_at": "2025-09-24T02:39:19.863Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/c2b3a309bb7d30fdb50d1eaff5e43780/p_1500x1500/3560071095949-0.jpg",
+  "url": "https://www.carrefour.fr/p/thon-entier-a-l-huile-de-tournesol-carrefour-3560071095949?t=2132",
+  "name": "Thon entier à l'huile de tournesol CARREFOUR",
+  "price": 2.49,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "THON LISTAO (Katsuwonus pelamis), huile de tournesol 24,7%, sel.",
+  "scraped_at": "2025-09-24T02:39:27.540Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/5f6376d01e32427ea7edf5f332884aee/p_1500x1500/3560070808762_0.jpg",
+  "url": "https://www.carrefour.fr/p/thon-albacore-entier-au-naturel-entier-au-naturel-carrefour-classic-3560070808762?t=2132",
+  "name": "thon albacore entier au naturel entier au naturel CARREFOUR CLASSIC'",
+  "price": 3.65,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "THON ALBACORE (thunnus albacares), eau, sel. Zone de pêche FAO : voir sur la boîte",
+  "scraped_at": "2025-09-24T02:39:29.046Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/ae2d6f656a604f38ada20f5194da753b/p_1500x1500/3245390135445_0.jpg",
+  "url": "https://www.carrefour.fr/p/pate-de-campagne-breton-lr-reflets-de-france-3245390135445?t=2132",
+  "name": "Pâté de campagne Breton LR REFLETS DE FRANCE",
+  "price": 2.35,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nGorge de porc* (35,9%), foie de porc*, gras de porc*, couenne de porc*, oignons frais, blanc d'ŒUF frais, sel, fécule de pomme de terre, poivre blanc, ail. *Issus de Porc Label Rouge Français.\nPeut contenir des traces de céréales contenant du GLUTEN, MOUTARDE, LAIT et CELERI.",
+  "scraped_at": "2025-09-24T02:39:30.439Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/4a06392422d5371f85273328e7feb486/p_540x540/3560070323067-1.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-carrefour-classic-3560070323067?t=2132",
+  "name": "Haricots verts extra-fins CARREFOUR CLASSIC'",
+  "price": 1.20,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nHaricots verts extra-fins, eau, sel.",
+  "scraped_at": "2025-09-24T02:39:34.842Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/d1b708446608496d8b5d87d57c3260a7/p_1500x1500/03083681127850_A1C1_s01.png",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-bonduelle-3083681127850?t=2132",
+  "name": "Haricots verts extra-fins BONDUELLE",
+  "price": 1.95,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Cultivés dans le sud-ouest de la France, les haricots verts Bonduelle sont soigneusement sélectionnés, cueillis à maturité et mis en boîte dans la journée. Ils ont ainsi une tenue idéale pour toutes vos recettes, en salade ou à la poêle ! De l'eau, du sel et c'est tout !",
+  "scraped_at": "2025-09-24T02:39:39.339Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/b85258cbde6c3f5ebd6259327059f44a/p_1500x1500/3270190192749-0.jpg",
+  "url": "https://www.carrefour.fr/p/tomates-entieres-pelees-au-jus-carrefour-classic-3270190192749?t=2132",
+  "name": "Tomates entières pelées au jus CARREFOUR CLASSIC'",
+  "price": 1.45,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Tomates entières pelées 60%, jus de tomates, sel, acidifiant : acide citrique, affermissant : chlorure de calcium.",
+  "scraped_at": "2025-09-24T02:39:43.139Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/edad88e630d84b05a417b032476c10dc/p_540x540/3560070837915_0.jpg",
+  "url": "https://www.carrefour.fr/p/champignons-de-paris-eminces-carrefour-classic-3560070837915?t=2132",
+  "name": "Champignons de Paris émincés CARREFOUR CLASSIC'",
+  "price": 2.89,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nChampignons de Paris, eau, sel, acidifiant : acide citrique.",
+  "scraped_at": "2025-09-24T02:39:43.484Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/4f2f3fbb927b3441842d510ad44c8811/p_1500x1500/3560070329410-photosite-20210504-175343-0.jpg",
+  "url": "https://www.carrefour.fr/p/pois-chiches-carrefour-classic-3560070329410?t=2132",
+  "name": "Pois chiches CARREFOUR CLASSIC'",
+  "price": 1.19,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nPois chiches secs trempés, eau, sel.",
+  "scraped_at": "2025-09-24T02:39:46.640Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/78aaed56f6de4f31a2238ed4a7f24102/p_1500x1500/3560071175733_0.jpg",
+  "url": "https://www.carrefour.fr/p/filets-de-maquereaux-vin-blanc-aromates-carrefour-extra-3560071175733?t=2132",
+  "name": "Filets de maquereaux vin blanc & aromates CARREFOUR EXTRA",
+  "price": 1.25,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Filets de MAQUEREAUX 59,7% (Scomber scombrus), eau, vinaigre de vin blanc*, vinaigre d'alcool*, vin blanc* 2,9%, carotte 2,8%, cornichon 2,8% (cornichon 2,6%, sel, vinaigre d'alcool, affermissant : chlorure de calcium), oignons 2,3%, poivron rouge 2,3%, sel, fumet de POISSON (sel, maltodextrine de pomme de terre, POISSON déshydraté, plantes aromatiques, arômes naturels, extrait de curcuma), sel, p…",
+  "scraped_at": "2025-09-24T02:39:49.245Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/2da672e6024b36cabbb1cdbfe1590679/p_1500x1500/3245390140388-0.jpg",
+  "url": "https://www.carrefour.fr/p/thon-blanc-au-naturel-reflets-de-france-3245390140388?t=2132",
+  "name": "Thon blanc au naturel REFLETS DE FRANCE",
+  "price": 3.09,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nTHON BLANC (Thunnus alalunga), eau, sel.",
+  "scraped_at": "2025-09-24T02:39:57.545Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/c4db76b4a8a148848e56574214ee2725/p_540x540/3560070329441_0.jpg",
+  "url": "https://www.carrefour.fr/p/lentilles-carrefour-classic-3560070329441?t=2132",
+  "name": "Lentilles CARREFOUR CLASSIC'",
+  "price": 0.69,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Eau, lentilles sèches, sel, affermissant : chlorure de calcium, antioxydant : acide ascorbique.\nPeut contenir des traces de céréales contenant du GLUTEN",
+  "scraped_at": "2025-09-24T02:40:02.944Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/19841af5033b3e259c7ccd7f9644960e/p_1500x1500/3245390121387-0.jpg",
+  "url": "https://www.carrefour.fr/p/thon-blanc-huile-d-olive-vierge-extra-reflets-de-france-3245390121387?t=2132",
+  "name": "Thon blanc huile d'olive vierge extra REFLETS DE FRANCE",
+  "price": 3.49,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "THON BLANC (Thunnus alalunga), huile d'olive vierge extra 34%, sel.",
+  "scraped_at": "2025-09-24T02:40:03.739Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/efc5e7fab68748e7a7dd9dfd29caff2b/p_1500x1500/3560070272129_0.jpg",
+  "url": "https://www.carrefour.fr/p/preparation-a-base-de-thon-aux-herbes-de-thon-carrefour-classic-3560070272129?t=2132",
+  "name": "préparation à base de thon aux herbes de thon CARREFOUR CLASSIC'",
+  "price": 1.89,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "THON listao (katsuwonus pelamis) 50 %, eau, huile de tournesol, fibres de canne à sucre, oignon, sel, PROTÉINES DE LAIT, épaississant : gomme guar, ciboulette, poivre, ail, persil, cerfeuil. Zone de pêche : voir sur la boîte",
+  "scraped_at": "2025-09-24T02:40:05.149Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/cb46705a79d437b9b5c48506652ca078/p_1500x1500/3560070544714-photosite-20201116-103144-0.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-beurre-coupes-carrefour-classic-3560070544714?t=2132",
+  "name": "Haricots verts & beurre coupés CARREFOUR CLASSIC'",
+  "price": 1.19,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Légumes en proportions variables (haricots verts coupés, haricots beurre coupés), eau, sel.",
+  "scraped_at": "2025-09-24T02:40:09.552Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/f993d3c2743d3443bbe81f86f5c9b757/p_1500x1500/3560070907472-photosite-20201006-163738-0.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-et-beurre-extra-fins-carrefour-extra-3560070907472?t=2132",
+  "name": "Haricots verts et beurre extra-fins CARREFOUR EXTRA",
+  "price": 2.35,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Eau, haricots verts extra-fins 26%, haricots beurre extra-fins 26%, sel, acidifiant : acide citrique.",
+  "scraped_at": "2025-09-24T02:40:17.039Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/c001c4ddba123691b94fda31b5c1213a/p_540x540/3560070752096-photosite-20201116-103701-0.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-et-beurre-carrefour-classic-3560070752096?t=2132",
+  "name": "Haricots verts et beurre CARREFOUR CLASSIC'",
+  "price": 2.25,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Légumes en proportion variable (haricots verts coupés, haricots beurre coupés), eau, sel.",
+  "scraped_at": "2025-09-24T02:40:18.745Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/d01c99148b643ec0ae9d18d290d01fd7/p_1500x1500/3560071170318-photosite-20180427-161418-0.jpg",
+  "url": "https://www.carrefour.fr/p/pate-de-campagne-superieur-bio-carrefour-bio-3560071170318?t=2132",
+  "name": "Pâté de campagne supérieur Bio CARREFOUR BIO",
+  "price": 2.79,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nPâté de campagne supérieur issu de l'agriculture biologique\nViande de porc* 41,9%, foie de porc* 23%, gras de porc* 14,3%, ŒUF*, oignon*, vin blanc*, sel, farine de BLE*, ail*, poivre blanc*, thym en poudre*. *Ingrédients issus de l'agriculture biologique.\nPeut contenir des traces de LAIT, SOJA, CELERI, FRUITS A COQUES, mollusques, crustacés, POISSONS, MOUTARDE",
+  "scraped_at": "2025-09-24T02:40:21.548Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/ae8b6ff3830e4aeaad4934f0c294f389/p_1500x1500/3560071379742_0.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-tres-fins-coupes-carrefour-classic-3560071379742?t=2132",
+  "name": "Haricots verts très fins coupés CARREFOUR CLASSIC'",
+  "price": 2.02,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nHaricots verts, eau, sel.",
+  "scraped_at": "2025-09-24T02:40:22.044Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/81b8a8a917d239febee59f3302062f05/p_540x540/3560070539208-0.jpg",
+  "url": "https://www.carrefour.fr/p/petits-pois-carottes-extra-fins-carrefour-classic-3560070539208?t=2132",
+  "name": "Petits pois carottes extra-fins CARREFOUR CLASSIC'",
+  "price": 1.35,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Légumes en proportion variable (carottes, petits pois), eau, sucre, sel.",
+  "scraped_at": "2025-09-24T02:40:32.544Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/720f6c8e66053a45aad4090ef97b5a06/p_1500x1500/3560070859450-1.jpg",
+  "url": "https://www.carrefour.fr/p/petits-pois-carottes-tres-fins-simpl-3560070859450?t=2132",
+  "name": "Petits pois carottes très fins SIMPL",
+  "price": 1.25,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Légumes en proportion variable (carottes, petits pois), eau, sucre, sel.",
+  "scraped_at": "2025-09-24T02:40:33.041Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/efd8e071f6064c73a9f6e66503fcd9c5/p_1500x1500/03017800207901_C1N1_s13.png",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-d-aucy-3017800207901?t=2132",
+  "name": "Haricots verts extra-fins D'AUCY",
+  "price": 1.79,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Nos haricots verts extra fins sont cultivés en plein champ en France, récoltés en saison et à bonne maturité. Ces haricots verts sont cultivés en France.",
+  "scraped_at": "2025-09-24T02:40:35.943Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/e9f5d940c3283f188b7c6346024b88f6/p_1500x1500/3560071139346-photosite-20180427-161248-0.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-coupes-bio-carrefour-bio-3560071139346?t=2132",
+  "name": "Haricots verts extra fins coupés Bio CARREFOUR BIO",
+  "price": 1.99,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Haricots verts extra fins coupés issus de l'agriculture biologique\nHaricots verts extra-fins coupés bio, eau, sel de mer.",
+  "scraped_at": "2025-09-24T02:40:39.248Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/a301300f8bda4da99b63cc360dd6a28c/p_1500x1500/3245390125712_0.jpg",
+  "url": "https://www.carrefour.fr/p/pate-au-piment-d-espelette-reflets-de-france-3245390125712?t=2132",
+  "name": "Pâté au piment d'Espelette REFLETS DE FRANCE",
+  "price": 2.35,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Gorge de porc, foie de porc, lard de porc, blanc d'ŒUF, oignons hachés, sel, ail, piment d'Espelette AOP en poudre 0,5%, poivre noir. Fabriqué avec du porc origine France.",
+  "scraped_at": "2025-09-24T02:40:41.244Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/ca50f0643adc3ff595675bfdd50529fb/p_540x540/3560071249540-photosite-20201013-172059-0.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fin-carrefour-extra-3560071249540?t=2132",
+  "name": "Haricots verts extra-fin CARREFOUR EXTRA",
+  "price": 2.95,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Haricots verts extra-fins, eau, oignon grelot 0,6% (dont conservateur : DISULFITE de sodium), sel.",
+  "scraped_at": "2025-09-24T02:40:48.543Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/a87077ebd6ce401b9a94fe993147a0a8/p_1500x1500/03083680482042_A1C1_s01.png",
+  "url": "https://www.carrefour.fr/p/petits-pois-carottes-tendres-et-fondants-cassegrain-3083680482042?t=2132",
+  "name": "Petits pois carottes tendres et fondants CASSEGRAIN",
+  "price": 1.29,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Découvrez le fondant des petits pois carottes Cassegrain soigneusement sélectionnés.",
+  "scraped_at": "2025-09-24T02:40:54.540Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/757fc048c66747988c7c6a24c60a35cf/p_1500x1500/03083680481991_A1C1_s01.png",
+  "url": "https://www.carrefour.fr/p/petits-pois-carottes-cassegrain-3083680481991?t=2132",
+  "name": "Petits pois carottes CASSEGRAIN",
+  "price": 2.95,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Découvrez le fondant des petits pois carottes Cassegrain soigneusement sélectionnés.",
+  "scraped_at": "2025-09-24T02:40:56.439Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/6a3127d7534b3593a918789e0254d8b5/p_1500x1500/3560070334940-1.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-tres-fins-simpl-3560070334940?t=2132",
+  "name": "Haricots verts très fins SIMPL",
+  "price": 1.12,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Haricots verts, eau, sel, acidifiant : acide citrique.",
+  "scraped_at": "2025-09-24T02:40:56.847Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/60abada6e51a485c8e3b5850b8efd6b8/p_1500x1500/03255691007655_C1N1_s01.png",
+  "url": "https://www.carrefour.fr/p/haricots-verts-bio-extra-fins-rochefontaine-3255691007655?t=2132",
+  "name": "Haricots verts bio extra fins ROCHEFONTAINE",
+  "price": 2.85,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "HARICOTS VERTS EXTRA FINS BIO CUEILLIS ET RANGES A LA MAIN",
+  "scraped_at": "2025-09-24T02:40:57.243Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/b0315284709d4942a3c210d05c803cac/p_1500x1500/03083681127881_A1C1_s01.png",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-sans-residu-de-pesticides-bonduelle-3083681127881?t=2132",
+  "name": "Haricots verts extra-fins sans résidu de pesticides BONDUELLE",
+  "price": 2.99,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Les haricots verts sans résidus de pesticides, tels que la nature nous les donne ! Cultivés en France et garantis sans résidus de pesticides, nos haricots verts sont soigneusement sélectionnés, cueillis à maturité, récoltés et mis en boite dans la même journée. Ils sont sans conservateur.",
+  "scraped_at": "2025-09-24T02:40:58.643Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/ff37a500bbf4497ea82f33a4574f13f2/p_1500x1500/03760020505943_H1N1_s12.png",
+  "url": "https://www.carrefour.fr/p/haricots-verts-sans-sel-ajoute-bio-jardin-bio-etic-3760020505943?t=2132",
+  "name": "Haricots verts sans sel ajouté Bio JARDIN BIO ETIC",
+  "price": 4.49,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Jardin Bio étic© vous propose de délicieux haricots verts extra fins Bio cueillis et rangés main. A déguster en accompagnement de viande ou de poisson, ou en salade ! Bon appétit !",
+  "scraped_at": "2025-09-24T02:41:04.041Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/7917ae4be0c336239df1a648c361f49b/p_1500x1500/3560070539147-photosite-20210219-181311-0.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-carrefour-classic-3560070539147?t=2132",
+  "name": "Haricots verts extra-fins CARREFOUR CLASSIC'",
+  "price": 2.09,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nHaricots verts extra-fins, eau, sel.",
+  "scraped_at": "2025-09-24T02:41:06.339Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/f208d3dcf0303db5b07f5e0e703a28cf/p_1500x1500/3560071132934-photosite-20210622-184500-0.jpg",
+  "url": "https://www.carrefour.fr/p/petits-pois-carottes-en-rondelles-bio-carrefour-bio-3560071132934?t=2132",
+  "name": "Petits pois carottes en rondelles Bio CARREFOUR BIO",
+  "price": 2.30,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nLégumes en proportion variable (petits pois bio, carottes bio), eau, sel de mer.",
+  "scraped_at": "2025-09-24T02:41:07.943Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/436a6c0981f549f1a99049aa955b3995/p_1500x1500/03017800503508_C1N1_s02.png",
+  "url": "https://www.carrefour.fr/p/haricots-verts-bien-cultives-d-aucy-3017800503508?t=2132",
+  "name": "Haricots verts Bien cultivés D'AUCY",
+  "price": 2.15,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Nos haricots verts Bien Cultivés d'aucy sont cultivés en plein champ en France, récoltés en saison et à bonne maturité. Ils sont issus d'une exploitation certifiée Haute Valeur Environnementale qui garantit des pratiques agricoles préservant l'écosystème naturel et l'environnement. Ces haricots verts sont cultivés en France.",
+  "scraped_at": "2025-09-24T02:41:09.544Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/6d9594552ce935e7a1dc265889c15b77/p_1500x1500/3560071483821-0.jpg",
+  "url": "https://www.carrefour.fr/p/petits-pois-carottes-tres-fins-a-l-etuvee-carrefour-classic-3560071483821?t=2132",
+  "name": "Petits pois carottes très fins à l'étuvée CARREFOUR CLASSIC'",
+  "price": 0.95,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Légumes (carottes 32%, petits pois 30%), eau, sucre, sel, arôme naturel d'épices.",
+  "scraped_at": "2025-09-24T02:41:19.239Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/ca94177230b3453fb66dd71143871a96/p_1500x1500/03307130801154_H1N1_s51.png",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-bio-jardin-bio-etic-3307130801154?t=2132",
+  "name": "Haricots verts extra-fins Bio JARDIN BIO ETIC",
+  "price": 2.79,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Jardin Bio étic© vous propose de délicieux haricots verts extra-fins coupés 100% bio. A déguster en accompagnement de viande ou poisson, ou en salade ! Bon appétit ! Haricots verts extra fins Origine France Garantie Haricots verts France 1% for the planet 100% Bio",
+  "scraped_at": "2025-09-24T02:41:24.939Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/b55108a5b6e533ecbde88f50e4a8858d/p_540x540/3560070657636-photosite-20210219-180847-0.jpg",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-coupes-carrefour-classic-3560070657636?t=2132",
+  "name": "Haricots verts extra-fins coupés CARREFOUR CLASSIC'",
+  "price": 1.35,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Ingrédients (dont ALLERGÈNES)\n\nVoir plus\n\nHaricots verts extra-fins coupés, eau, sel.",
+  "scraped_at": "2025-09-24T02:41:29.640Z"
+},
+{
+  "main_image": "https://media.carrefour.fr/medias/2a1c5ef2863c419498d293c89ae776b1/p_1500x1500/03083681094923_H1C1_s01.png",
+  "url": "https://www.carrefour.fr/p/haricots-verts-extra-fins-cueillis-main-cassegrain-3083681094923?t=2132",
+  "name": "Haricots verts extra-fins cueillis main CASSEGRAIN",
+  "price": 2.25,
+  "regular_price": 0,
+  "currency": "EUR",
+  "description": "Soigneusement sélectionnés, délicatement cueillis puis rangés à la main, la saveur unique de ces haricots verts ravit les papilles.",
+  "scraped_at": "2025-09-24T02:41:31.141Z"
+}]

@@ -1,0 +1,322 @@
+[
+  {
+    "main_image": "https://media.carrefour.fr/medias/fe42ee6fe7884e179b7784e0d54f5808/p_1500x1500/03428272070090_C1L1_s03.png",
+    "url": "https://www.carrefour.fr/p/lait-aux-10-vitamines-lactel-3428272070090?t=29297",
+    "name": "Lait Aux 10 Vitamines LACTEL",
+    "price": 7.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Ce lait, destiné à toute la famille, vous permettra de bien démarrer la journée en faisant le plein de vitamines !",
+    "scraped_at": "2025-09-24T22:16:53.974Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/c0973a71088946b89f4161584921d13f/p_1500x1500/03428272110017_H1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-bio-sans-lactose-uht-1-2-mg-matin-leger-lactel-3428272110017?t=29297",
+    "name": "Lait Bio Sans Lactose Uht 1,2% mg Matin Léger LACTEL",
+    "price": 2.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Matin Léger® Bio de Lactel est un lait biologique facile à digérer car il contient seulement 0,1% de lactose. Il vous assure la confiance, et le bon goût d'un lait issu de l'agriculture biologique Apporte autant de Calcium et de Protéines que le lait Lactel Classique",
+    "scraped_at": "2025-09-24T22:16:57.974Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/8b6c2cd7939638468e37fe72a9d48633/p_1500x1500/3700819800026-0.jpg",
+    "url": "https://www.carrefour.fr/p/lait-demi-ecreme-sterilise-uht-fairefrance-3700819800026?t=29297",
+    "name": "Lait Demi-Ecreme Stérilisé UHT FAIREFRANCE",
+    "price": 7.44,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Avant ouverture, se conserve sans réfrigération jusqu'à la date indiquée au dessus de la brique. Après ouverture conserver au froid et consommer dans les 5 jours.",
+    "scraped_at": "2025-09-24T22:17:01.973Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/5f8d4100ed6e40909ec6b40ebe3f624f/p_1500x1500/03428272040055_H1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-sans-lactose-uht-ecreme-matin-leger-lactel-3428272040055?t=29297",
+    "name": "Lait Sans lactose UHT Ecrémé Matin Léger LACTEL",
+    "price": 1.95,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Matin Léger® de Lactel est un lait facile à digérer car il contient seulement 0,1% de lactose. Il convient aux personnes qui ont des difficultés à digérer le lait, à cause du lactose qu'il contient, et qui veulent continuer à profiter de tous ses bienfaits et de son bon goût ! Apporte autant de Calcium et de Protéines que le lait Lactel Classique.",
+    "scraped_at": "2025-09-24T22:17:06.577Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/87648bebc37e4732a6d31c0498999ea9/p_1500x1500/03176571991003_H1L1_s12.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-vitamine-viva-candia-3176571991003?t=29297",
+    "name": "Lait vitaminé Viva CANDIA",
+    "price": 6.90,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Comme le lait demi-écrémé, Viva vous accompagne dès le petit déjeuner ! Source de 12 vitamines, Viva est le lait de la vitalité* pour toute la famille. Il contient les vitamines B1, B2, PP, B5, B6, B8 et B12, qui contribuent à un métabolisme énergétique normal. Il est aussi riche en vitamine D qui aide à fixer le calcium sur les os.",
+    "scraped_at": "2025-09-24T22:17:07.374Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2d60b539d1ff4d8cbdc99e6c4a8a0d01/p_1500x1500/03533631933005_C1L1_s12.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-vitamine-viva-candia-3533631933005?t=29297",
+    "name": "Lait Vitaminé Viva CANDIA",
+    "price": 4.02,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Comme le lait demi-écrémé, Viva vous accompagne dès le petit déjeuner ! Source de 12 vitamines, Viva est le lait de la vitalité* pour toute la famille. Il contient les vitamines B1, B2, PP, B5, B6, B8 et B12, qui contribuent à un métabolisme énergétique normal. Il est aussi riche en vitamine D qui aide à fixer le calcium sur les os.",
+    "scraped_at": "2025-09-24T22:17:09.374Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/2bb3e0579c5f42dfbbe48592448cafbf/p_1500x1500/03176571989000_C1L1_s07.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-vitamine-viva-candia-3176571989000?t=29297",
+    "name": "Lait vitaminé Viva CANDIA",
+    "price": 5.88,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Comme le lait demi-écrémé, Viva vous accompagne dès le petit déjeuner ! Source de 12 vitamines, Viva est le lait de la vitalité* pour toute la famille. Il contient les vitamines B1, B2, PP, B5, B6, B8 et B12, qui contribuent à un métabolisme énergétique normal. Il est aussi riche en vitamine D qui aide à fixer le calcium sur les os.",
+    "scraped_at": "2025-09-24T22:17:09.877Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/533a509d0c6c49b8897e37c9f4f27067/p_1500x1500/03176571959003_A1L1_s07.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-vitamine-viva-candia-3176571959003?t=29297",
+    "name": "Lait vitaminé Viva CANDIA",
+    "price": 7.92,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Comme le lait demi-écrémé, Viva vous accompagne dès le petit déjeuner ! Source de 12 vitamines, Viva est le lait de la vitalité* pour toute la famille. Il contient les vitamines B1, B2, PP, B5, B6, B8 et B12, qui contribuent à un métabolisme énergétique normal. Il est aussi riche en vitamine D qui aide à fixer le calcium sur les os.",
+    "scraped_at": "2025-09-24T22:17:10.474Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/035c535003584d8a8dc86575992d76e7/p_1500x1500/03176571744289_H1L1_s11.jpeg",
+    "url": "https://www.carrefour.fr/p/boisson-lactee-chocolat-candy-up-candia-3176571744289?t=29297",
+    "name": "Boisson lactée chocolat Candy'Up CANDIA",
+    "price": 2.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le bon goût d'un Candy'Up de Candia au petit déjeuner ou au goûter : pour le plus grand plaisir des plus petits et des plus grands ! Une recette gourmande sans colorant, sans arôme artificiel et sans conservateur, avec du lait 100% français et qui enregistre B au nutri-score !",
+    "scraped_at": "2025-09-24T22:17:12.578Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a60b1c4c2be943a2ae1d46a3eb2ad164/p_1500x1500/03428272950064_H1L1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-bio-demi-ecreme-uht-lactel-3428272950064?t=29297",
+    "name": "Lait Bio Demi-Ecrémé UHT LACTEL",
+    "price": 9.36,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Savez-vous pourquoi Lactel Bio et Engagé est si bon ? C'est pour plein de bonnes raisons : - Des vaches au pré dès que le temps le permet* et ateliers de formations au bien-être animal pour les éleveurs. - Des vaches bien nourries, en privilégiant une alimentation biologique et garantie sans OGM (",
+    "scraped_at": "2025-09-24T22:17:12.877Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/68db8c45df1c45e4905724e3f8f27ecc/p_1500x1500/03252210490110_H1L1_s03.png",
+    "url": "https://www.carrefour.fr/p/lait-demi-ecreme-uht-vitamine-d-lactel-3252210490110?t=29297",
+    "name": "Lait Demi-Ecrémé UHT Vitamine D LACTEL",
+    "price": 7.56,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le lait Lactel stérilisé UHT enrichi en vitamine D, est le lait de toute la famille qui participe à l'entretien de notre capital osseux, dans le cadre d'une alimentation équilibrée : la vitamine D contenue dans le lait LACTEL aide le calcium à bien se fixer sur les os, pour des os solides.",
+    "scraped_at": "2025-09-24T22:17:14.578Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/0b6bd62871cf43b4b3b9b3427c104d90/p_1500x1500/03533630900015_H1L1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-sans-lactose-1-mg-candia-3533630900015?t=29297",
+    "name": "Lait sans lactose 1% MG CANDIA",
+    "price": 9.54,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le Sans lactose, une alternative au lait demi écrémé pour les intolérants au lactose. Réveillez-vous sur un petit nuage avec le Lait Sans Lactose de Candia. Un lait 100% français, au goût tout doux et facile à digérer. Contenant moins de 0,1% de lactose, Candia Le Lait Sans Lactose est plus facile à digérer qu'un lait classique.",
+    "scraped_at": "2025-09-24T22:17:15.176Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/54049cf851144466aa6c1d75ec2a4432/p_1500x1500/03176571744067_H1L1_s10.jpeg",
+    "url": "https://www.carrefour.fr/p/boisson-lactee-vanille-candy-up-candia-3176571744067?t=29297",
+    "name": "Boisson lactée vanille Candy'Up CANDIA",
+    "price": 2.89,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le bon goût d'un Candy'Up de Candia au petit déjeuner ou au goûter : pour le plus grand plaisir des plus petits et des plus grands ! Une recette gourmande sans colorant, sans arôme artificiel et sans conservateur, avec du lait 100% français et qui enregistre B au nutri-score !",
+    "scraped_at": "2025-09-24T22:17:17.073Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/34f6562cee224652bafbdfc742de1612/p_1500x1500/03428273000041_H1L1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-sans-lactose-uht-1-2-mg-matin-leger-lactel-3428273000041?t=29297",
+    "name": "Lait Sans Lactose Uht 1,2% mg Matin Léger LACTEL",
+    "price": 6.90,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Matin Léger® de Lactel est un lait facile à digérer car il contient seulement 0,1% de lactose. Il convient aux personnes qui ont des difficultés à digérer le lait, à cause du lactose qu'il contient, et qui veulent continuer à profiter de tous ses bienfaits et de son bon goût ! Apporte autant de Calcium et de Protéines que le lait Lactel Classique.",
+    "scraped_at": "2025-09-24T22:17:18.976Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a6c28eca2e1647dd98f31bcdd346db66/p_1500x1500/03533631836009_A1L1_s05.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-demi-ecreme-bio-grandlait-candia-3533631836009?t=29297",
+    "name": "Lait demi-écrémé Bio Grandlait CANDIA",
+    "price": 10.62,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "GrandLait Bio Demi-écrémé est un lait Bio issu de coopérative et 100% français. Il est intégré dans la démarche Le Bio Pré de Vous, avec des fermes de 60 vaches en moyenne (à juillet 2023), au pâturage >180j/an, un engagement de maîtrise de l'empreinte carbone et une meilleure rémunération des éleveurs. GrandLait Bio se positionne pour des emballages plus durables : film comportant au moins 50% de matières recyclées et utilisation d'une nouvelle approche de recyclage pour ses bouteilles (équilibre des masses).",
+    "scraped_at": "2025-09-24T22:17:20.177Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/4f8c8fb56ba04018a83cba1d5c7f0635/p_1500x1500/03428271240012_H1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-vita-vie-12-vitamines-1-mg-lactel-3428271240012?t=29297",
+    "name": "Lait Vita Vie 12 vitamines 1% MG LACTEL",
+    "price": 1.18,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le lait Lactel Vita'Vie est un lait 100% Français et adapté à toute la famille. Enrichi en 12 vitamines essentielles, Lactel Vita'Vie vous offre la garantie de profiter des bienfaits naturels du lait tout en faisant le plein d'énergie pour vivre une journée pleine de vitalité. Grâce notamment aux vitamines B et D, Lactel Vita'Vie contribue à votre bien-être en permettant le fonctionnement normal de votre système immunitaire et de votre métabolisme tout en préservant le plaisir et la douceur du lait.",
+    "scraped_at": "2025-09-24T22:17:22.473Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/19a49edbf13a4d868b42205c56d6743b/p_1500x1500/03428273980046_H1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-sans-lactose-uht-1-2-mg-matin-leger-lactel-3428273980046?t=29297",
+    "name": "Lait Sans Lactose Uht 1,2% mg Matin Léger LACTEL",
+    "price": 1.81,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Matin Léger® de Lactel est un lait facile à digérer car il contient seulement 0,1% de lactose. Il convient aux personnes qui ont des difficultés à digérer le lait, à cause du lactose qu'il contient, et qui veulent continuer à profiter de tous ses bienfaits et de son bon goût ! Apporte autant de Calcium et de Protéines que le lait Lactel Classique.",
+    "scraped_at": "2025-09-24T22:17:22.578Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/531106cca2b23787aeac2a2e5387c963/p_1500x1500/3560071268152-photosite-20210317-013131-0.jpg",
+    "url": "https://www.carrefour.fr/p/lait-demi-ecreme-simpl-3560071268152?t=29297",
+    "name": "Lait demi-écrémé SIMPL",
+    "price": 5.64,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Valeurs nutritionnelles\n\nVoir plus\n\nTableau de valeurs nutritionnelles brief\nValeurs nutritionnelles pour 100 ml Taux d'apports journaliers pour 100 ml ﹡ Apport de référence pour un adulte type (8400 kj / 2000 kcal)\nValeur énergétique (kJ) 197 kJ / 100 ml\nValeur énergétique (kcal) 47 kcal / 100 ml\nMatieres grasses 1.6 g / 100 ml\nDont acides gras saturés 1 g / 100 ml\n\n﹡ Apport de référence pour un adulte type (8400 kj / 2000 kcal)",
+    "scraped_at": "2025-09-24T22:17:23.472Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a6325847d4f54b1598341660e798a454/p_1500x1500/03428272950057_H1C1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-bio-demi-ecreme-uht-lactel-3428272950057?t=29297",
+    "name": "Lait Bio Demi-Ecrémé UHT LACTEL",
+    "price": 1.56,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Savez-vous pourquoi Lactel Bio et Engagé est si bon ? C'est pour plein de bonnes raisons : - Des vaches au pré dès que le temps le permet* et ateliers de formations au bien-être animal pour les éleveurs. - Des vaches bien nourries, en privilégiant une alimentation biologique et garantie sans OGM (",
+    "scraped_at": "2025-09-24T22:17:23.672Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/22eae3e507f3423f9b20de02410bb698/p_1500x1500/03428272110024_H1L1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-bio-sans-lactose-uht-1-2-mg-matin-leger-lactel-3428272110024?t=29297",
+    "name": "Lait Bio Sans Lactose Uht 1,2% mg Matin Léger LACTEL",
+    "price": 14.34,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Matin Léger® Bio de Lactel est un lait biologique facile à digérer car il contient seulement 0,1% de lactose. Il vous assure la confiance, et le bon goût d'un lait issu de l'agriculture biologique Apporte autant de Calcium et de Protéines que le lait Lactel Classique",
+    "scraped_at": "2025-09-24T22:17:24.677Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/bdd3aaa7ea784ab59b3317b5ef499a8d/p_1500x1500/03533631574000_H1L1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-demi-ecreme-grandlait-candia-3533631574000?t=29297",
+    "name": "Lait demi-écrémé Grandlait CANDIA",
+    "price": 6.96,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "GrandLait Demi-écrémé de Candia est un lait 100% français. Issu de la plus grande coopérative laitière de France et garantit une rémunération solidaire à ses éleveurs . Ce lait est synonyme de qualité et de savoir-faire avec sa charte de qualité. Celle-ci soutient les agriculteurs pour améliorer leurs pratiques d'élevage, privilégiant le bien-être animal et une empreinte environnementale maîtrisée. GrandLait intègre à ses packs un film comportant au moins 50% de matières recyclées.",
+    "scraped_at": "2025-09-24T22:17:25.780Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/754dfff63d1441d497d97ac49e916d18/p_1500x1500/03428271240029_H1L1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-vitamine-1-0-mg-vita-vie-lactel-3428271240029?t=29297",
+    "name": "Lait Vitaminé 1,0% MG Vita'Vie LACTEL",
+    "price": 7.08,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le lait Lactel Vita'Vie est un lait 100% Français et adapté à toute la famille. Enrichi en 12 vitamines essentielles, Lactel Vita'Vie vous offre la garantie de profiter des bienfaits naturels du lait tout en faisant le plein d'énergie pour vivre une journée pleine de vitalité. Grâce notamment aux vitamines B et D, Lactel Vita'Vie contribue à votre bien-être en permettant le fonctionnement normal de votre système immunitaire et de votre métabolisme tout en préservant le plaisir et la douceur du lait.",
+    "scraped_at": "2025-09-24T22:17:25.574Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/3bf250152e8548caa38d324239b8d16f/p_1500x1500/03428274960078_H1L1_s01.png",
+    "url": "https://www.carrefour.fr/p/lait-chevre-uht-demi-ecreme-lactel-3428274960078?t=29297",
+    "name": "Lait Chèvre UHT Demi-Ecrémé LACTEL",
+    "price": 2.39,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le lait de chèvre Lactel est un lait au goût savoureux. Naturellement source de calcium et de protéines, il conviendra à toute la famille. Source de calcium et de protéines nécessaires au maintien d'une ossature normale",
+    "scraped_at": "2025-09-24T22:17:26.679Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/58bd33b38b4c4c55839f61536a8ce22d/p_1500x1500/03428273990083_H1L1_s02.png",
+    "url": "https://www.carrefour.fr/p/lait-sans-lactose-uht-1-2-mg-matin-leger-lactel-3428273990083?t=29297",
+    "name": "Lait Sans Lactose Uht 1,2% mg Matin Léger LACTEL",
+    "price": 10.86,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Matin Léger® de Lactel est un lait facile à digérer car il contient seulement 0,1% de lactose. Il convient aux personnes qui ont des difficultés à digérer le lait, à cause du lactose qu'il contient, et qui veulent continuer à profiter de tous ses bienfaits et de son bon goût ! Apporte autant de Calcium et de Protéines que le lait Lactel Classique.",
+    "scraped_at": "2025-09-24T22:17:27.176Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/db669399be354a95a2d9626aee32257f/p_1500x1500/03533630900039_H1L1_s02.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-sans-lactose-ecreme-candia-3533630900039?t=29297",
+    "name": "Lait sans lactose écrémé CANDIA",
+    "price": 9.48,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Le Sans lactose, une alternative au lait demi écrémé pour les intolérants au lactose. Réveillez-vous sur un petit nuage avec le Lait Sans Lactose de Candia. Un lait 100% français, au goût tout doux et facile à digérer. Contenant moins de 0,1% de lactose, Candia Le Lait Sans Lactose est plus facile à digérer qu'un lait classique.",
+    "scraped_at": "2025-09-24T22:17:34.488Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a5d0c5e030fe48be8f4fce604b2d3c5d/p_1500x1500/03175310002758_C1N1_s01.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-demi-ecreme-uht-le-petit-vendeen-3175310002758?t=29297",
+    "name": "Lait Demi-Ecreme UHT LE PETIT VENDEEN",
+    "price": 5.76,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "lait demi-écrémé",
+    "scraped_at": "2025-09-24T22:17:45.876Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/daebf48e6a854e59abbbf42c996d4518/p_1500x1500/03176571646002_A1L1_s04.jpeg",
+    "url": "https://www.carrefour.fr/p/lait-entier-grandlait-candia-3176571646002?t=29297",
+    "name": "Lait entier Grandlait CANDIA",
+    "price": 9.36,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "GrandLait Entier de Candia est un lait 100% français. Issu de la plus grande coopérative laitière de France et garantit une rémunération solidaire à ses éleveurs . Ce lait est synonyme de qualité et de savoir-faire avec sa charte de qualité. Celle-ci soutient les agriculteurs pour améliorer leurs pratiques d'élevage, privilégiant le bien-être animal et une empreinte environnementale maîtrisée. GrandLait intègre à ses packs un film comportant au moins 50% de matières recyclées.",
+    "scraped_at": "2025-09-24T22:17:50.873Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/6185c6c7e07f328b8c39055ddd7c434d/p_540x540/3560071425661-0.jpg",
+    "url": "https://www.carrefour.fr/p/lait-demi-ecreme-bio-carrefour-bio-3560071425661?t=29297",
+    "name": "Lait demi-écrémé Bio CARREFOUR BIO",
+    "price": 7.02,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez notre lait demi-écrémé stérilisé UHT Carrefour Bio, issu de l'agriculture biologique française. Un lait certifié AB qui offre une nutrition équilibrée avec une teneur réduite en matières grasses et en calories. Gardez votre lait frais et profitez de son goût délicieux dans les 3 jours après ouverture.",
+    "scraped_at": "2025-09-24T22:17:53.275Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/a81b47e3211e32f79d0aedd34a4a4d9c/p_1500x1500/3560071013424-photosite-20170804-130114-0.jpg",
+    "url": "https://www.carrefour.fr/p/lait-uht-pl-demi-ecreme-du-grand-ouest-carrefour-3560071013424?t=29297",
+    "name": "Lait UHT PL Demi-Ecreme du Grand Ouest CARREFOUR",
+    "price": 6.30,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le lait demi-écrémé Carrefour, issu du Grand Ouest de la France. En choisissant ce produit, vous contribuez au développement économique local tout en limitant l'impact sur l'environnement.",
+    "scraped_at": "2025-09-24T22:17:53.482Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/50346c708a813acbae056b0192c76698/p_1500x1500/3560071013462-photosite-20170627-161912-0.jpg",
+    "url": "https://www.carrefour.fr/p/lait-demi-ecreme-sterilise-uht-calcium-du-centre-de-la-france-carrefour-3560071013462?t=29297",
+    "name": "Lait Demi-Ecreme Stérilisé UHT Calcium du Centre de la France CARREFOUR",
+    "price": 6.3,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le lait demi-écrémé Carrefour, issu des campagnes du centre de la France, et participez ainsi au développement économique local. En choisissant ce lait, vous contribuez également à la lutte contre le réchauffement climatique en limitant le transport.",
+    "scraped_at": "2025-09-24T22:17:55.073Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/498b797563aa4acd997b68634506d6b3/p_1500x1500/03248340054070_A1N1_s03.png",
+    "url": "https://www.carrefour.fr/p/lait-demi-ecreme-sterilise-uht-c-est-qui-le-patron-3248340054070?t=29297",
+    "name": "Lait Demi-Ecreme Stérilisé UHT C'EST QUI LE PATRON ?!",
+    "price": 7.62,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Rémunération des producteurs : Rémunération permettant au producteur d'être payé au juste prix de son travail, de se faire remplacer et d'investir sur son exploitation (0,54 €​ minimum par litre de lait équitable français CQLP) Origine du lait équitable CQLP : France Pâturage : 4 mois minimum dans l'année Alimentation des vaches hors pâturage : alimentation garantie sans OGM (",
+    "scraped_at": "2025-09-24T22:17:55.182Z"
+  },
+  {
+    "main_image": "https://media.carrefour.fr/medias/b866544ee576405aaa39671785cb6d8d/p_1500x1500/3560071013387_0.jpg",
+    "url": "https://www.carrefour.fr/p/lait-des-campagnes-demi-ecreme-carrefour-classic-3560071013387?t=29297",
+    "name": "Lait des campagnes demi-écrémé CARREFOUR CLASSIC'",
+    "price": 6.30,
+    "regular_price": 0,
+    "currency": "EUR",
+    "description": "Découvrez le lait demi-écrémé Carrefour, un produit originaire des plaines du nord de la France. En favorisant ce lait local, vous soutenez le développement économique de la région tout en contribuant à la lutte contre le réchauffement climatique.",
+    "scraped_at": "2025-09-24T22:18:00.477Z"
+  }
+]
